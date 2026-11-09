@@ -1,0 +1,176 @@
+# Artist | Album  (one per artist; skip-existing handles any you already have)
+2Pac | All Eyez on Me
+50 Cent | Get Rich or Die Tryin'
+Aerosmith | Toys in the Attic
+Aitana | Alpha
+Alan Jackson | Drive
+Alec Benjamin | Narrated For You
+Anne-Marie | Speak Your Mind
+Ashanti | Ashanti
+Aventura | God's Project
+BIA | For Certain
+BROCKHAMPTON | SATURATION III
+Bastille | Bad Blood
+Beabadoobee | Beatopia
+Becky Hill | Believe Me Now?
+Bee Gees | Saturday Night Fever
+Billy Joel | The Stranger
+Black Eyed Peas | The E.N.D.
+Blake Shelton | Based on a True Story...
+BoA | Only One
+Bob Marley & The Wailers | Legend
+Bon Jovi | Slippery When Wet
+Bryson Tiller | TRAPSOUL
+C. Tangana | El Madrileño
+CL | In the Name of Love
+CORTIS | COLOR OUTSIDE THE LINES
+Carlos Vives | Clásicos de la Provincia
+Cazzu | Nena Trampa
+Chayanne | Atado a Tu Amor
+Chencho Corleone | Los Dioses
+Childish Gambino | Awaken, My Love!
+Ciara | Goodies
+Cigarettes After Sex | Cigarettes After Sex
+Clairo | Immunity
+Clean Bandit | New Eyes
+Cody Johnson | Human
+Coi Leray | Trendsetter
+Conan Gray | Superache
+Creedence Clearwater Revival | Cosmo's Factory
+DAY6 | The Book of Us: Gravity
+Dan + Shay | Good Things
+Danny Ocean | 54+1
+Dean Lewis | A Place We Knew
+Dire Straits | Brothers in Arms
+Disclosure | Settle
+Don Omar | King of Kings
+EVERGLOW | Return of the Girl
+Earth, Wind & Fire | That's the Way of the World
+Ella Mai | Ella Mai
+Enrique Iglesias | Euphoria
+Eslabon Armado | Desvelado
+FIFTY FIFTY | The Beginning: Cupid
+Florida Georgia Line | Here's to the Good Times
+Flume | Skin
+Foster The People | Torches
+Frank Sinatra | Songs for Swingin' Lovers!
+GFRIEND | Time for Us
+GOT7 | Flight Log: Turbulence
+Galantis | Pharmacy
+George Ezra | Staying at Tamara's
+George Michael | Faith
+George Strait | Strait Out of the Box
+Giveon | When It's All Said and Done... Take Time
+Glass Animals | Dreamland
+Gunna | DS4EVER
+HUNTR/X | KPop Demon Hunters (Soundtrack from the Netflix Film)
+Hailee Steinfeld | Haiz
+Hearts2Hearts | FOCUS
+Hozier | Hozier
+Hwasa | María
+IZ*ONE | Heart*IZ
+Ice Cube | AmeriKKKa's Most Wanted
+Iggy Azalea | The New Classic
+Ivan Cornejo | Dañado
+James Arthur | James Arthur
+Jelly Roll | Whitsitt Chapel
+Jeremih | Late Nights
+Jesse & Joy | Un Besito Más
+Jhay Cortez | Famouz
+Jonas Blue | Blue
+Jorja Smith | Lost & Found
+Journey | Escape
+Juanes | Mi Sangre
+Justin Timberlake | FutureSex/LoveSounds
+KATSEYE | Beautiful Chaos
+KISS OF LIFE | Lose Yourself
+Ke Personajes | Ke Personajes
+Kings of Leon | Only by the Night
+Lauv | ~how i'm feeling~
+Lee Hi | 4 Only
+Lil Peep | Come Over When You're Sober, Pt. 1
+Lil Tecca | Virgo World
+Lil Uzi Vert | Luv Is Rage 2
+Lizzo | Cuz I Love You
+Logic | Everybody
+Lord Huron | Strange Trails
+Lost Frequencies | Less Is More
+Ludacris | Word of Mouf
+Luis Miguel | Romances
+Lunay | Épico
+MOMOLAND | Show Me
+Mac DeMarco | 2
+Madison Beer | Life Support
+Major Lazer | Peace Is the Mission
+Manuel Turizo | ADN
+Maná | ¿Dónde Jugarán los Niños?
+Maren Morris | GIRL
+Maria Becerra | Animal
+Mary J. Blige | My Life
+Mitski | Be the Cowboy
+Måneskin | Teatro d'ira - Vol. I
+NAV | Bad Habits
+NCT | NCT 2020 RESONANCE Pt. 1 - The 2nd Album
+NF | The Search
+Natti Natasha | Iluminada
+Ne-Yo | In My Own Words
+Nelly | Country Grammar
+Niall Horan | Flicker
+Nick Jonas | Nick Jonas
+ODESZA | A Moment Apart
+Oasis | (What's the Story) Morning Glory?
+OneRepublic | Native
+PARTYNEXTDOOR | PARTYNEXTDOOR 3 (P3)
+PENTAGON | Genie:us
+PSY | PSY 6 (Six Rules), Part 1
+Panic! At The Disco | A Fever You Can't Sweat Out
+Paulo Londra | Homerun
+Pink Floyd | The Dark Side of the Moon
+Pitbull | Planet Pit
+Playboi Carti | Whole Lotta Red
+Quevedo | Donde Quiero Estar
+RÜFÜS DU SOL | Surrender
+Radiohead | OK Computer
+Rae Sremmurd | SremmLife
+Reik | Des/Amor
+Rels B | Rels B
+Remy Ma | There's Something About Remy
+Ricardo Arjona | Sin Daños a Terceros
+Ricky Martin | Ricky Martin
+SUGA | D-DAY
+Sam Hunt | Montevallo
+Selena | Amor Prohibido
+Shaboozey | Where I've Been, Isn't Where I'm Going
+Sigala | Brighter Days
+Simon & Garfunkel | Bridge over Troubled Water
+Sofia Carson | Sofia Carson
+Steve Lacy | Gemini Rights
+TINI | Quiero Volver
+THE ROSE | Heal
+TWS | Sparkling Blue
+Tame Impala | Currents
+Tears For Fears | Songs from the Big Chair
+Teddy Swims | I've Tried Everything but Therapy (Part 1)
+Tems | Born in the Wild
+The Cranberries | No Need to Argue
+The Cure | Disintegration
+The Kid LAROI | F*CK LOVE
+The Neighbourhood | I Love You.
+The Notorious B.I.G. | Ready to Die
+The Police | Synchronicity
+The Rolling Stones | Sticky Fingers
+Thomas Rhett | Life Changes
+Tory Lanez | I Told You
+Trey Songz | Trigga
+Tyler Childers | Purgatory
+WINNER | Our Twenty For
+Wizkid | Made in Lagos
+XG | AWE
+Yeat | 2 Alive
+Young Thug | So Much Fun
+ZICO | Random Box
+Zac Brown Band | You Get What You Give
+Zayn | Mind of Mine
+a-ha | Hunting High and Low
+iKON | Return
+Bizarrap | Bzrp Music Sessions, Vol. 52

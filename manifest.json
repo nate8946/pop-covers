@@ -3274,6 +3274,941 @@
    "artist": "JAY-Z",
    "album": "4:44",
    "file": "albums/jay-z--4-44.jpg"
+  },
+  {
+   "artist": "2Pac",
+   "album": "All Eyez on Me",
+   "file": "albums/2pac--all-eyez-on-me.jpg"
+  },
+  {
+   "artist": "50 Cent",
+   "album": "Get Rich or Die Tryin'",
+   "file": "albums/50-cent--get-rich-or-die-tryin.jpg"
+  },
+  {
+   "artist": "Aerosmith",
+   "album": "Toys in the Attic",
+   "file": "albums/aerosmith--toys-in-the-attic.jpg"
+  },
+  {
+   "artist": "Aitana",
+   "album": "Alpha",
+   "file": "albums/aitana--alpha.jpg"
+  },
+  {
+   "artist": "Alan Jackson",
+   "album": "Drive",
+   "file": "albums/alan-jackson--drive.jpg"
+  },
+  {
+   "artist": "Alec Benjamin",
+   "album": "Narrated For You",
+   "file": "albums/alec-benjamin--narrated-for-you.jpg"
+  },
+  {
+   "artist": "Aventura",
+   "album": "God's Project",
+   "file": "albums/aventura--god-s-project.jpg"
+  },
+  {
+   "artist": "BIA",
+   "album": "For Certain",
+   "file": "albums/bia--for-certain.jpg"
+  },
+  {
+   "artist": "BROCKHAMPTON",
+   "album": "SATURATION III",
+   "file": "albums/brockhampton--saturation-iii.jpg"
+  },
+  {
+   "artist": "Bastille",
+   "album": "Bad Blood",
+   "file": "albums/bastille--bad-blood.jpg"
+  },
+  {
+   "artist": "Becky Hill",
+   "album": "Believe Me Now?",
+   "file": "albums/becky-hill--believe-me-now.jpg"
+  },
+  {
+   "artist": "Bee Gees",
+   "album": "Saturday Night Fever",
+   "file": "albums/bee-gees--saturday-night-fever.jpg"
+  },
+  {
+   "artist": "Billy Joel",
+   "album": "The Stranger",
+   "file": "albums/billy-joel--the-stranger.jpg"
+  },
+  {
+   "artist": "Black Eyed Peas",
+   "album": "The E.N.D.",
+   "file": "albums/black-eyed-peas--the-e-n-d.jpg"
+  },
+  {
+   "artist": "Blake Shelton",
+   "album": "Based on a True Story...",
+   "file": "albums/blake-shelton--based-on-a-true-story.jpg"
+  },
+  {
+   "artist": "BoA",
+   "album": "Only One",
+   "file": "albums/boa--only-one.jpg"
+  },
+  {
+   "artist": "Bon Jovi",
+   "album": "Slippery When Wet",
+   "file": "albums/bon-jovi--slippery-when-wet.jpg"
+  },
+  {
+   "artist": "Bryson Tiller",
+   "album": "TRAPSOUL",
+   "file": "albums/bryson-tiller--trapsoul.jpg"
+  },
+  {
+   "artist": "C. Tangana",
+   "album": "El Madrileño",
+   "file": "albums/c-tangana--el-madrileno.jpg"
+  },
+  {
+   "artist": "CL",
+   "album": "In the Name of Love",
+   "file": "albums/cl--in-the-name-of-love.jpg"
+  },
+  {
+   "artist": "Carlos Vives",
+   "album": "Clásicos de la Provincia",
+   "file": "albums/carlos-vives--clasicos-de-la-provincia.jpg"
+  },
+  {
+   "artist": "Cazzu",
+   "album": "Nena Trampa",
+   "file": "albums/cazzu--nena-trampa.jpg"
+  },
+  {
+   "artist": "Chayanne",
+   "album": "Atado a Tu Amor",
+   "file": "albums/chayanne--atado-a-tu-amor.jpg"
+  },
+  {
+   "artist": "Childish Gambino",
+   "album": "Awaken, My Love!",
+   "file": "albums/childish-gambino--awaken-my-love.jpg"
+  },
+  {
+   "artist": "Cigarettes After Sex",
+   "album": "Cigarettes After Sex",
+   "file": "albums/cigarettes-after-sex--cigarettes-after-sex.jpg"
+  },
+  {
+   "artist": "Clean Bandit",
+   "album": "New Eyes",
+   "file": "albums/clean-bandit--new-eyes.jpg"
+  },
+  {
+   "artist": "Conan Gray",
+   "album": "Superache",
+   "file": "albums/conan-gray--superache.jpg"
+  },
+  {
+   "artist": "Creedence Clearwater Revival",
+   "album": "Cosmo's Factory",
+   "file": "albums/creedence-clearwater-revival--cosmo-s-factory.jpg"
+  },
+  {
+   "artist": "Dan + Shay",
+   "album": "Good Things",
+   "file": "albums/dan-shay--good-things.jpg"
+  },
+  {
+   "artist": "Danny Ocean",
+   "album": "54+1",
+   "file": "albums/danny-ocean--54-1.jpg"
+  },
+  {
+   "artist": "Dean Lewis",
+   "album": "A Place We Knew",
+   "file": "albums/dean-lewis--a-place-we-knew.jpg"
+  },
+  {
+   "artist": "Dire Straits",
+   "album": "Brothers in Arms",
+   "file": "albums/dire-straits--brothers-in-arms.jpg"
+  },
+  {
+   "artist": "Disclosure",
+   "album": "Settle",
+   "file": "albums/disclosure--settle.jpg"
+  },
+  {
+   "artist": "Don Omar",
+   "album": "King of Kings",
+   "file": "albums/don-omar--king-of-kings.jpg"
+  },
+  {
+   "artist": "EVERGLOW",
+   "album": "Return of the Girl",
+   "file": "albums/everglow--return-of-the-girl.jpg"
+  },
+  {
+   "artist": "Earth, Wind & Fire",
+   "album": "That's the Way of the World",
+   "file": "albums/earth-wind-fire--that-s-the-way-of-the-world.jpg"
+  },
+  {
+   "artist": "Ella Mai",
+   "album": "Ella Mai",
+   "file": "albums/ella-mai--ella-mai.jpg"
+  },
+  {
+   "artist": "Enrique Iglesias",
+   "album": "Euphoria",
+   "file": "albums/enrique-iglesias--euphoria.jpg"
+  },
+  {
+   "artist": "Eslabon Armado",
+   "album": "Desvelado",
+   "file": "albums/eslabon-armado--desvelado.jpg"
+  },
+  {
+   "artist": "FIFTY FIFTY",
+   "album": "The Beginning: Cupid",
+   "file": "albums/fifty-fifty--the-beginning-cupid.jpg"
+  },
+  {
+   "artist": "Florida Georgia Line",
+   "album": "Here's to the Good Times",
+   "file": "albums/florida-georgia-line--here-s-to-the-good-times.jpg"
+  },
+  {
+   "artist": "Flume",
+   "album": "Skin",
+   "file": "albums/flume--skin.jpg"
+  },
+  {
+   "artist": "Foster The People",
+   "album": "Torches",
+   "file": "albums/foster-the-people--torches.jpg"
+  },
+  {
+   "artist": "Frank Sinatra",
+   "album": "Songs for Swingin' Lovers!",
+   "file": "albums/frank-sinatra--songs-for-swingin-lovers.jpg"
+  },
+  {
+   "artist": "GFRIEND",
+   "album": "Time for Us",
+   "file": "albums/gfriend--time-for-us.jpg"
+  },
+  {
+   "artist": "Galantis",
+   "album": "Pharmacy",
+   "file": "albums/galantis--pharmacy.jpg"
+  },
+  {
+   "artist": "George Ezra",
+   "album": "Staying at Tamara's",
+   "file": "albums/george-ezra--staying-at-tamara-s.jpg"
+  },
+  {
+   "artist": "George Michael",
+   "album": "Faith",
+   "file": "albums/george-michael--faith.jpg"
+  },
+  {
+   "artist": "George Strait",
+   "album": "Strait Out of the Box",
+   "file": "albums/george-strait--strait-out-of-the-box.jpg"
+  },
+  {
+   "artist": "Glass Animals",
+   "album": "Dreamland",
+   "file": "albums/glass-animals--dreamland.jpg"
+  },
+  {
+   "artist": "Gunna",
+   "album": "DS4EVER",
+   "file": "albums/gunna--ds4ever.jpg"
+  },
+  {
+   "artist": "HUNTR/X",
+   "album": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+   "file": "albums/huntr-x--kpop-demon-hunters-soundtrack-from-the-netflix-film.jpg"
+  },
+  {
+   "artist": "Hailee Steinfeld",
+   "album": "Haiz",
+   "file": "albums/hailee-steinfeld--haiz.jpg"
+  },
+  {
+   "artist": "Hozier",
+   "album": "Hozier",
+   "file": "albums/hozier--hozier.jpg"
+  },
+  {
+   "artist": "IZ*ONE",
+   "album": "Heart*IZ",
+   "file": "albums/iz-one--heart-iz.jpg"
+  },
+  {
+   "artist": "Ice Cube",
+   "album": "AmeriKKKa's Most Wanted",
+   "file": "albums/ice-cube--amerikkka-s-most-wanted.jpg"
+  },
+  {
+   "artist": "Ivan Cornejo",
+   "album": "Dañado",
+   "file": "albums/ivan-cornejo--danado.jpg"
+  },
+  {
+   "artist": "James Arthur",
+   "album": "James Arthur",
+   "file": "albums/james-arthur--james-arthur.jpg"
+  },
+  {
+   "artist": "Jelly Roll",
+   "album": "Whitsitt Chapel",
+   "file": "albums/jelly-roll--whitsitt-chapel.jpg"
+  },
+  {
+   "artist": "Jeremih",
+   "album": "Late Nights",
+   "file": "albums/jeremih--late-nights.jpg"
+  },
+  {
+   "artist": "Jesse & Joy",
+   "album": "Un Besito Más",
+   "file": "albums/jesse-joy--un-besito-mas.jpg"
+  },
+  {
+   "artist": "Jhay Cortez",
+   "album": "Famouz",
+   "file": "albums/jhay-cortez--famouz.jpg"
+  },
+  {
+   "artist": "Jonas Blue",
+   "album": "Blue",
+   "file": "albums/jonas-blue--blue.jpg"
+  },
+  {
+   "artist": "Jorja Smith",
+   "album": "Lost & Found",
+   "file": "albums/jorja-smith--lost-found.jpg"
+  },
+  {
+   "artist": "Journey",
+   "album": "Escape",
+   "file": "albums/journey--escape.jpg"
+  },
+  {
+   "artist": "Juanes",
+   "album": "Mi Sangre",
+   "file": "albums/juanes--mi-sangre.jpg"
+  },
+  {
+   "artist": "Justin Timberlake",
+   "album": "FutureSex/LoveSounds",
+   "file": "albums/justin-timberlake--futuresex-lovesounds.jpg"
+  },
+  {
+   "artist": "KATSEYE",
+   "album": "Beautiful Chaos",
+   "file": "albums/katseye--beautiful-chaos.jpg"
+  },
+  {
+   "artist": "KISS OF LIFE",
+   "album": "Lose Yourself",
+   "file": "albums/kiss-of-life--lose-yourself.jpg"
+  },
+  {
+   "artist": "Kings of Leon",
+   "album": "Only by the Night",
+   "file": "albums/kings-of-leon--only-by-the-night.jpg"
+  },
+  {
+   "artist": "Lauv",
+   "album": "~how i'm feeling~",
+   "file": "albums/lauv--how-i-m-feeling.jpg"
+  },
+  {
+   "artist": "Lee Hi",
+   "album": "4 Only",
+   "file": "albums/lee-hi--4-only.jpg"
+  },
+  {
+   "artist": "Lil Peep",
+   "album": "Come Over When You're Sober, Pt. 1",
+   "file": "albums/lil-peep--come-over-when-you-re-sober-pt-1.jpg"
+  },
+  {
+   "artist": "Lil Tecca",
+   "album": "Virgo World",
+   "file": "albums/lil-tecca--virgo-world.jpg"
+  },
+  {
+   "artist": "Lil Uzi Vert",
+   "album": "Luv Is Rage 2",
+   "file": "albums/lil-uzi-vert--luv-is-rage-2.jpg"
+  },
+  {
+   "artist": "Logic",
+   "album": "Everybody",
+   "file": "albums/logic--everybody.jpg"
+  },
+  {
+   "artist": "Lord Huron",
+   "album": "Strange Trails",
+   "file": "albums/lord-huron--strange-trails.jpg"
+  },
+  {
+   "artist": "Lost Frequencies",
+   "album": "Less Is More",
+   "file": "albums/lost-frequencies--less-is-more.jpg"
+  },
+  {
+   "artist": "Ludacris",
+   "album": "Word of Mouf",
+   "file": "albums/ludacris--word-of-mouf.jpg"
+  },
+  {
+   "artist": "Luis Miguel",
+   "album": "Romances",
+   "file": "albums/luis-miguel--romances.jpg"
+  },
+  {
+   "artist": "Lunay",
+   "album": "Épico",
+   "file": "albums/lunay--epico.jpg"
+  },
+  {
+   "artist": "MOMOLAND",
+   "album": "Show Me",
+   "file": "albums/momoland--show-me.jpg"
+  },
+  {
+   "artist": "Mac DeMarco",
+   "album": "2",
+   "file": "albums/mac-demarco--2.jpg"
+  },
+  {
+   "artist": "Madison Beer",
+   "album": "Life Support",
+   "file": "albums/madison-beer--life-support.jpg"
+  },
+  {
+   "artist": "Major Lazer",
+   "album": "Peace Is the Mission",
+   "file": "albums/major-lazer--peace-is-the-mission.jpg"
+  },
+  {
+   "artist": "Manuel Turizo",
+   "album": "ADN",
+   "file": "albums/manuel-turizo--adn.jpg"
+  },
+  {
+   "artist": "Maná",
+   "album": "¿Dónde Jugarán los Niños?",
+   "file": "albums/mana--donde-jugaran-los-ninos.jpg"
+  },
+  {
+   "artist": "Maren Morris",
+   "album": "GIRL",
+   "file": "albums/maren-morris--girl.jpg"
+  },
+  {
+   "artist": "Maria Becerra",
+   "album": "Animal",
+   "file": "albums/maria-becerra--animal.jpg"
+  },
+  {
+   "artist": "Måneskin",
+   "album": "Teatro d'ira - Vol. I",
+   "file": "albums/m-neskin--teatro-d-ira-vol-i.jpg"
+  },
+  {
+   "artist": "NAV",
+   "album": "Bad Habits",
+   "file": "albums/nav--bad-habits.jpg"
+  },
+  {
+   "artist": "NCT",
+   "album": "NCT 2020 RESONANCE Pt. 1 - The 2nd Album",
+   "file": "albums/nct--nct-2020-resonance-pt-1-the-2nd-album.jpg"
+  },
+  {
+   "artist": "NF",
+   "album": "The Search",
+   "file": "albums/nf--the-search.jpg"
+  },
+  {
+   "artist": "Natti Natasha",
+   "album": "Iluminada",
+   "file": "albums/natti-natasha--iluminada.jpg"
+  },
+  {
+   "artist": "Ne-Yo",
+   "album": "In My Own Words",
+   "file": "albums/ne-yo--in-my-own-words.jpg"
+  },
+  {
+   "artist": "Nelly",
+   "album": "Country Grammar",
+   "file": "albums/nelly--country-grammar.jpg"
+  },
+  {
+   "artist": "Niall Horan",
+   "album": "Flicker",
+   "file": "albums/niall-horan--flicker.jpg"
+  },
+  {
+   "artist": "Nick Jonas",
+   "album": "Nick Jonas",
+   "file": "albums/nick-jonas--nick-jonas.jpg"
+  },
+  {
+   "artist": "ODESZA",
+   "album": "A Moment Apart",
+   "file": "albums/odesza--a-moment-apart.jpg"
+  },
+  {
+   "artist": "Oasis",
+   "album": "(What's the Story) Morning Glory?",
+   "file": "albums/oasis--what-s-the-story-morning-glory.jpg"
+  },
+  {
+   "artist": "OneRepublic",
+   "album": "Native",
+   "file": "albums/onerepublic--native.jpg"
+  },
+  {
+   "artist": "PARTYNEXTDOOR",
+   "album": "PARTYNEXTDOOR 3 (P3)",
+   "file": "albums/partynextdoor--partynextdoor-3-p3.jpg"
+  },
+  {
+   "artist": "PENTAGON",
+   "album": "Genie:us",
+   "file": "albums/pentagon--genie-us.jpg"
+  },
+  {
+   "artist": "Panic! At The Disco",
+   "album": "A Fever You Can't Sweat Out",
+   "file": "albums/panic-at-the-disco--a-fever-you-can-t-sweat-out.jpg"
+  },
+  {
+   "artist": "Paulo Londra",
+   "album": "Homerun",
+   "file": "albums/paulo-londra--homerun.jpg"
+  },
+  {
+   "artist": "Pink Floyd",
+   "album": "The Dark Side of the Moon",
+   "file": "albums/pink-floyd--the-dark-side-of-the-moon.jpg"
+  },
+  {
+   "artist": "Pitbull",
+   "album": "Planet Pit",
+   "file": "albums/pitbull--planet-pit.jpg"
+  },
+  {
+   "artist": "Playboi Carti",
+   "album": "Whole Lotta Red",
+   "file": "albums/playboi-carti--whole-lotta-red.jpg"
+  },
+  {
+   "artist": "Quevedo",
+   "album": "Donde Quiero Estar",
+   "file": "albums/quevedo--donde-quiero-estar.jpg"
+  },
+  {
+   "artist": "RÜFÜS DU SOL",
+   "album": "Surrender",
+   "file": "albums/r-f-s-du-sol--surrender.jpg"
+  },
+  {
+   "artist": "Radiohead",
+   "album": "OK Computer",
+   "file": "albums/radiohead--ok-computer.jpg"
+  },
+  {
+   "artist": "Rae Sremmurd",
+   "album": "SremmLife",
+   "file": "albums/rae-sremmurd--sremmlife.jpg"
+  },
+  {
+   "artist": "Reik",
+   "album": "Des/Amor",
+   "file": "albums/reik--des-amor.jpg"
+  },
+  {
+   "artist": "Remy Ma",
+   "album": "There's Something About Remy",
+   "file": "albums/remy-ma--there-s-something-about-remy.jpg"
+  },
+  {
+   "artist": "Ricardo Arjona",
+   "album": "Sin Daños a Terceros",
+   "file": "albums/ricardo-arjona--sin-danos-a-terceros.jpg"
+  },
+  {
+   "artist": "Ricky Martin",
+   "album": "Ricky Martin",
+   "file": "albums/ricky-martin--ricky-martin.jpg"
+  },
+  {
+   "artist": "Sam Hunt",
+   "album": "Montevallo",
+   "file": "albums/sam-hunt--montevallo.jpg"
+  },
+  {
+   "artist": "Selena",
+   "album": "Amor Prohibido",
+   "file": "albums/selena--amor-prohibido.jpg"
+  },
+  {
+   "artist": "Shaboozey",
+   "album": "Where I've Been, Isn't Where I'm Going",
+   "file": "albums/shaboozey--where-i-ve-been-isn-t-where-i-m-going.jpg"
+  },
+  {
+   "artist": "Sigala",
+   "album": "Brighter Days",
+   "file": "albums/sigala--brighter-days.jpg"
+  },
+  {
+   "artist": "Simon & Garfunkel",
+   "album": "Bridge over Troubled Water",
+   "file": "albums/simon-garfunkel--bridge-over-troubled-water.jpg"
+  },
+  {
+   "artist": "Sofia Carson",
+   "album": "Sofia Carson",
+   "file": "albums/sofia-carson--sofia-carson.jpg"
+  },
+  {
+   "artist": "Steve Lacy",
+   "album": "Gemini Rights",
+   "file": "albums/steve-lacy--gemini-rights.jpg"
+  },
+  {
+   "artist": "TINI",
+   "album": "Quiero Volver",
+   "file": "albums/tini--quiero-volver.jpg"
+  },
+  {
+   "artist": "THE ROSE",
+   "album": "Heal",
+   "file": "albums/the-rose--heal.jpg"
+  },
+  {
+   "artist": "TWS",
+   "album": "Sparkling Blue",
+   "file": "albums/tws--sparkling-blue.jpg"
+  },
+  {
+   "artist": "Tame Impala",
+   "album": "Currents",
+   "file": "albums/tame-impala--currents.jpg"
+  },
+  {
+   "artist": "Tears For Fears",
+   "album": "Songs from the Big Chair",
+   "file": "albums/tears-for-fears--songs-from-the-big-chair.jpg"
+  },
+  {
+   "artist": "Teddy Swims",
+   "album": "I've Tried Everything but Therapy (Part 1)",
+   "file": "albums/teddy-swims--i-ve-tried-everything-but-therapy-part-1.jpg"
+  },
+  {
+   "artist": "Tems",
+   "album": "Born in the Wild",
+   "file": "albums/tems--born-in-the-wild.jpg"
+  },
+  {
+   "artist": "The Cranberries",
+   "album": "No Need to Argue",
+   "file": "albums/the-cranberries--no-need-to-argue.jpg"
+  },
+  {
+   "artist": "The Cure",
+   "album": "Disintegration",
+   "file": "albums/the-cure--disintegration.jpg"
+  },
+  {
+   "artist": "The Neighbourhood",
+   "album": "I Love You.",
+   "file": "albums/the-neighbourhood--i-love-you.jpg"
+  },
+  {
+   "artist": "The Notorious B.I.G.",
+   "album": "Ready to Die",
+   "file": "albums/the-notorious-b-i-g--ready-to-die.jpg"
+  },
+  {
+   "artist": "The Police",
+   "album": "Synchronicity",
+   "file": "albums/the-police--synchronicity.jpg"
+  },
+  {
+   "artist": "The Rolling Stones",
+   "album": "Sticky Fingers",
+   "file": "albums/the-rolling-stones--sticky-fingers.jpg"
+  },
+  {
+   "artist": "Thomas Rhett",
+   "album": "Life Changes",
+   "file": "albums/thomas-rhett--life-changes.jpg"
+  },
+  {
+   "artist": "Tory Lanez",
+   "album": "I Told You",
+   "file": "albums/tory-lanez--i-told-you.jpg"
+  },
+  {
+   "artist": "Trey Songz",
+   "album": "Trigga",
+   "file": "albums/trey-songz--trigga.jpg"
+  },
+  {
+   "artist": "Tyler Childers",
+   "album": "Purgatory",
+   "file": "albums/tyler-childers--purgatory.jpg"
+  },
+  {
+   "artist": "WINNER",
+   "album": "Our Twenty For",
+   "file": "albums/winner--our-twenty-for.jpg"
+  },
+  {
+   "artist": "Wizkid",
+   "album": "Made in Lagos",
+   "file": "albums/wizkid--made-in-lagos.jpg"
+  },
+  {
+   "artist": "XG",
+   "album": "AWE",
+   "file": "albums/xg--awe.jpg"
+  },
+  {
+   "artist": "Yeat",
+   "album": "2 Alive",
+   "file": "albums/yeat--2-alive.jpg"
+  },
+  {
+   "artist": "Young Thug",
+   "album": "So Much Fun",
+   "file": "albums/young-thug--so-much-fun.jpg"
+  },
+  {
+   "artist": "ZICO",
+   "album": "Random Box",
+   "file": "albums/zico--random-box.jpg"
+  },
+  {
+   "artist": "Zac Brown Band",
+   "album": "You Get What You Give",
+   "file": "albums/zac-brown-band--you-get-what-you-give.jpg"
+  },
+  {
+   "artist": "Zayn",
+   "album": "Mind of Mine",
+   "file": "albums/zayn--mind-of-mine.jpg"
+  },
+  {
+   "artist": "a-ha",
+   "album": "Hunting High and Low",
+   "file": "albums/a-ha--hunting-high-and-low.jpg"
+  },
+  {
+   "artist": "iKON",
+   "album": "Return",
+   "file": "albums/ikon--return.jpg"
+  },
+  {
+   "artist": "Bizarrap",
+   "album": "Bzrp Music Sessions, Vol. 52",
+   "file": "albums/bizarrap--bzrp-music-sessions-vol-52.jpg"
+  },
+  {
+   "artist": "Axwell Λ Ingrosso",
+   "album": "More Than You Know",
+   "file": "albums/axwell-ingrosso--more-than-you-know.jpg"
+  },
+  {
+   "artist": "Ben E. King",
+   "album": "Don't Play That Song",
+   "file": "albums/ben-e-king--don-t-play-that-song.jpg"
+  },
+  {
+   "artist": "Camilo",
+   "album": "Mis Manos",
+   "file": "albums/camilo--mis-manos.jpg"
+  },
+  {
+   "artist": "Cassie",
+   "album": "Cassie",
+   "file": "albums/cassie--cassie.jpg"
+  },
+  {
+   "artist": "Christian Nodal",
+   "album": "AYAYAY!",
+   "file": "albums/christian-nodal--ayayay.jpg"
+  },
+  {
+   "artist": "Culture Club",
+   "album": "Colour by Numbers",
+   "file": "albums/culture-club--colour-by-numbers.jpg"
+  },
+  {
+   "artist": "DaBaby",
+   "album": "Kirk",
+   "file": "albums/dababy--kirk.jpg"
+  },
+  {
+   "artist": "Djo",
+   "album": "DECIDE",
+   "file": "albums/djo--decide.jpg"
+  },
+  {
+   "artist": "Duki",
+   "album": "Antes de Ameri",
+   "file": "albums/duki--antes-de-ameri.jpg"
+  },
+  {
+   "artist": "Eiffel 65",
+   "album": "Europop",
+   "file": "albums/eiffel-65--europop.jpg"
+  },
+  {
+   "artist": "Eladio Carrión",
+   "album": "Sen2 Kbrn, Vol. 1",
+   "file": "albums/eladio-carrion--sen2-kbrn-vol-1.jpg"
+  },
+  {
+   "artist": "Eurythmics",
+   "album": "Sweet Dreams (Are Made of This)",
+   "file": "albums/eurythmics--sweet-dreams-are-made-of-this.jpg"
+  },
+  {
+   "artist": "Gigi Perez",
+   "album": "At the Beach, In Every Life",
+   "file": "albums/gigi-perez--at-the-beach-in-every-life.jpg"
+  },
+  {
+   "artist": "Gotye",
+   "album": "Making Mirrors",
+   "file": "albums/gotye--making-mirrors.jpg"
+  },
+  {
+   "artist": "Kate Bush",
+   "album": "Hounds of Love",
+   "file": "albums/kate-bush--hounds-of-love.jpg"
+  },
+  {
+   "artist": "Mike Posner",
+   "album": "At Night, Alone.",
+   "file": "albums/mike-posner--at-night-alone.jpg"
+  },
+  {
+   "artist": "Natalie Imbruglia",
+   "album": "Left of the Middle",
+   "file": "albums/natalie-imbruglia--left-of-the-middle.jpg"
+  },
+  {
+   "artist": "Natanael Cano",
+   "album": "Corridos Tumbados",
+   "file": "albums/natanael-cano--corridos-tumbados.jpg"
+  },
+  {
+   "artist": "Passenger",
+   "album": "All the Little Lights",
+   "file": "albums/passenger--all-the-little-lights.jpg"
+  },
+  {
+   "artist": "Powfu",
+   "album": "poems of the past",
+   "file": "albums/powfu--poems-of-the-past.jpg"
+  },
+  {
+   "artist": "Ravyn Lenae",
+   "album": "Hypnos",
+   "file": "albums/ravyn-lenae--hypnos.jpg"
+  },
+  {
+   "artist": "Sech",
+   "album": "Sueños",
+   "file": "albums/sech--suenos.jpg"
+  },
+  {
+   "artist": "Simple Minds",
+   "album": "Once Upon a Time",
+   "file": "albums/simple-minds--once-upon-a-time.jpg"
+  },
+  {
+   "artist": "Sophie Ellis-Bextor",
+   "album": "Read My Lips",
+   "file": "albums/sophie-ellis-bextor--read-my-lips.jpg"
+  },
+  {
+   "artist": "Spandau Ballet",
+   "album": "True",
+   "file": "albums/spandau-ballet--true.jpg"
+  },
+  {
+   "artist": "Suki Waterhouse",
+   "album": "Memoir of a Sparklemuffin",
+   "file": "albums/suki-waterhouse--memoir-of-a-sparklemuffin.jpg"
+  },
+  {
+   "artist": "The Goo Goo Dolls",
+   "album": "Dizzy Up the Girl",
+   "file": "albums/the-goo-goo-dolls--dizzy-up-the-girl.jpg"
+  },
+  {
+   "artist": "Wham!",
+   "album": "Make It Big",
+   "file": "albums/wham--make-it-big.jpg"
+  },
+  {
+   "artist": "Wisin & Yandel",
+   "album": "Los Extraterrestres",
+   "file": "albums/wisin-yandel--los-extraterrestres.jpg"
+  },
+  {
+   "artist": "Wiz Khalifa",
+   "album": "Rolling Papers",
+   "file": "albums/wiz-khalifa--rolling-papers.jpg"
+  },
+  {
+   "artist": "bôa",
+   "album": "Twilight",
+   "file": "albums/b-a--twilight.jpg"
+  },
+  {
+   "artist": "Cody Johnson",
+   "album": "Leather",
+   "file": "albums/cody-johnson--leather.jpg"
+  },
+  {
+   "artist": "Hearts2Hearts",
+   "album": "The Chase",
+   "file": "albums/hearts2hearts--the-chase.jpg"
+  },
+  {
+   "artist": "The Kid LAROI",
+   "album": "The First Time",
+   "file": "albums/the-kid-laroi--the-first-time.jpg"
+  },
+  {
+   "artist": "Farruko",
+   "album": "La 167",
+   "file": "albums/farruko--la-167.jpg"
+  },
+  {
+   "artist": "Natasha Bedingfield",
+   "album": "Unwritten",
+   "file": "albums/natasha-bedingfield--unwritten.jpg"
   }
  ],
  "artists": [
