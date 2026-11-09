@@ -1,0 +1,4463 @@
+{
+ "albums": [
+  {
+   "artist": "Sabrina Carpenter",
+   "album": "Short n' Sweet",
+   "file": "albums/sabrina-carpenter--short-n-sweet.jpg"
+  },
+  {
+   "artist": "Olivia Rodrigo",
+   "album": "GUTS",
+   "file": "albums/olivia-rodrigo--guts.jpg"
+  },
+  {
+   "artist": "Sabrina Carpenter",
+   "album": "Man's Best Friend",
+   "file": "albums/sabrina-carpenter--man-s-best-friend.jpg"
+  },
+  {
+   "artist": "Billie Eilish",
+   "album": "Hit Me Hard and Soft",
+   "file": "albums/billie-eilish--hit-me-hard-and-soft.jpg"
+  },
+  {
+   "artist": "Charli xcx",
+   "album": "Brat",
+   "file": "albums/charli-xcx--brat.jpg"
+  },
+  {
+   "artist": "Chappell Roan",
+   "album": "The Rise and Fall of a Midwest Princess",
+   "file": "albums/chappell-roan--the-rise-and-fall-of-a-midwest-princess.jpg"
+  },
+  {
+   "artist": "Taylor Swift",
+   "album": "The Life of a Showgirl",
+   "file": "albums/taylor-swift--the-life-of-a-showgirl.jpg"
+  },
+  {
+   "artist": "Taylor Swift",
+   "album": "The Tortured Poets Department",
+   "file": "albums/taylor-swift--the-tortured-poets-department.jpg"
+  },
+  {
+   "artist": "Beyoncé",
+   "album": "Cowboy Carter",
+   "file": "albums/beyonce--cowboy-carter.jpg"
+  },
+  {
+   "artist": "SZA",
+   "album": "SOS",
+   "file": "albums/sza--sos.jpg"
+  },
+  {
+   "artist": "Beyoncé",
+   "album": "Renaissance",
+   "file": "albums/beyonce--renaissance.jpg"
+  },
+  {
+   "artist": "Dua Lipa",
+   "album": "Future Nostalgia",
+   "file": "albums/dua-lipa--future-nostalgia.jpg"
+  },
+  {
+   "artist": "Lady Gaga",
+   "album": "Chromatica",
+   "file": "albums/lady-gaga--chromatica.jpg"
+  },
+  {
+   "artist": "Ariana Grande",
+   "album": "thank u, next",
+   "file": "albums/ariana-grande--thank-u-next.jpg"
+  },
+  {
+   "artist": "Taylor Swift",
+   "album": "Lover",
+   "file": "albums/taylor-swift--lover.jpg"
+  },
+  {
+   "artist": "Cardi B",
+   "album": "Am I the Drama?",
+   "file": "albums/cardi-b--am-i-the-drama.jpg"
+  },
+  {
+   "artist": "Nicki Minaj",
+   "album": "Pink Friday 2",
+   "file": "albums/nicki-minaj--pink-friday-2.jpg"
+  },
+  {
+   "artist": "Beyoncé",
+   "album": "Lemonade",
+   "file": "albums/beyonce--lemonade.jpg"
+  },
+  {
+   "artist": "Rihanna",
+   "album": "ANTI",
+   "file": "albums/rihanna--anti.jpg"
+  },
+  {
+   "artist": "Taylor Swift",
+   "album": "1989",
+   "file": "albums/taylor-swift--1989.jpg"
+  },
+  {
+   "artist": "Ariana Grande",
+   "album": "My Everything",
+   "file": "albums/ariana-grande--my-everything.jpg"
+  },
+  {
+   "artist": "Billie Eilish",
+   "album": "Happier Than Ever",
+   "file": "albums/billie-eilish--happier-than-ever.jpg"
+  },
+  {
+   "artist": "Olivia Rodrigo",
+   "album": "SOUR",
+   "file": "albums/olivia-rodrigo--sour.jpg"
+  },
+  {
+   "artist": "Taylor Swift",
+   "album": "reputation",
+   "file": "albums/taylor-swift--reputation.jpg"
+  },
+  {
+   "artist": "Ariana Grande",
+   "album": "Dangerous Woman",
+   "file": "albums/ariana-grande--dangerous-woman.jpg"
+  },
+  {
+   "artist": "Doja Cat",
+   "album": "Planet Her",
+   "file": "albums/doja-cat--planet-her.jpg"
+  },
+  {
+   "artist": "Nicki Minaj",
+   "album": "Queen",
+   "file": "albums/nicki-minaj--queen.jpg"
+  },
+  {
+   "artist": "Cardi B",
+   "album": "Invasion of Privacy",
+   "file": "albums/cardi-b--invasion-of-privacy.jpg"
+  },
+  {
+   "artist": "Lady Gaga",
+   "album": "Born This Way",
+   "file": "albums/lady-gaga--born-this-way.jpg"
+  },
+  {
+   "artist": "Beyoncé",
+   "album": "Beyoncé",
+   "file": "albums/beyonce--beyonce.jpg"
+  },
+  {
+   "artist": "Katy Perry",
+   "album": "PRISM",
+   "file": "albums/katy-perry--prism.jpg"
+  },
+  {
+   "artist": "Lorde",
+   "album": "Pure Heroine",
+   "file": "albums/lorde--pure-heroine.jpg"
+  },
+  {
+   "artist": "Lana Del Rey",
+   "album": "Born to Die",
+   "file": "albums/lana-del-rey--born-to-die.jpg"
+  },
+  {
+   "artist": "Rihanna",
+   "album": "Good Girl Gone Bad: Reloaded",
+   "file": "albums/rihanna--good-girl-gone-bad-reloaded.jpg"
+  },
+  {
+   "artist": "Lady Gaga",
+   "album": "The Fame",
+   "file": "albums/lady-gaga--the-fame.jpg"
+  },
+  {
+   "artist": "P!nk",
+   "album": "The Truth About Love",
+   "file": "albums/p-nk--the-truth-about-love.jpg"
+  },
+  {
+   "artist": "Nicki Minaj",
+   "album": "Pink Friday: Roman Reloaded",
+   "file": "albums/nicki-minaj--pink-friday-roman-reloaded.jpg"
+  },
+  {
+   "artist": "Britney Spears",
+   "album": "...Baby One More Time",
+   "file": "albums/britney-spears--baby-one-more-time.jpg"
+  },
+  {
+   "artist": "Selena Gomez",
+   "album": "Revival",
+   "file": "albums/selena-gomez--revival.jpg"
+  },
+  {
+   "artist": "Miley Cyrus",
+   "album": "Bangerz",
+   "file": "albums/miley-cyrus--bangerz.jpg"
+  },
+  {
+   "artist": "Whitney Houston",
+   "album": "Whitney",
+   "file": "albums/whitney-houston--whitney.jpg"
+  },
+  {
+   "artist": "Celine Dion",
+   "album": "Let's Talk About Love",
+   "file": "albums/celine-dion--let-s-talk-about-love.jpg"
+  },
+  {
+   "artist": "Kelly Clarkson",
+   "album": "Breakaway",
+   "file": "albums/kelly-clarkson--breakaway.jpg"
+  },
+  {
+   "artist": "Cyndi Lauper",
+   "album": "She's So Unusual",
+   "file": "albums/cyndi-lauper--she-s-so-unusual.jpg"
+  },
+  {
+   "artist": "Avril Lavigne",
+   "album": "Let Go",
+   "file": "albums/avril-lavigne--let-go.jpg"
+  },
+  {
+   "artist": "Adele",
+   "album": "21",
+   "file": "albums/adele--21.jpg"
+  },
+  {
+   "artist": "Shakira",
+   "album": "Laundry Service",
+   "file": "albums/shakira--laundry-service.jpg"
+  },
+  {
+   "artist": "Mariah Carey",
+   "album": "Mariah Carey",
+   "file": "albums/mariah-carey--mariah-carey.jpg"
+  },
+  {
+   "artist": "Ariana Grande",
+   "album": "eternal sunshine",
+   "file": "albums/ariana-grande--eternal-sunshine.jpg"
+  },
+  {
+   "artist": "Taylor Swift",
+   "album": "Midnights",
+   "file": "albums/taylor-swift--midnights.jpg"
+  },
+  {
+   "artist": "Taylor Swift",
+   "album": "folklore",
+   "file": "albums/taylor-swift--folklore.jpg"
+  },
+  {
+   "artist": "Taylor Swift",
+   "album": "Red (Taylor's Version)",
+   "file": "albums/taylor-swift--red-taylor-s-version.jpg"
+  },
+  {
+   "artist": "Taylor Swift",
+   "album": "evermore",
+   "file": "albums/taylor-swift--evermore.jpg"
+  },
+  {
+   "artist": "Taylor Swift",
+   "album": "Fearless (Taylor's Version)",
+   "file": "albums/taylor-swift--fearless-taylor-s-version.jpg"
+  },
+  {
+   "artist": "Taylor Swift",
+   "album": "Speak Now (Taylor's Version)",
+   "file": "albums/taylor-swift--speak-now-taylor-s-version.jpg"
+  },
+  {
+   "artist": "Taylor Swift",
+   "album": "1989 (Taylor's Version)",
+   "file": "albums/taylor-swift--1989-taylor-s-version.jpg"
+  },
+  {
+   "artist": "Taylor Swift",
+   "album": "Taylor Swift",
+   "file": "albums/taylor-swift--taylor-swift.jpg"
+  },
+  {
+   "artist": "Taylor Swift",
+   "album": "Speak Now",
+   "file": "albums/taylor-swift--speak-now.jpg"
+  },
+  {
+   "artist": "Taylor Swift",
+   "album": "Red",
+   "file": "albums/taylor-swift--red.jpg"
+  },
+  {
+   "artist": "Taylor Swift",
+   "album": "Fearless",
+   "file": "albums/taylor-swift--fearless.jpg"
+  },
+  {
+   "artist": "Beyoncé",
+   "album": "4",
+   "file": "albums/beyonce--4.jpg"
+  },
+  {
+   "artist": "Beyoncé",
+   "album": "I AM...SASHA FIERCE",
+   "file": "albums/beyonce--i-am-sasha-fierce.jpg"
+  },
+  {
+   "artist": "Beyoncé",
+   "album": "Dangerously in Love",
+   "file": "albums/beyonce--dangerously-in-love.jpg"
+  },
+  {
+   "artist": "Beyoncé",
+   "album": "HOMECOMING: THE LIVE ALBUM",
+   "file": "albums/beyonce--homecoming-the-live-album.jpg"
+  },
+  {
+   "artist": "Beyoncé",
+   "album": "B'Day",
+   "file": "albums/beyonce--b-day.jpg"
+  },
+  {
+   "artist": "Beyoncé",
+   "album": "The Lion King: The Gift",
+   "file": "albums/beyonce--the-lion-king-the-gift.jpg"
+  },
+  {
+   "artist": "Ariana Grande",
+   "album": "Sweetener",
+   "file": "albums/ariana-grande--sweetener.jpg"
+  },
+  {
+   "artist": "Ariana Grande",
+   "album": "Positions",
+   "file": "albums/ariana-grande--positions.jpg"
+  },
+  {
+   "artist": "Ariana Grande",
+   "album": "petal",
+   "file": "albums/ariana-grande--petal.jpg"
+  },
+  {
+   "artist": "Ariana Grande",
+   "album": "Yours Truly",
+   "file": "albums/ariana-grande--yours-truly.jpg"
+  },
+  {
+   "artist": "Rihanna",
+   "album": "Loud",
+   "file": "albums/rihanna--loud.jpg"
+  },
+  {
+   "artist": "Rihanna",
+   "album": "Unapologetic",
+   "file": "albums/rihanna--unapologetic.jpg"
+  },
+  {
+   "artist": "Rihanna",
+   "album": "Talk That Talk",
+   "file": "albums/rihanna--talk-that-talk.jpg"
+  },
+  {
+   "artist": "Rihanna",
+   "album": "Rated R",
+   "file": "albums/rihanna--rated-r.jpg"
+  },
+  {
+   "artist": "Rihanna",
+   "album": "A Girl Like Me",
+   "file": "albums/rihanna--a-girl-like-me.jpg"
+  },
+  {
+   "artist": "Rihanna",
+   "album": "Music of the Sun",
+   "file": "albums/rihanna--music-of-the-sun.jpg"
+  },
+  {
+   "artist": "Rihanna",
+   "album": "Good Girl Gone Bad",
+   "file": "albums/rihanna--good-girl-gone-bad.jpg"
+  },
+  {
+   "artist": "Billie Eilish",
+   "album": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+   "file": "albums/billie-eilish--when-we-all-fall-asleep-where-do-we-go.jpg"
+  },
+  {
+   "artist": "Billie Eilish",
+   "album": "dont smile at me",
+   "file": "albums/billie-eilish--dont-smile-at-me.jpg"
+  },
+  {
+   "artist": "Lana Del Rey",
+   "album": "Norman F*****g Rockwell!",
+   "file": "albums/lana-del-rey--norman-f-g-rockwell.jpg"
+  },
+  {
+   "artist": "Lana Del Rey",
+   "album": "Chemtrails Over the Country Club",
+   "file": "albums/lana-del-rey--chemtrails-over-the-country-club.jpg"
+  },
+  {
+   "artist": "Lana Del Rey",
+   "album": "Did you know that there's a tunnel under Ocean Blvd",
+   "file": "albums/lana-del-rey--did-you-know-that-there-s-a-tunnel-under-ocean-blvd.jpg"
+  },
+  {
+   "artist": "Lana Del Rey",
+   "album": "Blue Banisters",
+   "file": "albums/lana-del-rey--blue-banisters.jpg"
+  },
+  {
+   "artist": "Lana Del Rey",
+   "album": "Ultraviolence",
+   "file": "albums/lana-del-rey--ultraviolence.jpg"
+  },
+  {
+   "artist": "Lana Del Rey",
+   "album": "Lust for Life",
+   "file": "albums/lana-del-rey--lust-for-life.jpg"
+  },
+  {
+   "artist": "Lana Del Rey",
+   "album": "Honeymoon",
+   "file": "albums/lana-del-rey--honeymoon.jpg"
+  },
+  {
+   "artist": "Lana Del Rey",
+   "album": "Paradise",
+   "file": "albums/lana-del-rey--paradise.jpg"
+  },
+  {
+   "artist": "Nicki Minaj",
+   "album": "Beam Me Up Scotty",
+   "file": "albums/nicki-minaj--beam-me-up-scotty.jpg"
+  },
+  {
+   "artist": "Nicki Minaj",
+   "album": "The Pinkprint",
+   "file": "albums/nicki-minaj--the-pinkprint.jpg"
+  },
+  {
+   "artist": "Nicki Minaj",
+   "album": "Pink Friday",
+   "file": "albums/nicki-minaj--pink-friday.jpg"
+  },
+  {
+   "artist": "Dua Lipa",
+   "album": "Dua Lipa",
+   "file": "albums/dua-lipa--dua-lipa.jpg"
+  },
+  {
+   "artist": "Dua Lipa",
+   "album": "Radical Optimism",
+   "file": "albums/dua-lipa--radical-optimism.jpg"
+  },
+  {
+   "artist": "SZA",
+   "album": "Ctrl",
+   "file": "albums/sza--ctrl.jpg"
+  },
+  {
+   "artist": "KAROL G",
+   "album": "MAÑANA SERÁ BONITO",
+   "file": "albums/karol-g--manana-sera-bonito.jpg"
+  },
+  {
+   "artist": "KAROL G",
+   "album": "KG0516",
+   "file": "albums/karol-g--kg0516.jpg"
+  },
+  {
+   "artist": "KAROL G",
+   "album": "OCEAN",
+   "file": "albums/karol-g--ocean.jpg"
+  },
+  {
+   "artist": "KAROL G",
+   "album": "Tropicoqueta",
+   "file": "albums/karol-g--tropicoqueta.jpg"
+  },
+  {
+   "artist": "KAROL G",
+   "album": "NO ME ARREPIENTO DE SENTIR TANTO",
+   "file": "albums/karol-g--no-me-arrepiento-de-sentir-tanto.jpg"
+  },
+  {
+   "artist": "KAROL G",
+   "album": "Unstoppable",
+   "file": "albums/karol-g--unstoppable.jpg"
+  },
+  {
+   "artist": "Lady Gaga",
+   "album": "MAYHEM",
+   "file": "albums/lady-gaga--mayhem.jpg"
+  },
+  {
+   "artist": "Lady Gaga",
+   "album": "Love For Sale",
+   "file": "albums/lady-gaga--love-for-sale.jpg"
+  },
+  {
+   "artist": "Lady Gaga",
+   "album": "Cheek to Cheek",
+   "file": "albums/lady-gaga--cheek-to-cheek.jpg"
+  },
+  {
+   "artist": "Lady Gaga",
+   "album": "ARTPOP",
+   "file": "albums/lady-gaga--artpop.jpg"
+  },
+  {
+   "artist": "Lady Gaga",
+   "album": "The Fame Monster",
+   "file": "albums/lady-gaga--the-fame-monster.jpg"
+  },
+  {
+   "artist": "Lady Gaga",
+   "album": "Joanne",
+   "file": "albums/lady-gaga--joanne.jpg"
+  },
+  {
+   "artist": "Lady Gaga",
+   "album": "Harlequin",
+   "file": "albums/lady-gaga--harlequin.jpg"
+  },
+  {
+   "artist": "Shakira",
+   "album": "She Wolf",
+   "file": "albums/shakira--she-wolf.jpg"
+  },
+  {
+   "artist": "Shakira",
+   "album": "El Dorado",
+   "file": "albums/shakira--el-dorado.jpg"
+  },
+  {
+   "artist": "Shakira",
+   "album": "Pies Descalzos",
+   "file": "albums/shakira--pies-descalzos.jpg"
+  },
+  {
+   "artist": "Shakira",
+   "album": "Dónde Están Los Ladrones",
+   "file": "albums/shakira--donde-estan-los-ladrones.jpg"
+  },
+  {
+   "artist": "Shakira",
+   "album": "Grandes Éxitos",
+   "file": "albums/shakira--grandes-exitos.jpg"
+  },
+  {
+   "artist": "Shakira",
+   "album": "Oral Fixation, Vols. 1 & 2",
+   "file": "albums/shakira--oral-fixation-vols-1-2.jpg"
+  },
+  {
+   "artist": "Shakira",
+   "album": "Shakira MTV Unplugged",
+   "file": "albums/shakira--shakira-mtv-unplugged.jpg"
+  },
+  {
+   "artist": "Shakira",
+   "album": "Sale el Sol",
+   "file": "albums/shakira--sale-el-sol.jpg"
+  },
+  {
+   "artist": "Shakira",
+   "album": "Las Mujeres Ya No Lloran",
+   "file": "albums/shakira--las-mujeres-ya-no-lloran.jpg"
+  },
+  {
+   "artist": "Shakira",
+   "album": "Laundry Service: Washed and Dried",
+   "file": "albums/shakira--laundry-service-washed-and-dried.jpg"
+  },
+  {
+   "artist": "Shakira",
+   "album": "Oral Fixation, Vol. 2",
+   "file": "albums/shakira--oral-fixation-vol-2.jpg"
+  },
+  {
+   "artist": "Shakira",
+   "album": "Fijación Oral Volumen 1",
+   "file": "albums/shakira--fijacion-oral-volumen-1.jpg"
+  },
+  {
+   "artist": "Shakira",
+   "album": "Shakira.",
+   "file": "albums/shakira--shakira.jpg"
+  },
+  {
+   "artist": "Shakira",
+   "album": "Shakira. [Spanish Version]",
+   "file": "albums/shakira--shakira-spanish-version.jpg"
+  },
+  {
+   "artist": "Sia",
+   "album": "1000 Forms of Fear",
+   "file": "albums/sia--1000-forms-of-fear.jpg"
+  },
+  {
+   "artist": "Sia",
+   "album": "This Is Acting",
+   "file": "albums/sia--this-is-acting.jpg"
+  },
+  {
+   "artist": "Sia",
+   "album": "We Are Born",
+   "file": "albums/sia--we-are-born.jpg"
+  },
+  {
+   "artist": "Sia",
+   "album": "Everyday Is Christmas",
+   "file": "albums/sia--everyday-is-christmas.jpg"
+  },
+  {
+   "artist": "Sia",
+   "album": "Colour the Small One",
+   "file": "albums/sia--colour-the-small-one.jpg"
+  },
+  {
+   "artist": "Sia",
+   "album": "Reasonable Woman",
+   "file": "albums/sia--reasonable-woman.jpg"
+  },
+  {
+   "artist": "Sia",
+   "album": "Healing Is Difficult",
+   "file": "albums/sia--healing-is-difficult.jpg"
+  },
+  {
+   "artist": "Sia",
+   "album": "Some People Have Real Problems",
+   "file": "albums/sia--some-people-have-real-problems.jpg"
+  },
+  {
+   "artist": "Sia",
+   "album": "Saturday Church (Official Concept Album)",
+   "file": "albums/sia--saturday-church-official-concept-album.jpg"
+  },
+  {
+   "artist": "Sia",
+   "album": "You've Changed (feat. Sia)",
+   "file": "albums/sia--you-ve-changed-feat-sia.jpg"
+  },
+  {
+   "artist": "Sia",
+   "album": "Gimme Christmas (Lofi Soundscape)",
+   "file": "albums/sia--gimme-christmas-lofi-soundscape.jpg"
+  },
+  {
+   "artist": "Sia",
+   "album": "The Girl You lost",
+   "file": "albums/sia--the-girl-you-lost.jpg"
+  },
+  {
+   "artist": "Sia",
+   "album": "Gimme Christmas (Sleep Soundscape)",
+   "file": "albums/sia--gimme-christmas-sleep-soundscape.jpg"
+  },
+  {
+   "artist": "Doja Cat",
+   "album": "Hot Pink",
+   "file": "albums/doja-cat--hot-pink.jpg"
+  },
+  {
+   "artist": "Doja Cat",
+   "album": "Vie",
+   "file": "albums/doja-cat--vie.jpg"
+  },
+  {
+   "artist": "Doja Cat",
+   "album": "Scarlet",
+   "file": "albums/doja-cat--scarlet.jpg"
+  },
+  {
+   "artist": "Doja Cat",
+   "album": "Amala",
+   "file": "albums/doja-cat--amala.jpg"
+  },
+  {
+   "artist": "Doja Cat",
+   "album": "Scarlet 2 CLAUDE",
+   "file": "albums/doja-cat--scarlet-2-claude.jpg"
+  },
+  {
+   "artist": "Olivia Rodrigo",
+   "album": "you seem pretty sad for a girl so in love",
+   "file": "albums/olivia-rodrigo--you-seem-pretty-sad-for-a-girl-so-in-love.jpg"
+  },
+  {
+   "artist": "Olivia Rodrigo",
+   "album": "High School Musical: The Musical: The Series (Music from the Disney+ Original Series)",
+   "file": "albums/olivia-rodrigo--high-school-musical-the-musical-the-series-music-from-the-disney-original-series.jpg"
+  },
+  {
+   "artist": "Olivia Rodrigo",
+   "album": "GUTS (spilled)",
+   "file": "albums/olivia-rodrigo--guts-spilled.jpg"
+  },
+  {
+   "artist": "Olivia Rodrigo",
+   "album": "SOUR (Video Version)",
+   "file": "albums/olivia-rodrigo--sour-video-version.jpg"
+  },
+  {
+   "artist": "Olivia Rodrigo",
+   "album": "The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By)",
+   "file": "albums/olivia-rodrigo--the-hunger-games-the-ballad-of-songbirds-snakes-music-from-inspired-by.jpg"
+  },
+  {
+   "artist": "Olivia Rodrigo",
+   "album": "Best of High School Musical: The Musical: The Series",
+   "file": "albums/olivia-rodrigo--best-of-high-school-musical-the-musical-the-series.jpg"
+  },
+  {
+   "artist": "Katy Perry",
+   "album": "Teenage Dream",
+   "file": "albums/katy-perry--teenage-dream.jpg"
+  },
+  {
+   "artist": "Katy Perry",
+   "album": "Teenage Dream: The Complete Confection",
+   "file": "albums/katy-perry--teenage-dream-the-complete-confection.jpg"
+  },
+  {
+   "artist": "Katy Perry",
+   "album": "One of the Boys",
+   "file": "albums/katy-perry--one-of-the-boys.jpg"
+  },
+  {
+   "artist": "Katy Perry",
+   "album": "Smile",
+   "file": "albums/katy-perry--smile.jpg"
+  },
+  {
+   "artist": "Katy Perry",
+   "album": "143",
+   "file": "albums/katy-perry--143.jpg"
+  },
+  {
+   "artist": "Katy Perry",
+   "album": "Witness",
+   "file": "albums/katy-perry--witness.jpg"
+  },
+  {
+   "artist": "Katy Perry",
+   "album": "1432",
+   "file": "albums/katy-perry--1432.jpg"
+  },
+  {
+   "artist": "Katy Perry",
+   "album": "MTV Unplugged: Katy Perry",
+   "file": "albums/katy-perry--mtv-unplugged-katy-perry.jpg"
+  },
+  {
+   "artist": "Katy Perry",
+   "album": "The Ones That Got The Plays",
+   "file": "albums/katy-perry--the-ones-that-got-the-plays.jpg"
+  },
+  {
+   "artist": "Katy Perry",
+   "album": "Double Rainbow (Safari Riot Sollos Sleep Mix)",
+   "file": "albums/katy-perry--double-rainbow-safari-riot-sollos-sleep-mix.jpg"
+  },
+  {
+   "artist": "Adele",
+   "album": "30",
+   "file": "albums/adele--30.jpg"
+  },
+  {
+   "artist": "Adele",
+   "album": "25",
+   "file": "albums/adele--25.jpg"
+  },
+  {
+   "artist": "Adele",
+   "album": "19",
+   "file": "albums/adele--19.jpg"
+  },
+  {
+   "artist": "Selena Gomez",
+   "album": "Rare",
+   "file": "albums/selena-gomez--rare.jpg"
+  },
+  {
+   "artist": "Selena Gomez",
+   "album": "I Said I Love You First",
+   "file": "albums/selena-gomez--i-said-i-love-you-first.jpg"
+  },
+  {
+   "artist": "Selena Gomez",
+   "album": "Stars Dance",
+   "file": "albums/selena-gomez--stars-dance.jpg"
+  },
+  {
+   "artist": "Selena Gomez",
+   "album": "For You",
+   "file": "albums/selena-gomez--for-you.jpg"
+  },
+  {
+   "artist": "Selena Gomez",
+   "album": "When The Sun Goes Down",
+   "file": "albums/selena-gomez--when-the-sun-goes-down.jpg"
+  },
+  {
+   "artist": "Selena Gomez",
+   "album": "Kiss & Tell",
+   "file": "albums/selena-gomez--kiss-tell.jpg"
+  },
+  {
+   "artist": "Selena Gomez",
+   "album": "A Year Without Rain",
+   "file": "albums/selena-gomez--a-year-without-rain.jpg"
+  },
+  {
+   "artist": "Selena Gomez",
+   "album": "I Said I Love You First... And You Said It Back",
+   "file": "albums/selena-gomez--i-said-i-love-you-first-and-you-said-it-back.jpg"
+  },
+  {
+   "artist": "Selena Gomez",
+   "album": "Selena Gomez Sollos Relax Collection",
+   "file": "albums/selena-gomez--selena-gomez-sollos-relax-collection.jpg"
+  },
+  {
+   "artist": "Selena Gomez",
+   "album": "Selena Gomez Sollos Focus Collection",
+   "file": "albums/selena-gomez--selena-gomez-sollos-focus-collection.jpg"
+  },
+  {
+   "artist": "Selena Gomez",
+   "album": "Love You Like A Love Song, And More",
+   "file": "albums/selena-gomez--love-you-like-a-love-song-and-more.jpg"
+  },
+  {
+   "artist": "Halsey",
+   "album": "Manic",
+   "file": "albums/halsey--manic.jpg"
+  },
+  {
+   "artist": "Halsey",
+   "album": "If I Can’t Have Love, I Want Power",
+   "file": "albums/halsey--if-i-can-t-have-love-i-want-power.jpg"
+  },
+  {
+   "artist": "Halsey",
+   "album": "hopeless fountain kingdom",
+   "file": "albums/halsey--hopeless-fountain-kingdom.jpg"
+  },
+  {
+   "artist": "Halsey",
+   "album": "BADLANDS",
+   "file": "albums/halsey--badlands.jpg"
+  },
+  {
+   "artist": "Halsey",
+   "album": "The Great Impersonator",
+   "file": "albums/halsey--the-great-impersonator.jpg"
+  },
+  {
+   "artist": "Halsey",
+   "album": "Manic: Revenge EP",
+   "file": "albums/halsey--manic-revenge-ep.jpg"
+  },
+  {
+   "artist": "Sabrina Carpenter",
+   "album": "Singular Act I",
+   "file": "albums/sabrina-carpenter--singular-act-i.jpg"
+  },
+  {
+   "artist": "Sabrina Carpenter",
+   "album": "emails i can’t send fwd:",
+   "file": "albums/sabrina-carpenter--emails-i-can-t-send-fwd.jpg"
+  },
+  {
+   "artist": "Sabrina Carpenter",
+   "album": "Singular Act II",
+   "file": "albums/sabrina-carpenter--singular-act-ii.jpg"
+  },
+  {
+   "artist": "Sabrina Carpenter",
+   "album": "emails i can't send",
+   "file": "albums/sabrina-carpenter--emails-i-can-t-send.jpg"
+  },
+  {
+   "artist": "Sabrina Carpenter",
+   "album": "EVOLution",
+   "file": "albums/sabrina-carpenter--evolution.jpg"
+  },
+  {
+   "artist": "Sabrina Carpenter",
+   "album": "Eyes Wide Open",
+   "file": "albums/sabrina-carpenter--eyes-wide-open.jpg"
+  },
+  {
+   "artist": "Sabrina Carpenter",
+   "album": "CLOUDS (Music From The Disney+ Original Movie)",
+   "file": "albums/sabrina-carpenter--clouds-music-from-the-disney-original-movie.jpg"
+  },
+  {
+   "artist": "Sabrina Carpenter",
+   "album": "Espresso EP",
+   "file": "albums/sabrina-carpenter--espresso-ep.jpg"
+  },
+  {
+   "artist": "Miley Cyrus",
+   "album": "Plastic Hearts",
+   "file": "albums/miley-cyrus--plastic-hearts.jpg"
+  },
+  {
+   "artist": "Miley Cyrus",
+   "album": "Endless Summer Vacation",
+   "file": "albums/miley-cyrus--endless-summer-vacation.jpg"
+  },
+  {
+   "artist": "Miley Cyrus",
+   "album": "Something Beautiful",
+   "file": "albums/miley-cyrus--something-beautiful.jpg"
+  },
+  {
+   "artist": "Miley Cyrus",
+   "album": "Bass Persuades",
+   "file": "albums/miley-cyrus--bass-persuades.jpg"
+  },
+  {
+   "artist": "Miley Cyrus",
+   "album": "Breakout",
+   "file": "albums/miley-cyrus--breakout.jpg"
+  },
+  {
+   "artist": "Miley Cyrus",
+   "album": "Younger Now",
+   "file": "albums/miley-cyrus--younger-now.jpg"
+  },
+  {
+   "artist": "Miley Cyrus",
+   "album": "Can't Be Tamed",
+   "file": "albums/miley-cyrus--can-t-be-tamed.jpg"
+  },
+  {
+   "artist": "Miley Cyrus",
+   "album": "Miley Cyrus & Her Dead Petz",
+   "file": "albums/miley-cyrus--miley-cyrus-her-dead-petz.jpg"
+  },
+  {
+   "artist": "Miley Cyrus",
+   "album": "Meet Miley Cyrus",
+   "file": "albums/miley-cyrus--meet-miley-cyrus.jpg"
+  },
+  {
+   "artist": "Miley Cyrus",
+   "album": "SHE IS COMING",
+   "file": "albums/miley-cyrus--she-is-coming.jpg"
+  },
+  {
+   "artist": "Cardi B",
+   "album": "Gangsta Bitch Music, Vol. 1",
+   "file": "albums/cardi-b--gangsta-bitch-music-vol-1.jpg"
+  },
+  {
+   "artist": "Cardi B",
+   "album": "Gangsta Bitch Music, Vol. 2",
+   "file": "albums/cardi-b--gangsta-bitch-music-vol-2.jpg"
+  },
+  {
+   "artist": "Cardi B",
+   "album": "AM I THE DRAMA? (The Snow Mix)",
+   "file": "albums/cardi-b--am-i-the-drama-the-snow-mix.jpg"
+  },
+  {
+   "artist": "Camila Cabello",
+   "album": "Camila",
+   "file": "albums/camila-cabello--camila.jpg"
+  },
+  {
+   "artist": "Camila Cabello",
+   "album": "Romance",
+   "file": "albums/camila-cabello--romance.jpg"
+  },
+  {
+   "artist": "Camila Cabello",
+   "album": "Familia",
+   "file": "albums/camila-cabello--familia.jpg"
+  },
+  {
+   "artist": "Camila Cabello",
+   "album": "New Music Daily Presents: Camila Cabello",
+   "file": "albums/camila-cabello--new-music-daily-presents-camila-cabello.jpg"
+  },
+  {
+   "artist": "Camila Cabello",
+   "album": "C,XOXO",
+   "file": "albums/camila-cabello--c-xoxo.jpg"
+  },
+  {
+   "artist": "Tate McRae",
+   "album": "So Close To What",
+   "file": "albums/tate-mcrae--so-close-to-what.jpg"
+  },
+  {
+   "artist": "Tate McRae",
+   "album": "i used to think i could fly",
+   "file": "albums/tate-mcrae--i-used-to-think-i-could-fly.jpg"
+  },
+  {
+   "artist": "Tate McRae",
+   "album": "THINK LATER",
+   "file": "albums/tate-mcrae--think-later.jpg"
+  },
+  {
+   "artist": "Tate McRae",
+   "album": "The One Day LP",
+   "file": "albums/tate-mcrae--the-one-day-lp.jpg"
+  },
+  {
+   "artist": "Kali Uchis",
+   "album": "Isolation",
+   "file": "albums/kali-uchis--isolation.jpg"
+  },
+  {
+   "artist": "Kali Uchis",
+   "album": "Sin Miedo (del Amor y Otros Demonios) ∞",
+   "file": "albums/kali-uchis--sin-miedo-del-amor-y-otros-demonios.jpg"
+  },
+  {
+   "artist": "Kali Uchis",
+   "album": "Red Moon In Venus",
+   "file": "albums/kali-uchis--red-moon-in-venus.jpg"
+  },
+  {
+   "artist": "Kali Uchis",
+   "album": "Sincerely,",
+   "file": "albums/kali-uchis--sincerely.jpg"
+  },
+  {
+   "artist": "Kali Uchis",
+   "album": "ORQUÍDEAS",
+   "file": "albums/kali-uchis--orquideas.jpg"
+  },
+  {
+   "artist": "Kali Uchis",
+   "album": "Sincerely: P.S.",
+   "file": "albums/kali-uchis--sincerely-p-s.jpg"
+  },
+  {
+   "artist": "Kali Uchis",
+   "album": "ORQUÍDEAS PARTE 2",
+   "file": "albums/kali-uchis--orquideas-parte-2.jpg"
+  },
+  {
+   "artist": "Kali Uchis",
+   "album": "Por Vida",
+   "file": "albums/kali-uchis--por-vida.jpg"
+  },
+  {
+   "artist": "Bebe Rexha",
+   "album": "Expectations",
+   "file": "albums/bebe-rexha--expectations.jpg"
+  },
+  {
+   "artist": "Bebe Rexha",
+   "album": "Better Mistakes",
+   "file": "albums/bebe-rexha--better-mistakes.jpg"
+  },
+  {
+   "artist": "Bebe Rexha",
+   "album": "Bebe",
+   "file": "albums/bebe-rexha--bebe.jpg"
+  },
+  {
+   "artist": "Bebe Rexha",
+   "album": "DIRTY BLONDE",
+   "file": "albums/bebe-rexha--dirty-blonde.jpg"
+  },
+  {
+   "artist": "Bebe Rexha",
+   "album": "DIRTY BLONDE (Visual Album)",
+   "file": "albums/bebe-rexha--dirty-blonde-visual-album.jpg"
+  },
+  {
+   "artist": "Demi Lovato",
+   "album": "Dancing With The Devil…The Art of Starting Over",
+   "file": "albums/demi-lovato--dancing-with-the-devil-the-art-of-starting-over.jpg"
+  },
+  {
+   "artist": "Demi Lovato",
+   "album": "HOLY FVCK",
+   "file": "albums/demi-lovato--holy-fvck.jpg"
+  },
+  {
+   "artist": "Demi Lovato",
+   "album": "Demi",
+   "file": "albums/demi-lovato--demi.jpg"
+  },
+  {
+   "artist": "Demi Lovato",
+   "album": "Tell Me You Love Me",
+   "file": "albums/demi-lovato--tell-me-you-love-me.jpg"
+  },
+  {
+   "artist": "Demi Lovato",
+   "album": "Unbroken",
+   "file": "albums/demi-lovato--unbroken.jpg"
+  },
+  {
+   "artist": "Demi Lovato",
+   "album": "Camp Rock (Music from the Disney Channel Original Movie)",
+   "file": "albums/demi-lovato--camp-rock-music-from-the-disney-channel-original-movie.jpg"
+  },
+  {
+   "artist": "Demi Lovato",
+   "album": "It’s Not That Deep",
+   "file": "albums/demi-lovato--it-s-not-that-deep.jpg"
+  },
+  {
+   "artist": "Demi Lovato",
+   "album": "Camp Rock 2: The Final Jam (Music from the Disney Channel Original Movie)",
+   "file": "albums/demi-lovato--camp-rock-2-the-final-jam-music-from-the-disney-channel-original-movie.jpg"
+  },
+  {
+   "artist": "Demi Lovato",
+   "album": "Confident",
+   "file": "albums/demi-lovato--confident.jpg"
+  },
+  {
+   "artist": "Demi Lovato",
+   "album": "Don't Forget",
+   "file": "albums/demi-lovato--don-t-forget.jpg"
+  },
+  {
+   "artist": "Demi Lovato",
+   "album": "REVAMPED",
+   "file": "albums/demi-lovato--revamped.jpg"
+  },
+  {
+   "artist": "Demi Lovato",
+   "album": "Here We Go Again",
+   "file": "albums/demi-lovato--here-we-go-again.jpg"
+  },
+  {
+   "artist": "Demi Lovato",
+   "album": "It's Not That Deep (Unless You Want It To Be)",
+   "file": "albums/demi-lovato--it-s-not-that-deep-unless-you-want-it-to-be.jpg"
+  },
+  {
+   "artist": "Demi Lovato",
+   "album": "It’s Not That Deep (Little Bit Extra Version)",
+   "file": "albums/demi-lovato--it-s-not-that-deep-little-bit-extra-version.jpg"
+  },
+  {
+   "artist": "Ellie Goulding",
+   "album": "Higher Than Heaven",
+   "file": "albums/ellie-goulding--higher-than-heaven.jpg"
+  },
+  {
+   "artist": "Ellie Goulding",
+   "album": "Brightest Blue",
+   "file": "albums/ellie-goulding--brightest-blue.jpg"
+  },
+  {
+   "artist": "Ellie Goulding",
+   "album": "Lights",
+   "file": "albums/ellie-goulding--lights.jpg"
+  },
+  {
+   "artist": "Ellie Goulding",
+   "album": "Halcyon Days",
+   "file": "albums/ellie-goulding--halcyon-days.jpg"
+  },
+  {
+   "artist": "Ellie Goulding",
+   "album": "Delirium",
+   "file": "albums/ellie-goulding--delirium.jpg"
+  },
+  {
+   "artist": "Ellie Goulding",
+   "album": "I Know Too Much",
+   "file": "albums/ellie-goulding--i-know-too-much.jpg"
+  },
+  {
+   "artist": "Ellie Goulding",
+   "album": "Halcyon",
+   "file": "albums/ellie-goulding--halcyon.jpg"
+  },
+  {
+   "artist": "Ellie Goulding",
+   "album": "Bright Lights",
+   "file": "albums/ellie-goulding--bright-lights.jpg"
+  },
+  {
+   "artist": "Ellie Goulding",
+   "album": "Halcyon Nights",
+   "file": "albums/ellie-goulding--halcyon-nights.jpg"
+  },
+  {
+   "artist": "Ellie Goulding",
+   "album": "We Know Too Much",
+   "file": "albums/ellie-goulding--we-know-too-much.jpg"
+  },
+  {
+   "artist": "Ellie Goulding",
+   "album": "EG.0",
+   "file": "albums/ellie-goulding--eg-0.jpg"
+  },
+  {
+   "artist": "Ellie Goulding",
+   "album": "You Know Too Much",
+   "file": "albums/ellie-goulding--you-know-too-much.jpg"
+  },
+  {
+   "artist": "Ellie Goulding",
+   "album": "Brightest Blue - Music for Calm",
+   "file": "albums/ellie-goulding--brightest-blue-music-for-calm.jpg"
+  },
+  {
+   "artist": "Ellie Goulding",
+   "album": "Lights 10",
+   "file": "albums/ellie-goulding--lights-10.jpg"
+  },
+  {
+   "artist": "Ellie Goulding",
+   "album": "Run Into The Light",
+   "file": "albums/ellie-goulding--run-into-the-light.jpg"
+  },
+  {
+   "artist": "Ellie Goulding",
+   "album": "iTunes Festival: London 2013 – EP",
+   "file": "albums/ellie-goulding--itunes-festival-london-2013-ep.jpg"
+  },
+  {
+   "artist": "Shreya Ghoshal",
+   "album": "Shreya Ghoshal: Best of Me",
+   "file": "albums/shreya-ghoshal--shreya-ghoshal-best-of-me.jpg"
+  },
+  {
+   "artist": "Shreya Ghoshal",
+   "album": "Shreya Ghoshal: All Time Telugu Hits",
+   "file": "albums/shreya-ghoshal--shreya-ghoshal-all-time-telugu-hits.jpg"
+  },
+  {
+   "artist": "Shreya Ghoshal",
+   "album": "Silken Melodies Shreya Ghoshal",
+   "file": "albums/shreya-ghoshal--silken-melodies-shreya-ghoshal.jpg"
+  },
+  {
+   "artist": "Shreya Ghoshal",
+   "album": "Best of Shreya Ghoshal",
+   "file": "albums/shreya-ghoshal--best-of-shreya-ghoshal.jpg"
+  },
+  {
+   "artist": "Shreya Ghoshal",
+   "album": "Gulzar in Conversation with Tagore",
+   "file": "albums/shreya-ghoshal--gulzar-in-conversation-with-tagore.jpg"
+  },
+  {
+   "artist": "Shreya Ghoshal",
+   "album": "Aahista Aahista - Hits of Shreya Ghoshal",
+   "file": "albums/shreya-ghoshal--aahista-aahista-hits-of-shreya-ghoshal.jpg"
+  },
+  {
+   "artist": "Shreya Ghoshal",
+   "album": "Shreya Ghoshal: Straight from the Heart",
+   "file": "albums/shreya-ghoshal--shreya-ghoshal-straight-from-the-heart.jpg"
+  },
+  {
+   "artist": "Shreya Ghoshal",
+   "album": "Govardhan Girdhari",
+   "file": "albums/shreya-ghoshal--govardhan-girdhari.jpg"
+  },
+  {
+   "artist": "Shreya Ghoshal",
+   "album": "Shreya Ghoshal Hits",
+   "file": "albums/shreya-ghoshal--shreya-ghoshal-hits.jpg"
+  },
+  {
+   "artist": "Shreya Ghoshal",
+   "album": "Hits of Shreya Ghoshal",
+   "file": "albums/shreya-ghoshal--hits-of-shreya-ghoshal.jpg"
+  },
+  {
+   "artist": "Shreya Ghoshal",
+   "album": "Shreya Unplugged",
+   "file": "albums/shreya-ghoshal--shreya-unplugged.jpg"
+  },
+  {
+   "artist": "Shreya Ghoshal",
+   "album": "Best of Bollywood: Shreya Ghoshal",
+   "file": "albums/shreya-ghoshal--best-of-bollywood-shreya-ghoshal.jpg"
+  },
+  {
+   "artist": "Shreya Ghoshal",
+   "album": "Bhakthi Paatalu (Songs from Telugu Films)",
+   "file": "albums/shreya-ghoshal--bhakthi-paatalu-songs-from-telugu-films.jpg"
+  },
+  {
+   "artist": "Shreya Ghoshal",
+   "album": "Mon Kemoner Station",
+   "file": "albums/shreya-ghoshal--mon-kemoner-station.jpg"
+  },
+  {
+   "artist": "Shreya Ghoshal",
+   "album": "Everybody On Dance Floor, Vol. 8",
+   "file": "albums/shreya-ghoshal--everybody-on-dance-floor-vol-8.jpg"
+  },
+  {
+   "artist": "Shreya Ghoshal",
+   "album": "Melodies For the Melody Queen Shreya Ghoshal",
+   "file": "albums/shreya-ghoshal--melodies-for-the-melody-queen-shreya-ghoshal.jpg"
+  },
+  {
+   "artist": "Shreya Ghoshal",
+   "album": "Love Songs Forever",
+   "file": "albums/shreya-ghoshal--love-songs-forever.jpg"
+  },
+  {
+   "artist": "Shreya Ghoshal",
+   "album": "Pyaar Unlimited",
+   "file": "albums/shreya-ghoshal--pyaar-unlimited.jpg"
+  },
+  {
+   "artist": "Shreya Ghoshal",
+   "album": "Musical Hits of Shreya Ghoshal",
+   "file": "albums/shreya-ghoshal--musical-hits-of-shreya-ghoshal.jpg"
+  },
+  {
+   "artist": "Shreya Ghoshal",
+   "album": "Humnasheen",
+   "file": "albums/shreya-ghoshal--humnasheen.jpg"
+  },
+  {
+   "artist": "Shreya Ghoshal",
+   "album": "Soulful Kk Lofi Mix",
+   "file": "albums/shreya-ghoshal--soulful-kk-lofi-mix.jpg"
+  },
+  {
+   "artist": "Shreya Ghoshal",
+   "album": "Bhojpuri Hits Of Shreya Ghoshal",
+   "file": "albums/shreya-ghoshal--bhojpuri-hits-of-shreya-ghoshal.jpg"
+  },
+  {
+   "artist": "Shreya Ghoshal",
+   "album": "Love Mode On",
+   "file": "albums/shreya-ghoshal--love-mode-on.jpg"
+  },
+  {
+   "artist": "Britney Spears",
+   "album": "Circus",
+   "file": "albums/britney-spears--circus.jpg"
+  },
+  {
+   "artist": "Britney Spears",
+   "album": "Greatest Hits: My Prerogative",
+   "file": "albums/britney-spears--greatest-hits-my-prerogative.jpg"
+  },
+  {
+   "artist": "Britney Spears",
+   "album": "Britney Jean",
+   "file": "albums/britney-spears--britney-jean.jpg"
+  },
+  {
+   "artist": "Britney Spears",
+   "album": "Femme Fatale",
+   "file": "albums/britney-spears--femme-fatale.jpg"
+  },
+  {
+   "artist": "Britney Spears",
+   "album": "Blackout",
+   "file": "albums/britney-spears--blackout.jpg"
+  },
+  {
+   "artist": "Britney Spears",
+   "album": "In the Zone",
+   "file": "albums/britney-spears--in-the-zone.jpg"
+  },
+  {
+   "artist": "Britney Spears",
+   "album": "Oops!...I Did It Again",
+   "file": "albums/britney-spears--oops-i-did-it-again.jpg"
+  },
+  {
+   "artist": "Britney Spears",
+   "album": "The Singles Collection",
+   "file": "albums/britney-spears--the-singles-collection.jpg"
+  },
+  {
+   "artist": "Britney Spears",
+   "album": "Britney",
+   "file": "albums/britney-spears--britney.jpg"
+  },
+  {
+   "artist": "Britney Spears",
+   "album": "The Essential Britney Spears",
+   "file": "albums/britney-spears--the-essential-britney-spears.jpg"
+  },
+  {
+   "artist": "Britney Spears",
+   "album": "Glory",
+   "file": "albums/britney-spears--glory.jpg"
+  },
+  {
+   "artist": "Britney Spears",
+   "album": "Stronger",
+   "file": "albums/britney-spears--stronger.jpg"
+  },
+  {
+   "artist": "Britney Spears",
+   "album": "Don't Let Me Be The Last To Know",
+   "file": "albums/britney-spears--don-t-let-me-be-the-last-to-know.jpg"
+  },
+  {
+   "artist": "Britney Spears",
+   "album": "Lucky",
+   "file": "albums/britney-spears--lucky.jpg"
+  },
+  {
+   "artist": "P!nk",
+   "album": "Greatest Hits...So Far!!!",
+   "file": "albums/p-nk--greatest-hits-so-far.jpg"
+  },
+  {
+   "artist": "P!nk",
+   "album": "Beautiful Trauma",
+   "file": "albums/p-nk--beautiful-trauma.jpg"
+  },
+  {
+   "artist": "P!nk",
+   "album": "Hurts 2B Human",
+   "file": "albums/p-nk--hurts-2b-human.jpg"
+  },
+  {
+   "artist": "P!nk",
+   "album": "TRUSTFALL",
+   "file": "albums/p-nk--trustfall.jpg"
+  },
+  {
+   "artist": "P!nk",
+   "album": "Funhouse",
+   "file": "albums/p-nk--funhouse.jpg"
+  },
+  {
+   "artist": "P!nk",
+   "album": "All I Know So Far: Setlist",
+   "file": "albums/p-nk--all-i-know-so-far-setlist.jpg"
+  },
+  {
+   "artist": "P!nk",
+   "album": "Can't Take Me Home",
+   "file": "albums/p-nk--can-t-take-me-home.jpg"
+  },
+  {
+   "artist": "P!nk",
+   "album": "M!ssundaztood",
+   "file": "albums/p-nk--m-ssundaztood.jpg"
+  },
+  {
+   "artist": "P!nk",
+   "album": "I'm Not Dead",
+   "file": "albums/p-nk--i-m-not-dead.jpg"
+  },
+  {
+   "artist": "P!nk",
+   "album": "Try This",
+   "file": "albums/p-nk--try-this.jpg"
+  },
+  {
+   "artist": "Anitta",
+   "album": "Versions of Me",
+   "file": "albums/anitta--versions-of-me.jpg"
+  },
+  {
+   "artist": "Anitta",
+   "album": "Anitta",
+   "file": "albums/anitta--anitta.jpg"
+  },
+  {
+   "artist": "Anitta",
+   "album": "Kisses",
+   "file": "albums/anitta--kisses.jpg"
+  },
+  {
+   "artist": "Anitta",
+   "album": "Bang",
+   "file": "albums/anitta--bang.jpg"
+  },
+  {
+   "artist": "Anitta",
+   "album": "Funk Generation",
+   "file": "albums/anitta--funk-generation.jpg"
+  },
+  {
+   "artist": "Anitta",
+   "album": "EQUILIBRIVM",
+   "file": "albums/anitta--equilibrivm.jpg"
+  },
+  {
+   "artist": "Anitta",
+   "album": "Ritmo Perfeito",
+   "file": "albums/anitta--ritmo-perfeito.jpg"
+  },
+  {
+   "artist": "Anitta",
+   "album": "EQUILIBRIVM II",
+   "file": "albums/anitta--equilibrivm-ii.jpg"
+  },
+  {
+   "artist": "Anitta",
+   "album": "Meu Lugar (Ao Vivo)",
+   "file": "albums/anitta--meu-lugar-ao-vivo.jpg"
+  },
+  {
+   "artist": "Anitta",
+   "album": "Ensaios Da Anitta",
+   "file": "albums/anitta--ensaios-da-anitta.jpg"
+  },
+  {
+   "artist": "Anitta",
+   "album": "Meu Lugar",
+   "file": "albums/anitta--meu-lugar.jpg"
+  },
+  {
+   "artist": "Marília Mendonça",
+   "album": "Marília Mendonça (Ao Vivo)",
+   "file": "albums/marilia-mendon-a--marilia-mendon-a-ao-vivo.jpg"
+  },
+  {
+   "artist": "Marília Mendonça",
+   "album": "Realidade - Ao Vivo Em Manaus",
+   "file": "albums/marilia-mendon-a--realidade-ao-vivo-em-manaus.jpg"
+  },
+  {
+   "artist": "Marília Mendonça",
+   "album": "Todos os Cantos, Vol. 1 (Ao Vivo)",
+   "file": "albums/marilia-mendon-a--todos-os-cantos-vol-1-ao-vivo.jpg"
+  },
+  {
+   "artist": "Marília Mendonça",
+   "album": "Festa das Patroas 35%",
+   "file": "albums/marilia-mendon-a--festa-das-patroas-35.jpg"
+  },
+  {
+   "artist": "Marília Mendonça",
+   "album": "Festa das Patroas",
+   "file": "albums/marilia-mendon-a--festa-das-patroas.jpg"
+  },
+  {
+   "artist": "Marília Mendonça",
+   "album": "Agora É Que São Elas 2 (Ao Vivo) - Acústico",
+   "file": "albums/marilia-mendon-a--agora-e-que-s-o-elas-2-ao-vivo-ac-stico.jpg"
+  },
+  {
+   "artist": "Marília Mendonça",
+   "album": "Marília Mendonça - Perfil (Ao Vivo)",
+   "file": "albums/marilia-mendon-a--marilia-mendon-a-perfil-ao-vivo.jpg"
+  },
+  {
+   "artist": "Marília Mendonça",
+   "album": "Decretos Reais",
+   "file": "albums/marilia-mendon-a--decretos-reais.jpg"
+  },
+  {
+   "artist": "Marília Mendonça",
+   "album": "Marília Mendonça: As Melhores 2023",
+   "file": "albums/marilia-mendon-a--marilia-mendon-a-as-melhores-2023.jpg"
+  },
+  {
+   "artist": "Marília Mendonça",
+   "album": "Carnaval da Rainha Marília Mendonça (Ao Vivo)",
+   "file": "albums/marilia-mendon-a--carnaval-da-rainha-marilia-mendon-a-ao-vivo.jpg"
+  },
+  {
+   "artist": "Marília Mendonça",
+   "album": "Decretos Reais (Visual Album)",
+   "file": "albums/marilia-mendon-a--decretos-reais-visual-album.jpg"
+  },
+  {
+   "artist": "Marília Mendonça",
+   "album": "Marília Mendonça: Sentimento Louco (Música da Série Original Amazon Prime)",
+   "file": "albums/marilia-mendon-a--marilia-mendon-a-sentimento-louco-m-sica-da-serie-original-amazon-prime.jpg"
+  },
+  {
+   "artist": "Marília Mendonça",
+   "album": "Decretos Reais - Lado B (Ao Vivo)",
+   "file": "albums/marilia-mendon-a--decretos-reais-lado-b-ao-vivo.jpg"
+  },
+  {
+   "artist": "Marília Mendonça",
+   "album": "As Sofrências da Marília Mendonça",
+   "file": "albums/marilia-mendon-a--as-sofr-ncias-da-marilia-mendon-a.jpg"
+  },
+  {
+   "artist": "Marília Mendonça",
+   "album": "Marília Mendonça - As Preferidas dos Fãs (Ao Vivo)",
+   "file": "albums/marilia-mendon-a--marilia-mendon-a-as-preferidas-dos-f-s-ao-vivo.jpg"
+  },
+  {
+   "artist": "Charli xcx",
+   "album": "True Romance",
+   "file": "albums/charli-xcx--true-romance.jpg"
+  },
+  {
+   "artist": "Charli xcx",
+   "album": "Music, Fashion, Film",
+   "file": "albums/charli-xcx--music-fashion-film.jpg"
+  },
+  {
+   "artist": "Charli xcx",
+   "album": "Charli",
+   "file": "albums/charli-xcx--charli.jpg"
+  },
+  {
+   "artist": "Charli xcx",
+   "album": "CRASH",
+   "file": "albums/charli-xcx--crash.jpg"
+  },
+  {
+   "artist": "Charli xcx",
+   "album": "Number 1 Angel",
+   "file": "albums/charli-xcx--number-1-angel.jpg"
+  },
+  {
+   "artist": "Charli xcx",
+   "album": "SUCKER",
+   "file": "albums/charli-xcx--sucker.jpg"
+  },
+  {
+   "artist": "Charli xcx",
+   "album": "Pop 2",
+   "file": "albums/charli-xcx--pop-2.jpg"
+  },
+  {
+   "artist": "Charli xcx",
+   "album": "Brat and it’s completely different but also still brat",
+   "file": "albums/charli-xcx--brat-and-it-s-completely-different-but-also-still-brat.jpg"
+  },
+  {
+   "artist": "Charli xcx",
+   "album": "how i'm feeling now",
+   "file": "albums/charli-xcx--how-i-m-feeling-now.jpg"
+  },
+  {
+   "artist": "Charli xcx",
+   "album": "Wuthering Heights",
+   "file": "albums/charli-xcx--wuthering-heights.jpg"
+  },
+  {
+   "artist": "Charli xcx",
+   "album": "Brat and it’s the same but there’s three more songs so it’s not",
+   "file": "albums/charli-xcx--brat-and-it-s-the-same-but-there-s-three-more-songs-so-it-s-not.jpg"
+  },
+  {
+   "artist": "Charli xcx",
+   "album": "Lost in Space (feat. Charli XCX)",
+   "file": "albums/charli-xcx--lost-in-space-feat-charli-xcx.jpg"
+  },
+  {
+   "artist": "Zara Larsson",
+   "album": "So Good",
+   "file": "albums/zara-larsson--so-good.jpg"
+  },
+  {
+   "artist": "Zara Larsson",
+   "album": "Midnight Sun",
+   "file": "albums/zara-larsson--midnight-sun.jpg"
+  },
+  {
+   "artist": "Zara Larsson",
+   "album": "Poster Girl",
+   "file": "albums/zara-larsson--poster-girl.jpg"
+  },
+  {
+   "artist": "Zara Larsson",
+   "album": "Midnight Sun: Girls Trip",
+   "file": "albums/zara-larsson--midnight-sun-girls-trip.jpg"
+  },
+  {
+   "artist": "Zara Larsson",
+   "album": "VENUS",
+   "file": "albums/zara-larsson--venus.jpg"
+  },
+  {
+   "artist": "Zara Larsson",
+   "album": "Sessions",
+   "file": "albums/zara-larsson--sessions.jpg"
+  },
+  {
+   "artist": "Zara Larsson",
+   "album": "Midnight Sun (+ more)- Single",
+   "file": "albums/zara-larsson--midnight-sun-more-single.jpg"
+  },
+  {
+   "artist": "Zara Larsson",
+   "album": "1",
+   "file": "albums/zara-larsson--1.jpg"
+  },
+  {
+   "artist": "ROSALÍA",
+   "album": "EL MAL QUERER",
+   "file": "albums/rosalia--el-mal-querer.jpg"
+  },
+  {
+   "artist": "ROSALÍA",
+   "album": "LUX",
+   "file": "albums/rosalia--lux.jpg"
+  },
+  {
+   "artist": "ROSALÍA",
+   "album": "MOTOMAMI",
+   "file": "albums/rosalia--motomami.jpg"
+  },
+  {
+   "artist": "ROSALÍA",
+   "album": "Los Ángeles",
+   "file": "albums/rosalia--los-angeles.jpg"
+  },
+  {
+   "artist": "Mariah Carey",
+   "album": "Merry Christmas",
+   "file": "albums/mariah-carey--merry-christmas.jpg"
+  },
+  {
+   "artist": "Mariah Carey",
+   "album": "Greatest Hits",
+   "file": "albums/mariah-carey--greatest-hits.jpg"
+  },
+  {
+   "artist": "Mariah Carey",
+   "album": "Caution",
+   "file": "albums/mariah-carey--caution.jpg"
+  },
+  {
+   "artist": "Mariah Carey",
+   "album": "Daydream",
+   "file": "albums/mariah-carey--daydream.jpg"
+  },
+  {
+   "artist": "Mariah Carey",
+   "album": "Butterfly",
+   "file": "albums/mariah-carey--butterfly.jpg"
+  },
+  {
+   "artist": "Mariah Carey",
+   "album": "#1 to Infinity",
+   "file": "albums/mariah-carey--1-to-infinity.jpg"
+  },
+  {
+   "artist": "Mariah Carey",
+   "album": "The Rarities",
+   "file": "albums/mariah-carey--the-rarities.jpg"
+  },
+  {
+   "artist": "Mariah Carey",
+   "album": "Rainbow",
+   "file": "albums/mariah-carey--rainbow.jpg"
+  },
+  {
+   "artist": "Mariah Carey",
+   "album": "Emotions",
+   "file": "albums/mariah-carey--emotions.jpg"
+  },
+  {
+   "artist": "Mariah Carey",
+   "album": "Here For It All",
+   "file": "albums/mariah-carey--here-for-it-all.jpg"
+  },
+  {
+   "artist": "Mariah Carey",
+   "album": "The Emancipation Of Mimi",
+   "file": "albums/mariah-carey--the-emancipation-of-mimi.jpg"
+  },
+  {
+   "artist": "Mariah Carey",
+   "album": "Charmbracelet",
+   "file": "albums/mariah-carey--charmbracelet.jpg"
+  },
+  {
+   "artist": "Mariah Carey",
+   "album": "Glitter",
+   "file": "albums/mariah-carey--glitter.jpg"
+  },
+  {
+   "artist": "Mariah Carey",
+   "album": "#1's",
+   "file": "albums/mariah-carey--1-s.jpg"
+  },
+  {
+   "artist": "Mariah Carey",
+   "album": "E=MC2",
+   "file": "albums/mariah-carey--e-mc2.jpg"
+  },
+  {
+   "artist": "Mariah Carey",
+   "album": "Memoirs of an imperfect Angel",
+   "file": "albums/mariah-carey--memoirs-of-an-imperfect-angel.jpg"
+  },
+  {
+   "artist": "Mariah Carey",
+   "album": "Merry Christmas II You",
+   "file": "albums/mariah-carey--merry-christmas-ii-you.jpg"
+  },
+  {
+   "artist": "Mariah Carey",
+   "album": "Me. I Am Mariah…The Elusive Chanteuse",
+   "file": "albums/mariah-carey--me-i-am-mariah-the-elusive-chanteuse.jpg"
+  },
+  {
+   "artist": "Mariah Carey",
+   "album": "Someday EP",
+   "file": "albums/mariah-carey--someday-ep.jpg"
+  },
+  {
+   "artist": "Mariah Carey",
+   "album": "There's Got To Be a Way EP",
+   "file": "albums/mariah-carey--there-s-got-to-be-a-way-ep.jpg"
+  },
+  {
+   "artist": "Mariah Carey",
+   "album": "Music Box",
+   "file": "albums/mariah-carey--music-box.jpg"
+  },
+  {
+   "artist": "Mariah Carey",
+   "album": "Heartbreaker EP",
+   "file": "albums/mariah-carey--heartbreaker-ep.jpg"
+  },
+  {
+   "artist": "Mariah Carey",
+   "album": "Anytime You Need A Friend",
+   "file": "albums/mariah-carey--anytime-you-need-a-friend.jpg"
+  },
+  {
+   "artist": "Mariah Carey",
+   "album": "Dreamlover EP",
+   "file": "albums/mariah-carey--dreamlover-ep.jpg"
+  },
+  {
+   "artist": "Mariah Carey",
+   "album": "Mariah En Español EP",
+   "file": "albums/mariah-carey--mariah-en-espanol-ep.jpg"
+  },
+  {
+   "artist": "Mariah Carey",
+   "album": "The Roof (Back In Time) EP",
+   "file": "albums/mariah-carey--the-roof-back-in-time-ep.jpg"
+  },
+  {
+   "artist": "Mariah Carey",
+   "album": "My All EP",
+   "file": "albums/mariah-carey--my-all-ep.jpg"
+  },
+  {
+   "artist": "Mariah Carey",
+   "album": "Can't Take That Away (Mariah's Theme) EP",
+   "file": "albums/mariah-carey--can-t-take-that-away-mariah-s-theme-ep.jpg"
+  },
+  {
+   "artist": "Mariah Carey",
+   "album": "Joy To The World EP",
+   "file": "albums/mariah-carey--joy-to-the-world-ep.jpg"
+  },
+  {
+   "artist": "Mariah Carey",
+   "album": "I Still Believe EP",
+   "file": "albums/mariah-carey--i-still-believe-ep.jpg"
+  },
+  {
+   "artist": "Mariah Carey",
+   "album": "Sweetheart EP",
+   "file": "albums/mariah-carey--sweetheart-ep.jpg"
+  },
+  {
+   "artist": "Mariah Carey",
+   "album": "We Belong Together",
+   "file": "albums/mariah-carey--we-belong-together.jpg"
+  },
+  {
+   "artist": "Mariah Carey",
+   "album": "Do You Know Where You're Going To EP",
+   "file": "albums/mariah-carey--do-you-know-where-you-re-going-to-ep.jpg"
+  },
+  {
+   "artist": "Mariah Carey",
+   "album": "Against All Odds (Take A Look at Me Now) EP",
+   "file": "albums/mariah-carey--against-all-odds-take-a-look-at-me-now-ep.jpg"
+  },
+  {
+   "artist": "Mariah Carey",
+   "album": "It's Like That",
+   "file": "albums/mariah-carey--it-s-like-that.jpg"
+  },
+  {
+   "artist": "Mariah Carey",
+   "album": "Memoirs of an imperfect Angel (iTunes Version)",
+   "file": "albums/mariah-carey--memoirs-of-an-imperfect-angel-itunes-version.jpg"
+  },
+  {
+   "artist": "Mariah Carey",
+   "album": "The One",
+   "file": "albums/mariah-carey--the-one.jpg"
+  },
+  {
+   "artist": "Mariah Carey",
+   "album": "I Stay In Love",
+   "file": "albums/mariah-carey--i-stay-in-love.jpg"
+  },
+  {
+   "artist": "Megan Thee Stallion",
+   "album": "Good News",
+   "file": "albums/megan-thee-stallion--good-news.jpg"
+  },
+  {
+   "artist": "Megan Thee Stallion",
+   "album": "Traumazine",
+   "file": "albums/megan-thee-stallion--traumazine.jpg"
+  },
+  {
+   "artist": "Megan Thee Stallion",
+   "album": "Suga",
+   "file": "albums/megan-thee-stallion--suga.jpg"
+  },
+  {
+   "artist": "Megan Thee Stallion",
+   "album": "Fever",
+   "file": "albums/megan-thee-stallion--fever.jpg"
+  },
+  {
+   "artist": "Megan Thee Stallion",
+   "album": "Something for Thee Hotties",
+   "file": "albums/megan-thee-stallion--something-for-thee-hotties.jpg"
+  },
+  {
+   "artist": "Megan Thee Stallion",
+   "album": "Tina Snow",
+   "file": "albums/megan-thee-stallion--tina-snow.jpg"
+  },
+  {
+   "artist": "Megan Thee Stallion",
+   "album": "MEGAN: ACT II",
+   "file": "albums/megan-thee-stallion--megan-act-ii.jpg"
+  },
+  {
+   "artist": "Megan Thee Stallion",
+   "album": "MEGAN",
+   "file": "albums/megan-thee-stallion--megan.jpg"
+  },
+  {
+   "artist": "Megan Thee Stallion",
+   "album": "Make It Hot",
+   "file": "albums/megan-thee-stallion--make-it-hot.jpg"
+  },
+  {
+   "artist": "Megan Thee Stallion",
+   "album": "Wanna Be (Alternate Versions)",
+   "file": "albums/megan-thee-stallion--wanna-be-alternate-versions.jpg"
+  },
+  {
+   "artist": "Becky G",
+   "album": "MALA SANTA",
+   "file": "albums/becky-g--mala-santa.jpg"
+  },
+  {
+   "artist": "Becky G",
+   "album": "ESQUEMAS",
+   "file": "albums/becky-g--esquemas.jpg"
+  },
+  {
+   "artist": "Becky G",
+   "album": "ENCUENTROS",
+   "file": "albums/becky-g--encuentros.jpg"
+  },
+  {
+   "artist": "Becky G",
+   "album": "BARAJA BENDITA",
+   "file": "albums/becky-g--baraja-bendita.jpg"
+  },
+  {
+   "artist": "Becky G",
+   "album": "ESQUINAS",
+   "file": "albums/becky-g--esquinas.jpg"
+  },
+  {
+   "artist": "Ava Max",
+   "album": "Heaven & Hell",
+   "file": "albums/ava-max--heaven-hell.jpg"
+  },
+  {
+   "artist": "Ava Max",
+   "album": "Diamonds & Dancefloors",
+   "file": "albums/ava-max--diamonds-dancefloors.jpg"
+  },
+  {
+   "artist": "Ava Max",
+   "album": "Don't Click Play",
+   "file": "albums/ava-max--don-t-click-play.jpg"
+  },
+  {
+   "artist": "Meghan Trainor",
+   "album": "Takin' It Back",
+   "file": "albums/meghan-trainor--takin-it-back.jpg"
+  },
+  {
+   "artist": "Jessie J",
+   "album": "Sweet Talker",
+   "file": "albums/jessie-j--sweet-talker.jpg"
+  },
+  {
+   "artist": "Kesha",
+   "album": "High Road",
+   "file": "albums/kesha--high-road.jpg"
+  },
+  {
+   "artist": "(G)I-DLE",
+   "album": "I NEVER DIE",
+   "file": "albums/g-i-dle--i-never-die.jpg"
+  },
+  {
+   "artist": "ZEROBASEONE",
+   "album": "MELTING POINT",
+   "file": "albums/zerobaseone--melting-point.jpg"
+  },
+  {
+   "artist": "TAEYANG",
+   "album": "RISE",
+   "file": "albums/taeyang--rise.jpg"
+  },
+  {
+   "artist": "G-DRAGON",
+   "album": "Coup d'Etat",
+   "file": "albums/g-dragon--coup-d-etat.jpg"
+  },
+  {
+   "artist": "Latto",
+   "album": "777",
+   "file": "albums/latto--777.jpg"
+  },
+  {
+   "artist": "GloRilla",
+   "album": "Glorious",
+   "file": "albums/glorilla--glorious.jpg"
+  },
+  {
+   "artist": "Ice Spice",
+   "album": "Like..?",
+   "file": "albums/ice-spice--like.jpg"
+  },
+  {
+   "artist": "Doechii",
+   "album": "Alligator Bites Never Heal",
+   "file": "albums/doechii--alligator-bites-never-heal.jpg"
+  },
+  {
+   "artist": "Sexyy Red",
+   "album": "In Sexyy We Trust",
+   "file": "albums/sexyy-red--in-sexyy-we-trust.jpg"
+  },
+  {
+   "artist": "Flo Milli",
+   "album": "You Still Here, Ho?",
+   "file": "albums/flo-milli--you-still-here-ho.jpg"
+  },
+  {
+   "artist": "Missy Elliott",
+   "album": "Under Construction",
+   "file": "albums/missy-elliott--under-construction.jpg"
+  },
+  {
+   "artist": "Eve",
+   "album": "Let There Be Eve...Ruff Ryders' First Lady",
+   "file": "albums/eve--let-there-be-eve-ruff-ryders-first-lady.jpg"
+  },
+  {
+   "artist": "Lauryn Hill",
+   "album": "The Miseducation of Lauryn Hill",
+   "file": "albums/lauryn-hill--the-miseducation-of-lauryn-hill.jpg"
+  },
+  {
+   "artist": "Drake",
+   "album": "Scorpion",
+   "file": "albums/drake--scorpion.jpg"
+  },
+  {
+   "artist": "Kendrick Lamar",
+   "album": "good kid, m.A.A.d city",
+   "file": "albums/kendrick-lamar--good-kid-m-a-a-d-city.jpg"
+  },
+  {
+   "artist": "Travis Scott",
+   "album": "ASTROWORLD",
+   "file": "albums/travis-scott--astroworld.jpg"
+  },
+  {
+   "artist": "Eminem",
+   "album": "The Marshall Mathers LP",
+   "file": "albums/eminem--the-marshall-mathers-lp.jpg"
+  },
+  {
+   "artist": "J. Cole",
+   "album": "2014 Forest Hills Drive",
+   "file": "albums/j-cole--2014-forest-hills-drive.jpg"
+  },
+  {
+   "artist": "Future",
+   "album": "DS2",
+   "file": "albums/future--ds2.jpg"
+  },
+  {
+   "artist": "21 Savage",
+   "album": "I Am > I Was",
+   "file": "albums/21-savage--i-am-i-was.jpg"
+  },
+  {
+   "artist": "Lil Wayne",
+   "album": "Tha Carter III",
+   "file": "albums/lil-wayne--tha-carter-iii.jpg"
+  },
+  {
+   "artist": "Kanye West",
+   "album": "My Beautiful Dark Twisted Fantasy",
+   "file": "albums/kanye-west--my-beautiful-dark-twisted-fantasy.jpg"
+  },
+  {
+   "artist": "Juice WRLD",
+   "album": "Goodbye & Good Riddance",
+   "file": "albums/juice-wrld--goodbye-good-riddance.jpg"
+  },
+  {
+   "artist": "Lil Baby",
+   "album": "My Turn",
+   "file": "albums/lil-baby--my-turn.jpg"
+  },
+  {
+   "artist": "Pop Smoke",
+   "album": "Shoot for the Stars, Aim for the Moon",
+   "file": "albums/pop-smoke--shoot-for-the-stars-aim-for-the-moon.jpg"
+  },
+  {
+   "artist": "J Balvin",
+   "album": "Colores",
+   "file": "albums/j-balvin--colores.jpg"
+  },
+  {
+   "artist": "Maluma",
+   "album": "Pretty Boy, Dirty Boy",
+   "file": "albums/maluma--pretty-boy-dirty-boy.jpg"
+  },
+  {
+   "artist": "Ozuna",
+   "album": "Odisea",
+   "file": "albums/ozuna--odisea.jpg"
+  },
+  {
+   "artist": "Daddy Yankee",
+   "album": "Barrio Fino",
+   "file": "albums/daddy-yankee--barrio-fino.jpg"
+  },
+  {
+   "artist": "Nicky Jam",
+   "album": "Fénix",
+   "file": "albums/nicky-jam--fenix.jpg"
+  },
+  {
+   "artist": "The Weeknd",
+   "album": "After Hours",
+   "file": "albums/the-weeknd--after-hours.jpg"
+  },
+  {
+   "artist": "Usher",
+   "album": "Confessions",
+   "file": "albums/usher--confessions.jpg"
+  },
+  {
+   "artist": "Chris Brown",
+   "album": "Exclusive",
+   "file": "albums/chris-brown--exclusive.jpg"
+  },
+  {
+   "artist": "Summer Walker",
+   "album": "Over It",
+   "file": "albums/summer-walker--over-it.jpg"
+  },
+  {
+   "artist": "Brent Faiyaz",
+   "album": "Wasteland",
+   "file": "albums/brent-faiyaz--wasteland.jpg"
+  },
+  {
+   "artist": "H.E.R.",
+   "album": "H.E.R.",
+   "file": "albums/h-e-r--h-e-r.jpg"
+  },
+  {
+   "artist": "Miguel",
+   "album": "Wildheart",
+   "file": "albums/miguel--wildheart.jpg"
+  },
+  {
+   "artist": "Kehlani",
+   "album": "SweetSexySavage",
+   "file": "albums/kehlani--sweetsexysavage.jpg"
+  },
+  {
+   "artist": "Ed Sheeran",
+   "album": "÷",
+   "file": "albums/ed-sheeran--.jpg"
+  },
+  {
+   "artist": "Harry Styles",
+   "album": "Fine Line",
+   "file": "albums/harry-styles--fine-line.jpg"
+  },
+  {
+   "artist": "Coldplay",
+   "album": "Viva la Vida or Death and All His Friends",
+   "file": "albums/coldplay--viva-la-vida-or-death-and-all-his-friends.jpg"
+  },
+  {
+   "artist": "Sam Smith",
+   "album": "In the Lonely Hour",
+   "file": "albums/sam-smith--in-the-lonely-hour.jpg"
+  },
+  {
+   "artist": "Calvin Harris",
+   "album": "18 Months",
+   "file": "albums/calvin-harris--18-months.jpg"
+  },
+  {
+   "artist": "Little Mix",
+   "album": "Glory Days",
+   "file": "albums/little-mix--glory-days.jpg"
+  },
+  {
+   "artist": "Elton John",
+   "album": "Goodbye Yellow Brick Road",
+   "file": "albums/elton-john--goodbye-yellow-brick-road.jpg"
+  },
+  {
+   "artist": "Arctic Monkeys",
+   "album": "AM",
+   "file": "albums/arctic-monkeys--am.jpg"
+  },
+  {
+   "artist": "Queen",
+   "album": "A Night at the Opera",
+   "file": "albums/queen--a-night-at-the-opera.jpg"
+  },
+  {
+   "artist": "Amy Winehouse",
+   "album": "Back to Black",
+   "file": "albums/amy-winehouse--back-to-black.jpg"
+  },
+  {
+   "artist": "One Direction",
+   "album": "Take Me Home",
+   "file": "albums/one-direction--take-me-home.jpg"
+  },
+  {
+   "artist": "Jonas Brothers",
+   "album": "Happiness Begins",
+   "file": "albums/jonas-brothers--happiness-begins.jpg"
+  },
+  {
+   "artist": "Backstreet Boys",
+   "album": "Millennium",
+   "file": "albums/backstreet-boys--millennium.jpg"
+  },
+  {
+   "artist": "*NSYNC",
+   "album": "No Strings Attached",
+   "file": "albums/nsync--no-strings-attached.jpg"
+  },
+  {
+   "artist": "5 Seconds of Summer",
+   "album": "Youngblood",
+   "file": "albums/5-seconds-of-summer--youngblood.jpg"
+  },
+  {
+   "artist": "Westlife",
+   "album": "Coast to Coast",
+   "file": "albums/westlife--coast-to-coast.jpg"
+  },
+  {
+   "artist": "Big Time Rush",
+   "album": "BTR",
+   "file": "albums/big-time-rush--btr.jpg"
+  },
+  {
+   "artist": "The Wanted",
+   "album": "The Wanted",
+   "file": "albums/the-wanted--the-wanted.jpg"
+  },
+  {
+   "artist": "Why Don't We",
+   "album": "8 Letters",
+   "file": "albums/why-don-t-we--8-letters.jpg"
+  },
+  {
+   "artist": "Boyz II Men",
+   "album": "II",
+   "file": "albums/boyz-ii-men--ii.jpg"
+  },
+  {
+   "artist": "New Kids On The Block",
+   "album": "Hangin' Tough",
+   "file": "albums/new-kids-on-the-block--hangin-tough.jpg"
+  },
+  {
+   "artist": "Take That",
+   "album": "Progress",
+   "file": "albums/take-that--progress.jpg"
+  },
+  {
+   "artist": "Hanson",
+   "album": "Middle of Nowhere",
+   "file": "albums/hanson--middle-of-nowhere.jpg"
+  },
+  {
+   "artist": "JLS",
+   "album": "JLS",
+   "file": "albums/jls--jls.jpg"
+  },
+  {
+   "artist": "CNCO",
+   "album": "Primera Cita",
+   "file": "albums/cnco--primera-cita.jpg"
+  },
+  {
+   "artist": "Morgan Wallen",
+   "album": "One Thing at a Time",
+   "file": "albums/morgan-wallen--one-thing-at-a-time.jpg"
+  },
+  {
+   "artist": "Luke Combs",
+   "album": "What You See Is What You Get",
+   "file": "albums/luke-combs--what-you-see-is-what-you-get.jpg"
+  },
+  {
+   "artist": "Chris Stapleton",
+   "album": "Traveller",
+   "file": "albums/chris-stapleton--traveller.jpg"
+  },
+  {
+   "artist": "Kane Brown",
+   "album": "Kane Brown",
+   "file": "albums/kane-brown--kane-brown.jpg"
+  },
+  {
+   "artist": "Shania Twain",
+   "album": "Come On Over",
+   "file": "albums/shania-twain--come-on-over.jpg"
+  },
+  {
+   "artist": "Carrie Underwood",
+   "album": "Some Hearts",
+   "file": "albums/carrie-underwood--some-hearts.jpg"
+  },
+  {
+   "artist": "Luke Bryan",
+   "album": "Crash My Party",
+   "file": "albums/luke-bryan--crash-my-party.jpg"
+  },
+  {
+   "artist": "Lainey Wilson",
+   "album": "Bell Bottom Country",
+   "file": "albums/lainey-wilson--bell-bottom-country.jpg"
+  },
+  {
+   "artist": "Ella Langley",
+   "album": "Dandelion",
+   "file": "albums/ella-langley--dandelion.jpg"
+  },
+  {
+   "artist": "Kacey Musgraves",
+   "album": "Golden Hour",
+   "file": "albums/kacey-musgraves--golden-hour.jpg"
+  },
+  {
+   "artist": "Jason Aldean",
+   "album": "My Kinda Party",
+   "file": "albums/jason-aldean--my-kinda-party.jpg"
+  },
+  {
+   "artist": "Dolly Parton",
+   "album": "Jolene",
+   "file": "albums/dolly-parton--jolene.jpg"
+  },
+  {
+   "artist": "Johnny Cash",
+   "album": "At Folsom Prison",
+   "file": "albums/johnny-cash--at-folsom-prison.jpg"
+  },
+  {
+   "artist": "Tim McGraw",
+   "album": "Not a Moment Too Soon",
+   "file": "albums/tim-mcgraw--not-a-moment-too-soon.jpg"
+  },
+  {
+   "artist": "Miranda Lambert",
+   "album": "Platinum",
+   "file": "albums/miranda-lambert--platinum.jpg"
+  },
+  {
+   "artist": "Christina Aguilera",
+   "album": "Stripped",
+   "file": "albums/christina-aguilera--stripped.jpg"
+  },
+  {
+   "artist": "Madonna",
+   "album": "Confessions on a Dance Floor",
+   "file": "albums/madonna--confessions-on-a-dance-floor.jpg"
+  },
+  {
+   "artist": "Cher",
+   "album": "Believe",
+   "file": "albums/cher--believe.jpg"
+  },
+  {
+   "artist": "Tina Turner",
+   "album": "Private Dancer",
+   "file": "albums/tina-turner--private-dancer.jpg"
+  },
+  {
+   "artist": "Aretha Franklin",
+   "album": "I Never Loved a Man the Way I Love You",
+   "file": "albums/aretha-franklin--i-never-loved-a-man-the-way-i-love-you.jpg"
+  },
+  {
+   "artist": "Diana Ross",
+   "album": "diana",
+   "file": "albums/diana-ross--diana.jpg"
+  },
+  {
+   "artist": "Janet Jackson",
+   "album": "Rhythm Nation 1814",
+   "file": "albums/janet-jackson--rhythm-nation-1814.jpg"
+  },
+  {
+   "artist": "Jennifer Lopez",
+   "album": "This Is Me... Then",
+   "file": "albums/jennifer-lopez--this-is-me-then.jpg"
+  },
+  {
+   "artist": "Jennifer Lopez",
+   "album": "This Is Me... Now",
+   "file": "albums/jennifer-lopez--this-is-me-now.jpg"
+  },
+  {
+   "artist": "Barbra Streisand",
+   "album": "Guilty",
+   "file": "albums/barbra-streisand--guilty.jpg"
+  },
+  {
+   "artist": "Donna Summer",
+   "album": "Bad Girls",
+   "file": "albums/donna-summer--bad-girls.jpg"
+  },
+  {
+   "artist": "Fifth Harmony",
+   "album": "Reflection",
+   "file": "albums/fifth-harmony--reflection.jpg"
+  },
+  {
+   "artist": "Olivia Dean",
+   "album": "The Art of Loving",
+   "file": "albums/olivia-dean--the-art-of-loving.jpg"
+  },
+  {
+   "artist": "Imagine Dragons",
+   "album": "Night Visions",
+   "file": "albums/imagine-dragons--night-visions.jpg"
+  },
+  {
+   "artist": "Linkin Park",
+   "album": "Hybrid Theory",
+   "file": "albums/linkin-park--hybrid-theory.jpg"
+  },
+  {
+   "artist": "Twenty One Pilots",
+   "album": "Blurryface",
+   "file": "albums/twenty-one-pilots--blurryface.jpg"
+  },
+  {
+   "artist": "Paramore",
+   "album": "Riot!",
+   "file": "albums/paramore--riot.jpg"
+  },
+  {
+   "artist": "The Killers",
+   "album": "Hot Fuss",
+   "file": "albums/the-killers--hot-fuss.jpg"
+  },
+  {
+   "artist": "AC/DC",
+   "album": "Back in Black",
+   "file": "albums/ac-dc--back-in-black.jpg"
+  },
+  {
+   "artist": "Metallica",
+   "album": "Metallica",
+   "file": "albums/metallica--metallica.jpg"
+  },
+  {
+   "artist": "Fall Out Boy",
+   "album": "Infinity on High",
+   "file": "albums/fall-out-boy--infinity-on-high.jpg"
+  },
+  {
+   "artist": "Justin Bieber",
+   "album": "Purpose",
+   "file": "albums/justin-bieber--purpose.jpg"
+  },
+  {
+   "artist": "Shawn Mendes",
+   "album": "Illuminate",
+   "file": "albums/shawn-mendes--illuminate.jpg"
+  },
+  {
+   "artist": "Carly Rae Jepsen",
+   "album": "Emotion",
+   "file": "albums/carly-rae-jepsen--emotion.jpg"
+  },
+  {
+   "artist": "Nelly Furtado",
+   "album": "Loose",
+   "file": "albums/nelly-furtado--loose.jpg"
+  },
+  {
+   "artist": "Alessia Cara",
+   "album": "Know-It-All",
+   "file": "albums/alessia-cara--know-it-all.jpg"
+  },
+  {
+   "artist": "Michael Bublé",
+   "album": "Christmas",
+   "file": "albums/michael-buble--christmas.jpg"
+  },
+  {
+   "artist": "Bryan Adams",
+   "album": "Reckless",
+   "file": "albums/bryan-adams--reckless.jpg"
+  },
+  {
+   "artist": "Joni Mitchell",
+   "album": "Blue",
+   "file": "albums/joni-mitchell--blue.jpg"
+  },
+  {
+   "artist": "Nickelback",
+   "album": "All the Right Reasons",
+   "file": "albums/nickelback--all-the-right-reasons.jpg"
+  },
+  {
+   "artist": "Michael Jackson",
+   "album": "Thriller",
+   "file": "albums/michael-jackson--thriller.jpg"
+  },
+  {
+   "artist": "The Beatles",
+   "album": "Abbey Road",
+   "file": "albums/the-beatles--abbey-road.jpg"
+  },
+  {
+   "artist": "Elvis Presley",
+   "album": "Elvis' Golden Records",
+   "file": "albums/elvis-presley--elvis-golden-records.jpg"
+  },
+  {
+   "artist": "Prince",
+   "album": "Purple Rain",
+   "file": "albums/prince--purple-rain.jpg"
+  },
+  {
+   "artist": "David Bowie",
+   "album": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars",
+   "file": "albums/david-bowie--the-rise-and-fall-of-ziggy-stardust-and-the-spiders-from-mars.jpg"
+  },
+  {
+   "artist": "Fleetwood Mac",
+   "album": "Rumours",
+   "file": "albums/fleetwood-mac--rumours.jpg"
+  },
+  {
+   "artist": "ABBA",
+   "album": "Arrival",
+   "file": "albums/abba--arrival.jpg"
+  },
+  {
+   "artist": "Eagles",
+   "album": "Hotel California",
+   "file": "albums/eagles--hotel-california.jpg"
+  },
+  {
+   "artist": "Bruce Springsteen",
+   "album": "Born to Run",
+   "file": "albums/bruce-springsteen--born-to-run.jpg"
+  },
+  {
+   "artist": "Bob Dylan",
+   "album": "Highway 61 Revisited",
+   "file": "albums/bob-dylan--highway-61-revisited.jpg"
+  },
+  {
+   "artist": "Stevie Wonder",
+   "album": "Songs in the Key of Life",
+   "file": "albums/stevie-wonder--songs-in-the-key-of-life.jpg"
+  },
+  {
+   "artist": "Migos",
+   "album": "Culture",
+   "file": "albums/migos--culture.jpg"
+  },
+  {
+   "artist": "Destiny's Child",
+   "album": "The Writing's on the Wall",
+   "file": "albums/destiny-s-child--the-writing-s-on-the-wall.jpg"
+  },
+  {
+   "artist": "Spice Girls",
+   "album": "Spice",
+   "file": "albums/spice-girls--spice.jpg"
+  },
+  {
+   "artist": "TLC",
+   "album": "CrazySexyCool",
+   "file": "albums/tlc--crazysexycool.jpg"
+  },
+  {
+   "artist": "The Pussycat Dolls",
+   "album": "PCD",
+   "file": "albums/the-pussycat-dolls--pcd.jpg"
+  },
+  {
+   "artist": "Girls Aloud",
+   "album": "Sound of the Underground",
+   "file": "albums/girls-aloud--sound-of-the-underground.jpg"
+  },
+  {
+   "artist": "The Supremes",
+   "album": "Where Did Our Love Go",
+   "file": "albums/the-supremes--where-did-our-love-go.jpg"
+  },
+  {
+   "artist": "HAIM",
+   "album": "Something to Tell You",
+   "file": "albums/haim--something-to-tell-you.jpg"
+  },
+  {
+   "artist": "En Vogue",
+   "album": "Funky Divas",
+   "file": "albums/en-vogue--funky-divas.jpg"
+  },
+  {
+   "artist": "Bruno Mars",
+   "album": "24K Magic",
+   "file": "albums/bruno-mars--24k-magic.jpg"
+  },
+  {
+   "artist": "Post Malone",
+   "album": "beerbongs & bentleys",
+   "file": "albums/post-malone--beerbongs-bentleys.jpg"
+  },
+  {
+   "artist": "Charlie Puth",
+   "album": "Voicenotes",
+   "file": "albums/charlie-puth--voicenotes.jpg"
+  },
+  {
+   "artist": "Lil Nas X",
+   "album": "MONTERO",
+   "file": "albums/lil-nas-x--montero.jpg"
+  },
+  {
+   "artist": "Marshmello",
+   "album": "Joytime",
+   "file": "albums/marshmello--joytime.jpg"
+  },
+  {
+   "artist": "Zendaya",
+   "album": "Zendaya",
+   "file": "albums/zendaya--zendaya.jpg"
+  },
+  {
+   "artist": "Hilary Duff",
+   "album": "Metamorphosis",
+   "file": "albums/hilary-duff--metamorphosis.jpg"
+  },
+  {
+   "artist": "Dove Cameron",
+   "album": "Alchemical: Volume 1",
+   "file": "albums/dove-cameron--alchemical-volume-1.jpg"
+  },
+  {
+   "artist": "Vanessa Hudgens",
+   "album": "V",
+   "file": "albums/vanessa-hudgens--v.jpg"
+  },
+  {
+   "artist": "Ashley Tisdale",
+   "album": "Headstrong",
+   "file": "albums/ashley-tisdale--headstrong.jpg"
+  },
+  {
+   "artist": "JoJo",
+   "album": "JoJo",
+   "file": "albums/jojo--jojo.jpg"
+  },
+  {
+   "artist": "Lindsay Lohan",
+   "album": "Speak",
+   "file": "albums/lindsay-lohan--speak.jpg"
+  },
+  {
+   "artist": "David Guetta",
+   "album": "Nothing but the Beat",
+   "file": "albums/david-guetta--nothing-but-the-beat.jpg"
+  },
+  {
+   "artist": "Zedd",
+   "album": "True Colors",
+   "file": "albums/zedd--true-colors.jpg"
+  },
+  {
+   "artist": "Diplo",
+   "album": "Florida",
+   "file": "albums/diplo--florida.jpg"
+  },
+  {
+   "artist": "Swedish House Mafia",
+   "album": "Paradise Again",
+   "file": "albums/swedish-house-mafia--paradise-again.jpg"
+  },
+  {
+   "artist": "Fred again..",
+   "album": "Actual Life 3 (January 1 - September 9 2022)",
+   "file": "albums/fred-again--actual-life-3-january-1-september-9-2022.jpg"
+  },
+  {
+   "artist": "Daft Punk",
+   "album": "Random Access Memories",
+   "file": "albums/daft-punk--random-access-memories.jpg"
+  },
+  {
+   "artist": "Lola Young",
+   "album": "I'm Only F**king Myself",
+   "file": "albums/lola-young--i-m-only-f-king-myself.jpg"
+  },
+  {
+   "artist": "Gracie Abrams",
+   "album": "The Secret of Us",
+   "file": "albums/gracie-abrams--the-secret-of-us.jpg"
+  },
+  {
+   "artist": "Reneé Rapp",
+   "album": "Snow Angel",
+   "file": "albums/renee-rapp--snow-angel.jpg"
+  },
+  {
+   "artist": "Laufey",
+   "album": "Bewitched",
+   "file": "albums/laufey--bewitched.jpg"
+  },
+  {
+   "artist": "Tyla",
+   "album": "TYLA",
+   "file": "albums/tyla--tyla.jpg"
+  },
+  {
+   "artist": "Lizzy McAlpine",
+   "album": "Older",
+   "file": "albums/lizzy-mcalpine--older.jpg"
+  },
+  {
+   "artist": "Janelle Monáe",
+   "album": "The ArchAndroid",
+   "file": "albums/janelle-monae--the-archandroid.jpg"
+  },
+  {
+   "artist": "Tove Lo",
+   "album": "Queen of the Clouds",
+   "file": "albums/tove-lo--queen-of-the-clouds.jpg"
+  },
+  {
+   "artist": "Kylie Minogue",
+   "album": "Fever",
+   "file": "albums/kylie-minogue--fever.jpg"
+  },
+  {
+   "artist": "Mabel",
+   "album": "About Last Night...",
+   "file": "albums/mabel--about-last-night.jpg"
+  },
+  {
+   "artist": "NewJeans",
+   "album": "New Jeans",
+   "file": "albums/newjeans--new-jeans.jpg"
+  },
+  {
+   "artist": "RIIZE",
+   "album": "Get A Guitar",
+   "file": "albums/riize--get-a-guitar.jpg"
+  },
+  {
+   "artist": "Jin",
+   "album": "The Astronaut",
+   "file": "albums/jin--the-astronaut.jpg"
+  },
+  {
+   "artist": "Lil' Kim",
+   "album": "Hard Core",
+   "file": "albums/lil-kim--hard-core.jpg"
+  },
+  {
+   "artist": "City Girls",
+   "album": "Girl Code",
+   "file": "albums/city-girls--girl-code.jpg"
+  },
+  {
+   "artist": "XXXTENTACION",
+   "album": "?",
+   "file": "albums/xxxtentacion--.jpg"
+  },
+  {
+   "artist": "Tyler, The Creator",
+   "album": "IGOR",
+   "file": "albums/tyler-the-creator--igor.jpg"
+  },
+  {
+   "artist": "Mac Miller",
+   "album": "Swimming",
+   "file": "albums/mac-miller--swimming.jpg"
+  },
+  {
+   "artist": "Bad Bunny",
+   "album": "Un Verano Sin Ti",
+   "file": "albums/bad-bunny--un-verano-sin-ti.jpg"
+  },
+  {
+   "artist": "Feid",
+   "album": "FERXXOCALIPSIS",
+   "file": "albums/feid--ferxxocalipsis.jpg"
+  },
+  {
+   "artist": "Rauw Alejandro",
+   "album": "Saturno",
+   "file": "albums/rauw-alejandro--saturno.jpg"
+  },
+  {
+   "artist": "Peso Pluma",
+   "album": "GÉNESIS",
+   "file": "albums/peso-pluma--genesis.jpg"
+  },
+  {
+   "artist": "Anuel AA",
+   "album": "Real Hasta la Muerte",
+   "file": "albums/anuel-aa--real-hasta-la-muerte.jpg"
+  },
+  {
+   "artist": "Myke Towers",
+   "album": "Easy Money Baby",
+   "file": "albums/myke-towers--easy-money-baby.jpg"
+  },
+  {
+   "artist": "Daniel Caesar",
+   "album": "Freudian",
+   "file": "albums/daniel-caesar--freudian.jpg"
+  },
+  {
+   "artist": "Alicia Keys",
+   "album": "Songs in A Minor",
+   "file": "albums/alicia-keys--songs-in-a-minor.jpg"
+  },
+  {
+   "artist": "Khalid",
+   "album": "American Teen",
+   "file": "albums/khalid--american-teen.jpg"
+  },
+  {
+   "artist": "Frank Ocean",
+   "album": "Blonde",
+   "file": "albums/frank-ocean--blonde.jpg"
+  },
+  {
+   "artist": "Jhené Aiko",
+   "album": "Chilombo",
+   "file": "albums/jhene-aiko--chilombo.jpg"
+  },
+  {
+   "artist": "Lewis Capaldi",
+   "album": "Divinely Uninspired to a Hellish Extent",
+   "file": "albums/lewis-capaldi--divinely-uninspired-to-a-hellish-extent.jpg"
+  },
+  {
+   "artist": "Rita Ora",
+   "album": "Phoenix",
+   "file": "albums/rita-ora--phoenix.jpg"
+  },
+  {
+   "artist": "98 Degrees",
+   "album": "98 Degrees and Rising",
+   "file": "albums/98-degrees--98-degrees-and-rising.jpg"
+  },
+  {
+   "artist": "Zach Bryan",
+   "album": "American Heartbreak",
+   "file": "albums/zach-bryan--american-heartbreak.jpg"
+  },
+  {
+   "artist": "Nirvana",
+   "album": "Nevermind",
+   "file": "albums/nirvana--nevermind.jpg"
+  },
+  {
+   "artist": "Foo Fighters",
+   "album": "The Colour and the Shape",
+   "file": "albums/foo-fighters--the-colour-and-the-shape.jpg"
+  },
+  {
+   "artist": "Green Day",
+   "album": "American Idiot",
+   "file": "albums/green-day--american-idiot.jpg"
+  },
+  {
+   "artist": "Red Hot Chili Peppers",
+   "album": "Californication",
+   "file": "albums/red-hot-chili-peppers--californication.jpg"
+  },
+  {
+   "artist": "Guns N' Roses",
+   "album": "Appetite for Destruction",
+   "file": "albums/guns-n-roses--appetite-for-destruction.jpg"
+  },
+  {
+   "artist": "Bob Marley",
+   "album": "Legend",
+   "file": "albums/bob-marley--legend.jpg"
+  },
+  {
+   "artist": "Maroon 5",
+   "album": "Songs About Jane",
+   "file": "albums/maroon-5--songs-about-jane.jpg"
+  },
+  {
+   "artist": "Gwen Stefani",
+   "album": "Love. Angel. Music. Baby.",
+   "file": "albums/gwen-stefani--love-angel-music-baby.jpg"
+  },
+  {
+   "artist": "The Chainsmokers",
+   "album": "Memories...Do Not Open",
+   "file": "albums/the-chainsmokers--memories-do-not-open.jpg"
+  },
+  {
+   "artist": "Avicii",
+   "album": "True",
+   "file": "albums/avicii--true.jpg"
+  },
+  {
+   "artist": "Martin Garrix",
+   "album": "Seven",
+   "file": "albums/martin-garrix--seven.jpg"
+  },
+  {
+   "artist": "Kygo",
+   "album": "Cloud Nine",
+   "file": "albums/kygo--cloud-nine.jpg"
+  },
+  {
+   "artist": "Alan Walker",
+   "album": "Different World",
+   "file": "albums/alan-walker--different-world.jpg"
+  },
+  {
+   "artist": "Skrillex",
+   "album": "Scary Monsters and Nice Sprites",
+   "file": "albums/skrillex--scary-monsters-and-nice-sprites.jpg"
+  },
+  {
+   "artist": "Tiësto",
+   "album": "Drive",
+   "file": "albums/tiesto--drive.jpg"
+  },
+  {
+   "artist": "Illenium",
+   "album": "Ascend",
+   "file": "albums/illenium--ascend.jpg"
+  },
+  {
+   "artist": "Addison Rae",
+   "album": "AR",
+   "file": "albums/addison-rae--ar.jpg"
+  },
+  {
+   "artist": "Raye",
+   "album": "My 21st Century Blues",
+   "file": "albums/raye--my-21st-century-blues.jpg"
+  },
+  {
+   "artist": "Role Model",
+   "album": "Kansas Anymore (The Longest Goodbye)",
+   "file": "albums/role-model--kansas-anymore-the-longest-goodbye.jpg"
+  },
+  {
+   "artist": "Banks",
+   "album": "Goddess",
+   "file": "albums/banks--goddess.jpg"
+  },
+  {
+   "artist": "Tinashe",
+   "album": "Nightride",
+   "file": "albums/tinashe--nightride.jpg"
+  },
+  {
+   "artist": "MØ",
+   "album": "No Mythologies to Follow",
+   "file": "albums/mo--no-mythologies-to-follow.jpg"
+  },
+  {
+   "artist": "RIIZE",
+   "album": "RIIZING",
+   "file": "albums/riize--riizing.jpg"
+  },
+  {
+   "artist": "Taeyeon",
+   "album": "My Voice",
+   "file": "albums/taeyeon--my-voice.jpg"
+  },
+  {
+   "artist": "Saweetie",
+   "album": "ICY",
+   "file": "albums/saweetie--icy.jpg"
+  },
+  {
+   "artist": "Lil' Kim",
+   "album": "The Notorious K.I.M.",
+   "file": "albums/lil-kim--the-notorious-k-i-m.jpg"
+  },
+  {
+   "artist": "City Girls",
+   "album": "Period",
+   "file": "albums/city-girls--period.jpg"
+  },
+  {
+   "artist": "XXXTENTACION",
+   "album": "17",
+   "file": "albums/xxxtentacion--17.jpg"
+  },
+  {
+   "artist": "Tyler, The Creator",
+   "album": "CALL ME IF YOU GET LOST",
+   "file": "albums/tyler-the-creator--call-me-if-you-get-lost.jpg"
+  },
+  {
+   "artist": "Mac Miller",
+   "album": "Circles",
+   "file": "albums/mac-miller--circles.jpg"
+  },
+  {
+   "artist": "Bad Bunny",
+   "album": "YHLQMDLG",
+   "file": "albums/bad-bunny--yhlqmdlg.jpg"
+  },
+  {
+   "artist": "Rauw Alejandro",
+   "album": "Vice Versa",
+   "file": "albums/rauw-alejandro--vice-versa.jpg"
+  },
+  {
+   "artist": "Peso Pluma",
+   "album": "Éxodo",
+   "file": "albums/peso-pluma--exodo.jpg"
+  },
+  {
+   "artist": "Anuel AA",
+   "album": "Emmanuel",
+   "file": "albums/anuel-aa--emmanuel.jpg"
+  },
+  {
+   "artist": "Myke Towers",
+   "album": "La Pantera Negra",
+   "file": "albums/myke-towers--la-pantera-negra.jpg"
+  },
+  {
+   "artist": "Daniel Caesar",
+   "album": "NEVER ENOUGH",
+   "file": "albums/daniel-caesar--never-enough.jpg"
+  },
+  {
+   "artist": "Alicia Keys",
+   "album": "As I Am",
+   "file": "albums/alicia-keys--as-i-am.jpg"
+  },
+  {
+   "artist": "Khalid",
+   "album": "Free Spirit",
+   "file": "albums/khalid--free-spirit.jpg"
+  },
+  {
+   "artist": "Frank Ocean",
+   "album": "channel ORANGE",
+   "file": "albums/frank-ocean--channel-orange.jpg"
+  },
+  {
+   "artist": "Jhené Aiko",
+   "album": "Trip",
+   "file": "albums/jhene-aiko--trip.jpg"
+  },
+  {
+   "artist": "Lewis Capaldi",
+   "album": "Broken by Desire to Be Heavenly Sent",
+   "file": "albums/lewis-capaldi--broken-by-desire-to-be-heavenly-sent.jpg"
+  },
+  {
+   "artist": "Rita Ora",
+   "album": "ORA",
+   "file": "albums/rita-ora--ora.jpg"
+  },
+  {
+   "artist": "Zach Bryan",
+   "album": "Zach Bryan",
+   "file": "albums/zach-bryan--zach-bryan.jpg"
+  },
+  {
+   "artist": "Nirvana",
+   "album": "In Utero",
+   "file": "albums/nirvana--in-utero.jpg"
+  },
+  {
+   "artist": "Foo Fighters",
+   "album": "There Is Nothing Left to Lose",
+   "file": "albums/foo-fighters--there-is-nothing-left-to-lose.jpg"
+  },
+  {
+   "artist": "Green Day",
+   "album": "Dookie",
+   "file": "albums/green-day--dookie.jpg"
+  },
+  {
+   "artist": "Red Hot Chili Peppers",
+   "album": "Stadium Arcadium",
+   "file": "albums/red-hot-chili-peppers--stadium-arcadium.jpg"
+  },
+  {
+   "artist": "Guns N' Roses",
+   "album": "Use Your Illusion I",
+   "file": "albums/guns-n-roses--use-your-illusion-i.jpg"
+  },
+  {
+   "artist": "Bob Marley",
+   "album": "Exodus",
+   "file": "albums/bob-marley--exodus.jpg"
+  },
+  {
+   "artist": "Maroon 5",
+   "album": "It Won't Be Soon Before Long",
+   "file": "albums/maroon-5--it-won-t-be-soon-before-long.jpg"
+  },
+  {
+   "artist": "Gwen Stefani",
+   "album": "The Sweet Escape",
+   "file": "albums/gwen-stefani--the-sweet-escape.jpg"
+  },
+  {
+   "artist": "The Chainsmokers",
+   "album": "Sick Boy",
+   "file": "albums/the-chainsmokers--sick-boy.jpg"
+  },
+  {
+   "artist": "Avicii",
+   "album": "Stories",
+   "file": "albums/avicii--stories.jpg"
+  },
+  {
+   "artist": "Martin Garrix",
+   "album": "Sentio",
+   "file": "albums/martin-garrix--sentio.jpg"
+  },
+  {
+   "artist": "Kygo",
+   "album": "Golden Hour",
+   "file": "albums/kygo--golden-hour.jpg"
+  },
+  {
+   "artist": "Alan Walker",
+   "album": "Walkerworld",
+   "file": "albums/alan-walker--walkerworld.jpg"
+  },
+  {
+   "artist": "Skrillex",
+   "album": "Quest for Fire",
+   "file": "albums/skrillex--quest-for-fire.jpg"
+  },
+  {
+   "artist": "Tiësto",
+   "album": "Club Life: Volume One Las Vegas",
+   "file": "albums/tiesto--club-life-volume-one-las-vegas.jpg"
+  },
+  {
+   "artist": "Illenium",
+   "album": "Awake",
+   "file": "albums/illenium--awake.jpg"
+  },
+  {
+   "artist": "Raye",
+   "album": "Euphoric Sad Songs",
+   "file": "albums/raye--euphoric-sad-songs.jpg"
+  },
+  {
+   "artist": "Role Model",
+   "album": "Sally, When the Wine Runs Out",
+   "file": "albums/role-model--sally-when-the-wine-runs-out.jpg"
+  },
+  {
+   "artist": "Banks",
+   "album": "The Altar",
+   "file": "albums/banks--the-altar.jpg"
+  },
+  {
+   "artist": "Tinashe",
+   "album": "Aquarius",
+   "file": "albums/tinashe--aquarius.jpg"
+  },
+  {
+   "artist": "MØ",
+   "album": "Forever Neverland",
+   "file": "albums/mo--forever-neverland.jpg"
+  },
+  {
+   "artist": "NewJeans",
+   "album": "Supernatural",
+   "file": "albums/newjeans--supernatural.jpg"
+  },
+  {
+   "artist": "THE BOYZ",
+   "album": "Phantasy Pt.1 Christmas In August",
+   "file": "albums/the-boyz--phantasy-pt-1-christmas-in-august.jpg"
+  },
+  {
+   "artist": "SHINee",
+   "album": "Lucifer",
+   "file": "albums/shinee--lucifer.jpg"
+  },
+  {
+   "artist": "Feid",
+   "album": "Feliz Cumpleaños Ferxxo Te Pirateamos el Álbum",
+   "file": "albums/feid--feliz-cumpleanos-ferxxo-te-pirateamos-el-album.jpg"
+  },
+  {
+   "artist": "98 Degrees",
+   "album": "This Christmas",
+   "file": "albums/98-degrees--this-christmas.jpg"
+  },
+  {
+   "artist": "NCT DREAM",
+   "album": "Beatbox",
+   "file": "albums/nct-dream--beatbox.jpg"
+  },
+  {
+   "artist": "NCT 127",
+   "album": "Sticker",
+   "file": "albums/nct-127--sticker.jpg"
+  },
+  {
+   "artist": "JAY-Z",
+   "album": "The Blueprint",
+   "file": "albums/jay-z--the-blueprint.jpg"
+  },
+  {
+   "artist": "JAY-Z",
+   "album": "4:44",
+   "file": "albums/jay-z--4-44.jpg"
+  }
+ ],
+ "artists": [
+  {
+   "artist": "Billie Eilish",
+   "album": "(album not yet identified)",
+   "file": "artists/billie-eilish.jpg"
+  },
+  {
+   "artist": "Christina Aguilera",
+   "album": "(album not yet identified)",
+   "file": "artists/christina-aguilera.jpg"
+  },
+  {
+   "artist": "Gracie Abrams",
+   "album": "(album not yet identified)",
+   "file": "artists/gracie-abrams.jpg"
+  },
+  {
+   "artist": "Ice Spice",
+   "album": "(album not yet identified)",
+   "file": "artists/ice-spice.jpg"
+  },
+  {
+   "artist": "Latto",
+   "album": "(album not yet identified)",
+   "file": "artists/latto.jpg"
+  },
+  {
+   "artist": "Iggy Azalea",
+   "album": "(album not yet identified)",
+   "file": "artists/iggy-azalea.jpg"
+  },
+  {
+   "artist": "Madonna",
+   "album": "(album not yet identified)",
+   "file": "artists/madonna.jpg"
+  },
+  {
+   "artist": "Janet Jackson",
+   "album": "(album not yet identified)",
+   "file": "artists/janet-jackson.jpg"
+  },
+  {
+   "artist": "Shania Twain",
+   "album": "(album not yet identified)",
+   "file": "artists/shania-twain.jpg"
+  },
+  {
+   "artist": "Cher",
+   "album": "(album not yet identified)",
+   "file": "artists/cher.jpg"
+  },
+  {
+   "artist": "Amy Winehouse",
+   "album": "(album not yet identified)",
+   "file": "artists/amy-winehouse.jpg"
+  },
+  {
+   "artist": "Fergie",
+   "album": "(album not yet identified)",
+   "file": "artists/fergie.jpg"
+  },
+  {
+   "artist": "Gwen Stefani",
+   "album": "(album not yet identified)",
+   "file": "artists/gwen-stefani.jpg"
+  },
+  {
+   "artist": "Nelly Furtado",
+   "album": "(album not yet identified)",
+   "file": "artists/nelly-furtado.jpg"
+  },
+  {
+   "artist": "Ciara",
+   "album": "(album not yet identified)",
+   "file": "artists/ciara.jpg"
+  },
+  {
+   "artist": "Kesha",
+   "album": "(album not yet identified)",
+   "file": "artists/kesha.jpg"
+  },
+  {
+   "artist": "Camila Cabello",
+   "album": "(album not yet identified)",
+   "file": "artists/camila-cabello.jpg"
+  },
+  {
+   "artist": "Halsey",
+   "album": "(album not yet identified)",
+   "file": "artists/halsey.jpg"
+  },
+  {
+   "artist": "Sia",
+   "album": "(album not yet identified)",
+   "file": "artists/sia.jpg"
+  },
+  {
+   "artist": "Demi Lovato",
+   "album": "(album not yet identified)",
+   "file": "artists/demi-lovato.jpg"
+  },
+  {
+   "artist": "Ellie Goulding",
+   "album": "(album not yet identified)",
+   "file": "artists/ellie-goulding.jpg"
+  },
+  {
+   "artist": "Meghan Trainor",
+   "album": "(album not yet identified)",
+   "file": "artists/meghan-trainor.jpg"
+  },
+  {
+   "artist": "Ava Max",
+   "album": "(album not yet identified)",
+   "file": "artists/ava-max.jpg"
+  },
+  {
+   "artist": "Lizzo",
+   "album": "(album not yet identified)",
+   "file": "artists/lizzo.jpg"
+  },
+  {
+   "artist": "Pussycat Dolls",
+   "album": "(album not yet identified)",
+   "file": "artists/pussycat-dolls.jpg"
+  },
+  {
+   "artist": "Jennifer Lopez",
+   "album": "(album not yet identified)",
+   "file": "artists/jennifer-lopez.jpg"
+  },
+  {
+   "artist": "Alanis Morissette",
+   "album": "(album not yet identified)",
+   "file": "artists/alanis-morissette.jpg"
+  },
+  {
+   "artist": "Lauryn Hill",
+   "album": "(album not yet identified)",
+   "file": "artists/lauryn-hill.jpg"
+  },
+  {
+   "artist": "Brandy",
+   "album": "(album not yet identified)",
+   "file": "artists/brandy.jpg"
+  },
+  {
+   "artist": "Mandy Moore",
+   "album": "(album not yet identified)",
+   "file": "artists/mandy-moore.jpg"
+  },
+  {
+   "artist": "Keri Hilson",
+   "album": "(album not yet identified)",
+   "file": "artists/keri-hilson.jpg"
+  },
+  {
+   "artist": "Azealia Banks",
+   "album": "(album not yet identified)",
+   "file": "artists/azealia-banks.jpg"
+  },
+  {
+   "artist": "Tinashe",
+   "album": "(album not yet identified)",
+   "file": "artists/tinashe.jpg"
+  },
+  {
+   "artist": "Tyla",
+   "album": "(album not yet identified)",
+   "file": "artists/tyla.jpg"
+  },
+  {
+   "artist": "Carly Rae Jepsen",
+   "album": "(album not yet identified)",
+   "file": "artists/carly-rae-jepsen.jpg"
+  },
+  {
+   "artist": "KAROL G",
+   "album": "(album not yet identified)",
+   "file": "artists/karol-g.jpg"
+  },
+  {
+   "artist": "Becky G",
+   "album": "(album not yet identified)",
+   "file": "artists/becky-g.jpg"
+  },
+  {
+   "artist": "JENNIE",
+   "album": "(album not yet identified)",
+   "file": "artists/jennie.jpg"
+  },
+  {
+   "artist": "ROSÉ",
+   "album": "(album not yet identified)",
+   "file": "artists/rose.jpg"
+  },
+  {
+   "artist": "JISOO",
+   "album": "(album not yet identified)",
+   "file": "artists/jisoo.jpg"
+  }
+ ],
+ "unsorted": [
+  {
+   "index": 1,
+   "file": "unsorted/001.jpg"
+  },
+  {
+   "index": 2,
+   "file": "unsorted/002.jpg"
+  },
+  {
+   "index": 3,
+   "file": "unsorted/003.jpg"
+  },
+  {
+   "index": 4,
+   "file": "unsorted/004.jpg"
+  },
+  {
+   "index": 7,
+   "file": "unsorted/007.jpg"
+  },
+  {
+   "index": 8,
+   "file": "unsorted/008.jpg"
+  },
+  {
+   "index": 9,
+   "file": "unsorted/009.jpg"
+  },
+  {
+   "index": 10,
+   "file": "unsorted/010.jpg"
+  },
+  {
+   "index": 11,
+   "file": "unsorted/011.jpg"
+  },
+  {
+   "index": 12,
+   "file": "unsorted/012.jpg"
+  },
+  {
+   "index": 14,
+   "file": "unsorted/014.jpg"
+  },
+  {
+   "index": 15,
+   "file": "unsorted/015.jpg"
+  },
+  {
+   "index": 16,
+   "file": "unsorted/016.jpg"
+  },
+  {
+   "index": 18,
+   "file": "unsorted/018.jpg"
+  },
+  {
+   "index": 19,
+   "file": "unsorted/019.jpg"
+  },
+  {
+   "index": 21,
+   "file": "unsorted/021.jpg"
+  },
+  {
+   "index": 22,
+   "file": "unsorted/022.jpg"
+  },
+  {
+   "index": 23,
+   "file": "unsorted/023.jpg"
+  },
+  {
+   "index": 24,
+   "file": "unsorted/024.jpg"
+  },
+  {
+   "index": 25,
+   "file": "unsorted/025.jpg"
+  },
+  {
+   "index": 26,
+   "file": "unsorted/026.jpg"
+  },
+  {
+   "index": 27,
+   "file": "unsorted/027.jpg"
+  },
+  {
+   "index": 28,
+   "file": "unsorted/028.jpg"
+  },
+  {
+   "index": 29,
+   "file": "unsorted/029.jpg"
+  },
+  {
+   "index": 30,
+   "file": "unsorted/030.jpg"
+  },
+  {
+   "index": 31,
+   "file": "unsorted/031.jpg"
+  },
+  {
+   "index": 32,
+   "file": "unsorted/032.jpg"
+  },
+  {
+   "index": 33,
+   "file": "unsorted/033.jpg"
+  },
+  {
+   "index": 36,
+   "file": "unsorted/036.jpg"
+  },
+  {
+   "index": 37,
+   "file": "unsorted/037.jpg"
+  },
+  {
+   "index": 39,
+   "file": "unsorted/039.jpg"
+  },
+  {
+   "index": 40,
+   "file": "unsorted/040.jpg"
+  },
+  {
+   "index": 41,
+   "file": "unsorted/041.jpg"
+  },
+  {
+   "index": 42,
+   "file": "unsorted/042.jpg"
+  },
+  {
+   "index": 43,
+   "file": "unsorted/043.jpg"
+  },
+  {
+   "index": 46,
+   "file": "unsorted/046.jpg"
+  },
+  {
+   "index": 47,
+   "file": "unsorted/047.jpg"
+  },
+  {
+   "index": 48,
+   "file": "unsorted/048.jpg"
+  },
+  {
+   "index": 49,
+   "file": "unsorted/049.jpg"
+  },
+  {
+   "index": 50,
+   "file": "unsorted/050.jpg"
+  },
+  {
+   "index": 51,
+   "file": "unsorted/051.jpg"
+  },
+  {
+   "index": 53,
+   "file": "unsorted/053.jpg"
+  },
+  {
+   "index": 54,
+   "file": "unsorted/054.jpg"
+  },
+  {
+   "index": 55,
+   "file": "unsorted/055.jpg"
+  },
+  {
+   "index": 56,
+   "file": "unsorted/056.jpg"
+  },
+  {
+   "index": 58,
+   "file": "unsorted/058.jpg"
+  },
+  {
+   "index": 59,
+   "file": "unsorted/059.jpg"
+  },
+  {
+   "index": 60,
+   "file": "unsorted/060.jpg"
+  },
+  {
+   "index": 62,
+   "file": "unsorted/062.jpg"
+  },
+  {
+   "index": 66,
+   "file": "unsorted/066.jpg"
+  },
+  {
+   "index": 67,
+   "file": "unsorted/067.jpg"
+  },
+  {
+   "index": 68,
+   "file": "unsorted/068.jpg"
+  },
+  {
+   "index": 69,
+   "file": "unsorted/069.jpg"
+  },
+  {
+   "index": 70,
+   "file": "unsorted/070.jpg"
+  },
+  {
+   "index": 71,
+   "file": "unsorted/071.jpg"
+  },
+  {
+   "index": 72,
+   "file": "unsorted/072.jpg"
+  },
+  {
+   "index": 73,
+   "file": "unsorted/073.jpg"
+  },
+  {
+   "index": 76,
+   "file": "unsorted/076.jpg"
+  },
+  {
+   "index": 77,
+   "file": "unsorted/077.jpg"
+  },
+  {
+   "index": 78,
+   "file": "unsorted/078.jpg"
+  },
+  {
+   "index": 79,
+   "file": "unsorted/079.jpg"
+  },
+  {
+   "index": 80,
+   "file": "unsorted/080.jpg"
+  },
+  {
+   "index": 82,
+   "file": "unsorted/082.jpg"
+  },
+  {
+   "index": 83,
+   "file": "unsorted/083.jpg"
+  },
+  {
+   "index": 84,
+   "file": "unsorted/084.jpg"
+  },
+  {
+   "index": 85,
+   "file": "unsorted/085.jpg"
+  },
+  {
+   "index": 86,
+   "file": "unsorted/086.jpg"
+  },
+  {
+   "index": 88,
+   "file": "unsorted/088.jpg"
+  },
+  {
+   "index": 90,
+   "file": "unsorted/090.jpg"
+  },
+  {
+   "index": 91,
+   "file": "unsorted/091.jpg"
+  },
+  {
+   "index": 92,
+   "file": "unsorted/092.jpg"
+  },
+  {
+   "index": 93,
+   "file": "unsorted/093.jpg"
+  },
+  {
+   "index": 94,
+   "file": "unsorted/094.jpg"
+  },
+  {
+   "index": 95,
+   "file": "unsorted/095.jpg"
+  },
+  {
+   "index": 96,
+   "file": "unsorted/096.jpg"
+  },
+  {
+   "index": 97,
+   "file": "unsorted/097.jpg"
+  },
+  {
+   "index": 102,
+   "file": "unsorted/102.jpg"
+  },
+  {
+   "index": 105,
+   "file": "unsorted/105.jpg"
+  },
+  {
+   "index": 108,
+   "file": "unsorted/108.jpg"
+  },
+  {
+   "index": 109,
+   "file": "unsorted/109.jpg"
+  },
+  {
+   "index": 111,
+   "file": "unsorted/111.jpg"
+  },
+  {
+   "index": 113,
+   "file": "unsorted/113.jpg"
+  },
+  {
+   "index": 115,
+   "file": "unsorted/115.jpg"
+  },
+  {
+   "index": 117,
+   "file": "unsorted/117.jpg"
+  },
+  {
+   "index": 118,
+   "file": "unsorted/118.jpg"
+  },
+  {
+   "index": 120,
+   "file": "unsorted/120.jpg"
+  },
+  {
+   "index": 121,
+   "file": "unsorted/121.jpg"
+  },
+  {
+   "index": 122,
+   "file": "unsorted/122.jpg"
+  },
+  {
+   "index": 123,
+   "file": "unsorted/123.jpg"
+  },
+  {
+   "index": 125,
+   "file": "unsorted/125.jpg"
+  },
+  {
+   "index": 126,
+   "file": "unsorted/126.jpg"
+  },
+  {
+   "index": 129,
+   "file": "unsorted/129.jpg"
+  },
+  {
+   "index": 130,
+   "file": "unsorted/130.jpg"
+  },
+  {
+   "index": 131,
+   "file": "unsorted/131.jpg"
+  },
+  {
+   "index": 132,
+   "file": "unsorted/132.jpg"
+  },
+  {
+   "index": 133,
+   "file": "unsorted/133.jpg"
+  },
+  {
+   "index": 134,
+   "file": "unsorted/134.jpg"
+  },
+  {
+   "index": 135,
+   "file": "unsorted/135.jpg"
+  },
+  {
+   "index": 137,
+   "file": "unsorted/137.jpg"
+  },
+  {
+   "index": 138,
+   "file": "unsorted/138.jpg"
+  },
+  {
+   "index": 139,
+   "file": "unsorted/139.jpg"
+  },
+  {
+   "index": 141,
+   "file": "unsorted/141.jpg"
+  },
+  {
+   "index": 144,
+   "file": "unsorted/144.jpg"
+  },
+  {
+   "index": 145,
+   "file": "unsorted/145.jpg"
+  },
+  {
+   "index": 146,
+   "file": "unsorted/146.jpg"
+  },
+  {
+   "index": 147,
+   "file": "unsorted/147.jpg"
+  },
+  {
+   "index": 148,
+   "file": "unsorted/148.jpg"
+  },
+  {
+   "index": 149,
+   "file": "unsorted/149.jpg"
+  },
+  {
+   "index": 151,
+   "file": "unsorted/151.jpg"
+  },
+  {
+   "index": 152,
+   "file": "unsorted/152.jpg"
+  },
+  {
+   "index": 155,
+   "file": "unsorted/155.jpg"
+  },
+  {
+   "index": 159,
+   "file": "unsorted/159.jpg"
+  },
+  {
+   "index": 160,
+   "file": "unsorted/160.jpg"
+  },
+  {
+   "index": 161,
+   "file": "unsorted/161.jpg"
+  },
+  {
+   "index": 162,
+   "file": "unsorted/162.jpg"
+  },
+  {
+   "index": 163,
+   "file": "unsorted/163.jpg"
+  },
+  {
+   "index": 165,
+   "file": "unsorted/165.jpg"
+  },
+  {
+   "index": 166,
+   "file": "unsorted/166.jpg"
+  },
+  {
+   "index": 168,
+   "file": "unsorted/168.jpg"
+  },
+  {
+   "index": 170,
+   "file": "unsorted/170.jpg"
+  },
+  {
+   "index": 171,
+   "file": "unsorted/171.jpg"
+  },
+  {
+   "index": 172,
+   "file": "unsorted/172.jpg"
+  },
+  {
+   "index": 173,
+   "file": "unsorted/173.jpg"
+  },
+  {
+   "index": 174,
+   "file": "unsorted/174.jpg"
+  },
+  {
+   "index": 175,
+   "file": "unsorted/175.jpg"
+  },
+  {
+   "index": 176,
+   "file": "unsorted/176.jpg"
+  },
+  {
+   "index": 177,
+   "file": "unsorted/177.jpg"
+  },
+  {
+   "index": 178,
+   "file": "unsorted/178.jpg"
+  },
+  {
+   "index": 179,
+   "file": "unsorted/179.jpg"
+  },
+  {
+   "index": 180,
+   "file": "unsorted/180.jpg"
+  },
+  {
+   "index": 182,
+   "file": "unsorted/182.jpg"
+  },
+  {
+   "index": 185,
+   "file": "unsorted/185.jpg"
+  },
+  {
+   "index": 186,
+   "file": "unsorted/186.jpg"
+  },
+  {
+   "index": 187,
+   "file": "unsorted/187.jpg"
+  },
+  {
+   "index": 188,
+   "file": "unsorted/188.jpg"
+  },
+  {
+   "index": 190,
+   "file": "unsorted/190.jpg"
+  },
+  {
+   "index": 191,
+   "file": "unsorted/191.jpg"
+  },
+  {
+   "index": 194,
+   "file": "unsorted/194.jpg"
+  },
+  {
+   "index": 195,
+   "file": "unsorted/195.jpg"
+  },
+  {
+   "index": 196,
+   "file": "unsorted/196.jpg"
+  },
+  {
+   "index": 197,
+   "file": "unsorted/197.jpg"
+  },
+  {
+   "index": 200,
+   "file": "unsorted/200.jpg"
+  },
+  {
+   "index": 201,
+   "file": "unsorted/201.jpg"
+  },
+  {
+   "index": 202,
+   "file": "unsorted/202.jpg"
+  },
+  {
+   "index": 204,
+   "file": "unsorted/204.jpg"
+  },
+  {
+   "index": 205,
+   "file": "unsorted/205.jpg"
+  },
+  {
+   "index": 206,
+   "file": "unsorted/206.jpg"
+  },
+  {
+   "index": 207,
+   "file": "unsorted/207.jpg"
+  },
+  {
+   "index": 208,
+   "file": "unsorted/208.jpg"
+  },
+  {
+   "index": 209,
+   "file": "unsorted/209.jpg"
+  },
+  {
+   "index": 211,
+   "file": "unsorted/211.jpg"
+  },
+  {
+   "index": 214,
+   "file": "unsorted/214.jpg"
+  },
+  {
+   "index": 215,
+   "file": "unsorted/215.jpg"
+  },
+  {
+   "index": 216,
+   "file": "unsorted/216.jpg"
+  },
+  {
+   "index": 217,
+   "file": "unsorted/217.jpg"
+  },
+  {
+   "index": 218,
+   "file": "unsorted/218.jpg"
+  },
+  {
+   "index": 219,
+   "file": "unsorted/219.jpg"
+  },
+  {
+   "index": 220,
+   "file": "unsorted/220.jpg"
+  },
+  {
+   "index": 221,
+   "file": "unsorted/221.jpg"
+  },
+  {
+   "index": 223,
+   "file": "unsorted/223.jpg"
+  },
+  {
+   "index": 224,
+   "file": "unsorted/224.jpg"
+  },
+  {
+   "index": 225,
+   "file": "unsorted/225.jpg"
+  },
+  {
+   "index": 227,
+   "file": "unsorted/227.jpg"
+  },
+  {
+   "index": 230,
+   "file": "unsorted/230.jpg"
+  },
+  {
+   "index": 233,
+   "file": "unsorted/233.jpg"
+  },
+  {
+   "index": 234,
+   "file": "unsorted/234.jpg"
+  },
+  {
+   "index": 235,
+   "file": "unsorted/235.jpg"
+  },
+  {
+   "index": 236,
+   "file": "unsorted/236.jpg"
+  },
+  {
+   "index": 237,
+   "file": "unsorted/237.jpg"
+  },
+  {
+   "index": 240,
+   "file": "unsorted/240.jpg"
+  },
+  {
+   "index": 241,
+   "file": "unsorted/241.jpg"
+  },
+  {
+   "index": 242,
+   "file": "unsorted/242.jpg"
+  },
+  {
+   "index": 243,
+   "file": "unsorted/243.jpg"
+  },
+  {
+   "index": 244,
+   "file": "unsorted/244.jpg"
+  },
+  {
+   "index": 246,
+   "file": "unsorted/246.jpg"
+  },
+  {
+   "index": 247,
+   "file": "unsorted/247.jpg"
+  },
+  {
+   "index": 249,
+   "file": "unsorted/249.jpg"
+  },
+  {
+   "index": 251,
+   "file": "unsorted/251.jpg"
+  },
+  {
+   "index": 252,
+   "file": "unsorted/252.jpg"
+  },
+  {
+   "index": 253,
+   "file": "unsorted/253.jpg"
+  },
+  {
+   "index": 254,
+   "file": "unsorted/254.jpg"
+  },
+  {
+   "index": 255,
+   "file": "unsorted/255.jpg"
+  },
+  {
+   "index": 256,
+   "file": "unsorted/256.jpg"
+  },
+  {
+   "index": 257,
+   "file": "unsorted/257.jpg"
+  },
+  {
+   "index": 258,
+   "file": "unsorted/258.jpg"
+  },
+  {
+   "index": 259,
+   "file": "unsorted/259.jpg"
+  },
+  {
+   "index": 260,
+   "file": "unsorted/260.jpg"
+  },
+  {
+   "index": 262,
+   "file": "unsorted/262.jpg"
+  },
+  {
+   "index": 266,
+   "file": "unsorted/266.jpg"
+  },
+  {
+   "index": 267,
+   "file": "unsorted/267.jpg"
+  },
+  {
+   "index": 268,
+   "file": "unsorted/268.jpg"
+  },
+  {
+   "index": 271,
+   "file": "unsorted/271.jpg"
+  },
+  {
+   "index": 272,
+   "file": "unsorted/272.jpg"
+  },
+  {
+   "index": 273,
+   "file": "unsorted/273.jpg"
+  },
+  {
+   "index": 275,
+   "file": "unsorted/275.jpg"
+  },
+  {
+   "index": 276,
+   "file": "unsorted/276.jpg"
+  },
+  {
+   "index": 278,
+   "file": "unsorted/278.jpg"
+  },
+  {
+   "index": 279,
+   "file": "unsorted/279.jpg"
+  },
+  {
+   "index": 280,
+   "file": "unsorted/280.jpg"
+  },
+  {
+   "index": 283,
+   "file": "unsorted/283.jpg"
+  },
+  {
+   "index": 284,
+   "file": "unsorted/284.jpg"
+  },
+  {
+   "index": 285,
+   "file": "unsorted/285.jpg"
+  },
+  {
+   "index": 286,
+   "file": "unsorted/286.jpg"
+  },
+  {
+   "index": 287,
+   "file": "unsorted/287.jpg"
+  },
+  {
+   "index": 288,
+   "file": "unsorted/288.jpg"
+  },
+  {
+   "index": 291,
+   "file": "unsorted/291.jpg"
+  },
+  {
+   "index": 292,
+   "file": "unsorted/292.jpg"
+  },
+  {
+   "index": 294,
+   "file": "unsorted/294.jpg"
+  },
+  {
+   "index": 295,
+   "file": "unsorted/295.jpg"
+  },
+  {
+   "index": 296,
+   "file": "unsorted/296.jpg"
+  },
+  {
+   "index": 298,
+   "file": "unsorted/298.jpg"
+  },
+  {
+   "index": 299,
+   "file": "unsorted/299.jpg"
+  },
+  {
+   "index": 303,
+   "file": "unsorted/303.jpg"
+  },
+  {
+   "index": 304,
+   "file": "unsorted/304.jpg"
+  },
+  {
+   "index": 305,
+   "file": "unsorted/305.jpg"
+  },
+  {
+   "index": 306,
+   "file": "unsorted/306.jpg"
+  },
+  {
+   "index": 307,
+   "file": "unsorted/307.jpg"
+  },
+  {
+   "index": 310,
+   "file": "unsorted/310.jpg"
+  },
+  {
+   "index": 311,
+   "file": "unsorted/311.jpg"
+  },
+  {
+   "index": 312,
+   "file": "unsorted/312.jpg"
+  },
+  {
+   "index": 315,
+   "file": "unsorted/315.jpg"
+  },
+  {
+   "index": 317,
+   "file": "unsorted/317.jpg"
+  },
+  {
+   "index": 318,
+   "file": "unsorted/318.jpg"
+  },
+  {
+   "index": 319,
+   "file": "unsorted/319.jpg"
+  },
+  {
+   "index": 321,
+   "file": "unsorted/321.jpg"
+  },
+  {
+   "index": 322,
+   "file": "unsorted/322.jpg"
+  },
+  {
+   "index": 324,
+   "file": "unsorted/324.jpg"
+  },
+  {
+   "index": 326,
+   "file": "unsorted/326.jpg"
+  },
+  {
+   "index": 328,
+   "file": "unsorted/328.jpg"
+  },
+  {
+   "index": 330,
+   "file": "unsorted/330.jpg"
+  },
+  {
+   "index": 331,
+   "file": "unsorted/331.jpg"
+  },
+  {
+   "index": 332,
+   "file": "unsorted/332.jpg"
+  },
+  {
+   "index": 335,
+   "file": "unsorted/335.jpg"
+  },
+  {
+   "index": 336,
+   "file": "unsorted/336.jpg"
+  },
+  {
+   "index": 338,
+   "file": "unsorted/338.jpg"
+  },
+  {
+   "index": 339,
+   "file": "unsorted/339.jpg"
+  },
+  {
+   "index": 340,
+   "file": "unsorted/340.jpg"
+  },
+  {
+   "index": 343,
+   "file": "unsorted/343.jpg"
+  },
+  {
+   "index": 345,
+   "file": "unsorted/345.jpg"
+  },
+  {
+   "index": 346,
+   "file": "unsorted/346.jpg"
+  },
+  {
+   "index": 348,
+   "file": "unsorted/348.jpg"
+  },
+  {
+   "index": 350,
+   "file": "unsorted/350.jpg"
+  },
+  {
+   "index": 351,
+   "file": "unsorted/351.jpg"
+  },
+  {
+   "index": 353,
+   "file": "unsorted/353.jpg"
+  },
+  {
+   "index": 354,
+   "file": "unsorted/354.jpg"
+  }
+ ]
+}

@@ -1,0 +1,12 @@
+01-deezer.jpg |  | https://cdn-images.dzcdn.net/images/artist/01a5b9598e1de78a0cfad893c0e4e161/1000x1000-000000-80-0-0.jpg
+02-audiodb.jpg |  | https://r2.theaudiodb.com/images/media/artist/thumb/yvdkct1753518957.jpg
+03-audiodb.jpg |  | https://r2.theaudiodb.com/images/media/artist/fanart/m9k9gr1753518664.jpg
+04-audiodb.jpg |  | https://r2.theaudiodb.com/images/media/artist/fanart/nx7b2y1753518803.jpg
+05-audiodb.jpg |  | https://r2.theaudiodb.com/images/media/artist/fanart/g8v2fi1753518815.jpg
+06-audiodb.jpg |  | https://r2.theaudiodb.com/images/media/artist/fanart/642a1x1753518828.jpg
+07-audiodb.jpg |  | https://r2.theaudiodb.com/images/media/artist/widethumb/q2qsrh1753520540.jpg
+08-commons.jpg | File:Vista dal secondo latto del Ponte Azzone Visconti,Lecco.jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Vista_dal_secondo_latto_del_Ponte_Azzone_Visconti%2CLecco.jpg/1280px-Vista_dal_secondo_latto_del_Ponte_Azzone_Visconti%2CLecco.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+09-commons.jpg | File:Gordon and Barbara Latto.jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Gordon_and_Barbara_Latto.jpg/1280px-Gordon_and_Barbara_Latto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+10-commons.jpg | File:Unidentified interior showing draped fabric and floral arrangements, including a floral cross, by Rand & Latto.jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Unidentified_interior_showing_draped_fabric_and_floral_arrangements%2C_including_a_floral_cross%2C_by_Rand_%26_Latto.jpg/1280px-Unidentified_interior_showing_draped_fabric_and_floral_arrangements%2C_including_a_floral_cross%2C_by_Rand_%26_Latto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+11-commons.jpg | File:Elizabeth Latto Ewan plaque.jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Elizabeth_Latto_Ewan_plaque.jpg/1280px-Elizabeth_Latto_Ewan_plaque.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+12-commons.jpg | File:Rudolph Latto House.jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Rudolph_Latto_House.jpg/1280px-Rudolph_Latto_House.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail

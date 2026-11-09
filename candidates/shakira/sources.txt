@@ -1,0 +1,20 @@
+01-deezer.jpg |  | https://cdn-images.dzcdn.net/images/artist/69c569506a8ff6ab0edfecbd1adf94b0/1000x1000-000000-80-0-0.jpg
+02-audiodb.jpg |  | https://r2.theaudiodb.com/images/media/artist/thumb/vxruup1560338665.jpg
+03-audiodb.jpg |  | https://r2.theaudiodb.com/images/media/artist/fanart/0ecq6t1770820053.jpg
+04-audiodb.jpg |  | https://r2.theaudiodb.com/images/media/artist/fanart/xy54io1728501207.jpg
+05-audiodb.jpg |  | https://r2.theaudiodb.com/images/media/artist/fanart/wxtyqu1352927443.jpg
+06-audiodb.jpg |  | https://r2.theaudiodb.com/images/media/artist/fanart/vo48y51632296795.jpg
+07-audiodb.jpg |  | https://r2.theaudiodb.com/images/media/artist/widethumb/wrwqrw1518639946.jpg
+08-commons.jpg | File:Shakira-13.JPG | https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Shakira-13.JPG/1280px-Shakira-13.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+09-commons.jpg | File:Shakira.JPG | https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Shakira.JPG/1280px-Shakira.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+10-commons.jpg | File:Shakira - Rock in Rio 2008 02.jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Shakira_-_Rock_in_Rio_2008_02.jpg/1280px-Shakira_-_Rock_in_Rio_2008_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+11-commons.jpg | File:Shakira Rio 02.jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Shakira_Rio_02.jpg/1280px-Shakira_Rio_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+12-commons.jpg | File:Shakira Rio 04.jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Shakira_Rio_04.jpg/1280px-Shakira_Rio_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+13-commons.jpg | File:Shakira Rio 05.jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Shakira_Rio_05.jpg/1280px-Shakira_Rio_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+14-commons.jpg | File:Shakira Rio 06.jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Shakira_Rio_06.jpg/1280px-Shakira_Rio_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+15-commons.jpg | File:Shakira Rio 08.jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Shakira_Rio_08.jpg/1280px-Shakira_Rio_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+16-commons.jpg | File:Shakira Rio 03.jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Shakira_Rio_03.jpg/1280px-Shakira_Rio_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+17-commons.jpg | File:Shakira e Dilma Rousseff.jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Shakira_e_Dilma_Rousseff.jpg/1280px-Shakira_e_Dilma_Rousseff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+18-commons.jpg | File:Shakira (cropped).JPG | https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Shakira_%28cropped%29.JPG/1280px-Shakira_%28cropped%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+19-commons.jpg | File:Shakira with Rey Juan Carlos and Alejandro Sanz.jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Shakira_with_Rey_Juan_Carlos_and_Alejandro_Sanz.jpg/1280px-Shakira_with_Rey_Juan_Carlos_and_Alejandro_Sanz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+20-commons.jpg | File:Shakira at Obama Inaugural.JPG | https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Shakira_at_Obama_Inaugural.JPG/1280px-Shakira_at_Obama_Inaugural.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail

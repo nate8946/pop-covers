@@ -1,0 +1,20 @@
+01-deezer.jpg |  | https://cdn-images.dzcdn.net/images/artist/24a1f0e2b55a08734fd38cc82089246c/1000x1000-000000-80-0-0.jpg
+02-audiodb.jpg |  | https://r2.theaudiodb.com/images/media/artist/thumb/nfj9vp1748540163.jpg
+03-audiodb.jpg |  | https://r2.theaudiodb.com/images/media/artist/fanart/zcfdje1712864096.jpg
+04-audiodb.jpg |  | https://r2.theaudiodb.com/images/media/artist/fanart/a8uopq1731864705.jpg
+05-audiodb.jpg |  | https://r2.theaudiodb.com/images/media/artist/fanart/dmxvkk1731865543.jpg
+06-audiodb.jpg |  | https://r2.theaudiodb.com/images/media/artist/fanart/7off4n1731866122.jpg
+07-audiodb.jpg |  | https://r2.theaudiodb.com/images/media/artist/widethumb/p07f291731865395.jpg
+08-commons.jpg | File:Tyla at 2026 Montreux Jazz Festival 2.jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Tyla_at_2026_Montreux_Jazz_Festival_2.jpg/1280px-Tyla_at_2026_Montreux_Jazz_Festival_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+09-commons.jpg | File:Tyla Durden.jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Tyla_Durden.jpg/1280px-Tyla_Durden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+10-commons.jpg | File:Tyla Hanks 2019.6.jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Tyla_Hanks_2019.6.jpg/1280px-Tyla_Hanks_2019.6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+11-commons.jpg | File:Pippa Hayward, Patsy Reddy, Tyla Nathan-Wong.jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Pippa_Hayward%2C_Patsy_Reddy%2C_Tyla_Nathan-Wong.jpg/1280px-Pippa_Hayward%2C_Patsy_Reddy%2C_Tyla_Nathan-Wong.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+12-commons.jpg | File:Tyla Nathan-Wong 2017-06-25.jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Tyla_Nathan-Wong_2017-06-25.jpg/1280px-Tyla_Nathan-Wong_2017-06-25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+13-commons.jpg | File:Tyla Hanks 2019.5.jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Tyla_Hanks_2019.5.jpg/1280px-Tyla_Hanks_2019.5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+14-commons.jpg | File:Tyla Hanks 2019.10.jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Tyla_Hanks_2019.10.jpg/1280px-Tyla_Hanks_2019.10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+15-commons.jpg | File:Tyla Hanks 2019.9.jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Tyla_Hanks_2019.9.jpg/1280px-Tyla_Hanks_2019.9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+16-commons.jpg | File:Tyla Durden 2015.jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Tyla_Durden_2015.jpg/1280px-Tyla_Durden_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+17-commons.jpg | File:Tyla Hanks handballing.1.jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Tyla_Hanks_handballing.1.jpg/1280px-Tyla_Hanks_handballing.1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+18-commons.jpg | File:Tyla Rattray 2008.jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Tyla_Rattray_2008.jpg/1280px-Tyla_Rattray_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+19-commons.jpg | File:Tyla Hanks 2025 R7 (4).jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Tyla_Hanks_2025_R7_%284%29.jpg/1280px-Tyla_Hanks_2025_R7_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+20-commons.jpg | File:Tyla at 2026 Montreux Jazz Festival 2 (cropped).jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Tyla_at_2026_Montreux_Jazz_Festival_2_%28cropped%29.jpg/1280px-Tyla_at_2026_Montreux_Jazz_Festival_2_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail

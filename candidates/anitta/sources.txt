@@ -1,0 +1,11 @@
+01-deezer.jpg |  | https://cdn-images.dzcdn.net/images/artist/e874033338b645f174694ba024a14557/1000x1000-000000-80-0-0.jpg
+02-audiodb.jpg |  | https://r2.theaudiodb.com/images/media/artist/thumb/yyyrps1378603423.jpg
+03-audiodb.jpg |  | https://r2.theaudiodb.com/images/media/artist/fanart/qppxuq1378603755.jpg
+04-audiodb.jpg |  | https://r2.theaudiodb.com/images/media/artist/fanart/wrpupw1511356111.jpg
+05-audiodb.jpg |  | https://r2.theaudiodb.com/images/media/artist/fanart/g7xlmn1643820655.jpg
+06-audiodb.jpg |  | https://r2.theaudiodb.com/images/media/artist/fanart/anitta-536f847683833.jpg
+07-audiodb.jpg |  | https://r2.theaudiodb.com/images/media/artist/widethumb/spwtty1519129409.jpg
+08-commons.jpg | File:Dolch Anitta 02.jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Dolch_Anitta_02.jpg/1280px-Dolch_Anitta_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+09-commons.jpg | File:Anitta Expo Araçatuba 2017.jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Anitta_Expo_Ara%C3%A7atuba_2017.jpg/1280px-Anitta_Expo_Ara%C3%A7atuba_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+10-commons.jpg | File:Anitta Mattila.jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Anitta_Mattila.jpg/1280px-Anitta_Mattila.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+11-commons.jpg | File:DolchAnitta.jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/DolchAnitta.jpg/1280px-DolchAnitta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail

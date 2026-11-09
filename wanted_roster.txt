@@ -1,0 +1,245 @@
+# Artist | Album  (biggest album per artist; run: python3 fetch_covers_itunes.py list wanted_roster.txt)
+BLACKPINK | Born Pink
+TWICE | Formula of Love: O+T=<3
+NewJeans | New Jeans
+LE SSERAFIM | ANTIFRAGILE
+aespa | MY WORLD - The 3rd Mini Album
+ITZY | Guess Who
+IVE | I've IVE
+(G)I-DLE | I NEVER DIE
+Red Velvet | The Perfect Red Velvet
+Girls' Generation | Gee
+MAMAMOO | Melting
+STAYC | TEDDY BEAR
+NMIXX | expergo
+BABYMONSTER | BABYMONS7ER
+ILLIT | SUPER REAL ME
+2NE1 | Crush
+BTS | Map of the Soul: 7
+Stray Kids | 5-STAR
+SEVENTEEN | FML
+TOMORROW X TOGETHER | minisode 3: TOMORROW
+ENHYPEN | ROMANCE : UNTOLD
+ATEEZ | THE WORLD EP.FIN : WILL
+EXO | The War
+NCT 127 | Sticker
+NCT DREAM | ISTJ
+BIGBANG | MADE
+TREASURE | THE SECOND STEP : CHAPTER ONE
+ZEROBASEONE | MELTING POINT
+RIIZE | Get A Guitar
+MONSTA X | SHAPE of LOVE
+THE BOYZ | THRILL-ING
+SHINee | Don't Call Me
+Jung Kook | GOLDEN
+Jimin | MUSE
+V | Layover
+JENNIE | Ruby
+JISOO | AMORTAGE
+ROSÉ | rosie
+LISA | Alter Ego
+Agust D | D-DAY
+j-hope | Jack In The Box
+Jin | The Astronaut
+RM | Indigo
+IU | LILAC
+Taeyeon | I
+BAEKHYUN | Bambi
+TAEYANG | RISE
+G-DRAGON | Coup d'Etat
+Latto | 777
+GloRilla | Glorious
+Ice Spice | Like..?
+Doechii | Alligator Bites Never Heal
+Saweetie | Pretty Bitch Music
+Sexyy Red | In Sexyy We Trust
+Flo Milli | You Still Here, Ho?
+Missy Elliott | Under Construction
+Lil' Kim | Hard Core
+Eve | Let There Be Eve...Ruff Ryders' First Lady
+Lauryn Hill | The Miseducation of Lauryn Hill
+City Girls | Girl Code
+Drake | Scorpion
+Kendrick Lamar | good kid, m.A.A.d city
+Travis Scott | ASTROWORLD
+Eminem | The Marshall Mathers LP
+J. Cole | 2014 Forest Hills Drive
+Future | DS2
+21 Savage | I Am > I Was
+Lil Wayne | Tha Carter III
+Kanye West | My Beautiful Dark Twisted Fantasy
+JAY-Z | The Blueprint
+Juice WRLD | Goodbye & Good Riddance
+XXXTENTACION | ?
+Lil Baby | My Turn
+Tyler, The Creator | IGOR
+Mac Miller | Swimming
+Pop Smoke | Shoot for the Stars, Aim for the Moon
+Bad Bunny | Un Verano Sin Ti
+J Balvin | Colores
+Feid | FERXXOCALIPSIS
+Maluma | Pretty Boy, Dirty Boy
+Rauw Alejandro | Saturno
+Peso Pluma | GÉNESIS
+Ozuna | Odisea
+Daddy Yankee | Barrio Fino
+Anuel AA | Real Hasta la Muerte
+Myke Towers | Easy Money Baby
+Nicky Jam | Fénix
+The Weeknd | After Hours
+Usher | Confessions
+Chris Brown | Exclusive
+Summer Walker | Over It
+Brent Faiyaz | Wasteland
+Daniel Caesar | Freudian
+H.E.R. | H.E.R.
+Alicia Keys | Songs in A Minor
+Khalid | American Teen
+Frank Ocean | Blonde
+Miguel | Wildheart
+Kehlani | SweetSexySavage
+Jhené Aiko | Chilombo
+Ed Sheeran | ÷
+Harry Styles | Fine Line
+Coldplay | Viva la Vida or Death and All His Friends
+Sam Smith | In the Lonely Hour
+Lewis Capaldi | Divinely Uninspired to a Hellish Extent
+Calvin Harris | 18 Months
+Rita Ora | Phoenix
+Little Mix | Glory Days
+Elton John | Goodbye Yellow Brick Road
+Arctic Monkeys | AM
+Queen | A Night at the Opera
+Amy Winehouse | Back to Black
+One Direction | Take Me Home
+Jonas Brothers | Happiness Begins
+Backstreet Boys | Millennium
+*NSYNC | No Strings Attached
+5 Seconds of Summer | Youngblood
+Westlife | Coast to Coast
+Big Time Rush | BTR
+The Wanted | The Wanted
+Why Don't We | 8 Letters
+Boyz II Men | II
+New Kids On The Block | Hangin' Tough
+Take That | Progress
+Hanson | Middle of Nowhere
+98 Degrees | 98 Degrees and Rising
+JLS | JLS
+CNCO | Primera Cita
+Morgan Wallen | One Thing at a Time
+Luke Combs | What You See Is What You Get
+Zach Bryan | American Heartbreak
+Chris Stapleton | Traveller
+Kane Brown | Kane Brown
+Shania Twain | Come On Over
+Carrie Underwood | Some Hearts
+Luke Bryan | Crash My Party
+Lainey Wilson | Bell Bottom Country
+Ella Langley | Dandelion
+Kacey Musgraves | Golden Hour
+Jason Aldean | My Kinda Party
+Dolly Parton | Jolene
+Johnny Cash | At Folsom Prison
+Tim McGraw | Not a Moment Too Soon
+Miranda Lambert | Platinum
+Christina Aguilera | Stripped
+Madonna | Confessions on a Dance Floor
+Cher | Believe
+Tina Turner | Private Dancer
+Aretha Franklin | I Never Loved a Man the Way I Love You
+Diana Ross | diana
+Janet Jackson | Rhythm Nation 1814
+Jennifer Lopez | This Is Me... Then
+Jennifer Lopez | This Is Me... Now
+Barbra Streisand | Guilty
+Donna Summer | Bad Girls
+Fifth Harmony | Reflection
+Olivia Dean | The Art of Loving
+Imagine Dragons | Night Visions
+Linkin Park | Hybrid Theory
+Nirvana | Nevermind
+Foo Fighters | The Colour and the Shape
+Green Day | American Idiot
+Red Hot Chili Peppers | Californication
+Twenty One Pilots | Blurryface
+Paramore | Riot!
+The Killers | Hot Fuss
+Guns N' Roses | Appetite for Destruction
+AC/DC | Back in Black
+Metallica | Metallica
+Fall Out Boy | Infinity on High
+Justin Bieber | Purpose
+Shawn Mendes | Illuminate
+Carly Rae Jepsen | Emotion
+Nelly Furtado | Loose
+Alessia Cara | Know-It-All
+Michael Bublé | Christmas
+Bryan Adams | Reckless
+Joni Mitchell | Blue
+Nickelback | All the Right Reasons
+Michael Jackson | Thriller
+The Beatles | Abbey Road
+Elvis Presley | Elvis' Golden Records
+Prince | Purple Rain
+David Bowie | The Rise and Fall of Ziggy Stardust and the Spiders from Mars
+Bob Marley | Legend
+Fleetwood Mac | Rumours
+ABBA | Arrival
+Eagles | Hotel California
+Bruce Springsteen | Born to Run
+Bob Dylan | Highway 61 Revisited
+Stevie Wonder | Songs in the Key of Life
+Maroon 5 | Songs About Jane
+Migos | Culture
+Destiny's Child | The Writing's on the Wall
+Spice Girls | Spice
+TLC | CrazySexyCool
+The Pussycat Dolls | PCD
+Girls Aloud | Sound of the Underground
+The Supremes | Where Did Our Love Go
+HAIM | Something to Tell You
+En Vogue | Funky Divas
+Bruno Mars | 24K Magic
+Post Malone | beerbongs & bentleys
+Charlie Puth | Voicenotes
+Lil Nas X | MONTERO
+Marshmello | Joytime
+Gwen Stefani | Love. Angel. Music. Baby.
+Zendaya | Zendaya
+Hilary Duff | Metamorphosis
+Dove Cameron | Alchemical: Volume 1
+Vanessa Hudgens | V
+Ashley Tisdale | Headstrong
+JoJo | JoJo
+Lindsay Lohan | Speak
+The Chainsmokers | Memories...Do Not Open
+Avicii | True
+Martin Garrix | Seven
+David Guetta | Nothing but the Beat
+Kygo | Cloud Nine
+Zedd | True Colors
+Alan Walker | Different World
+Diplo | Florida
+Skrillex | Scary Monsters and Nice Sprites
+Tiësto | Drive
+Swedish House Mafia | Paradise Again
+Illenium | Ascend
+Fred again.. | Actual Life 3 (January 1 - September 9 2022)
+Daft Punk | Random Access Memories
+Lola Young | I'm Only F**king Myself
+Gracie Abrams | The Secret of Us
+Reneé Rapp | Snow Angel
+Laufey | Bewitched
+Addison Rae | AR
+Tyla | TYLA
+Raye | My 21st Century Blues
+Lizzy McAlpine | Older
+Role Model | Kansas Anymore (The Longest Goodbye)
+Janelle Monáe | The ArchAndroid
+Banks | Goddess
+Tove Lo | Queen of the Clouds
+Tinashe | Nightride
+Kylie Minogue | Fever
+Mabel | About Last Night...
+MØ | No Mythologies to Follow

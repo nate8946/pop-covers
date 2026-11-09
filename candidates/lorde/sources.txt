@@ -1,0 +1,20 @@
+01-deezer.jpg |  | https://cdn-images.dzcdn.net/images/artist/a0d7a8d43d6d5736529374fabd9336a2/1000x1000-000000-80-0-0.jpg
+02-audiodb.jpg |  | https://r2.theaudiodb.com/images/media/artist/thumb/y4y3ts1660259580.jpg
+03-audiodb.jpg |  | https://r2.theaudiodb.com/images/media/artist/fanart/krm1851660259675.jpg
+04-audiodb.jpg |  | https://r2.theaudiodb.com/images/media/artist/fanart/01c3dy1660259607.jpg
+05-audiodb.jpg |  | https://r2.theaudiodb.com/images/media/artist/fanart/ld9e4f1660259692.jpg
+06-audiodb.jpg |  | https://r2.theaudiodb.com/images/media/artist/fanart/umbqbh1660259722.jpg
+07-audiodb.jpg |  | https://r2.theaudiodb.com/images/media/artist/widethumb/yrvxps1517515945.jpg
+08-commons.jpg | File:Lorde - Glasto2025-12.jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Lorde_-_Glasto2025-12.jpg/1280px-Lorde_-_Glasto2025-12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+09-commons.jpg | File:Lorde Glasto2025-10.jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Lorde_Glasto2025-10.jpg/1280px-Lorde_Glasto2025-10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+10-commons.jpg | File:Lorde Glasto2025-11.jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Lorde_Glasto2025-11.jpg/1280px-Lorde_Glasto2025-11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+11-commons.jpg | File:Lorde Glasto2025-25.jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Lorde_Glasto2025-25.jpg/1280px-Lorde_Glasto2025-25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+12-commons.jpg | File:Lorde Glasto2025-9.jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Lorde_Glasto2025-9.jpg/1280px-Lorde_Glasto2025-9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+13-commons.jpg | File:Marina of Quinta do Lorde. Madeira, Portugal.jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Marina_of_Quinta_do_Lorde._Madeira%2C_Portugal.jpg/1280px-Marina_of_Quinta_do_Lorde._Madeira%2C_Portugal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+14-commons.jpg | File:Lorde Glasto2025-23.jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Lorde_Glasto2025-23.jpg/1280px-Lorde_Glasto2025-23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+15-commons.jpg | File:Lorde Lollapalooza 2014 (2).jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Lorde_Lollapalooza_2014_%282%29.jpg/1280px-Lorde_Lollapalooza_2014_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+16-commons.jpg | File:Lorde (2022).jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Lorde_%282022%29.jpg/1280px-Lorde_%282022%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+17-commons.jpg | File:Lorde Lollapalooza 2014 (3).jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Lorde_Lollapalooza_2014_%283%29.jpg/1280px-Lorde_Lollapalooza_2014_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+18-commons.jpg | File:Lorde Constanza 15.jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Lorde_Constanza_15.jpg/1280px-Lorde_Constanza_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+19-commons.jpg | File:Lorde Constanza 3.jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Lorde_Constanza_3.jpg/1280px-Lorde_Constanza_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+20-commons.jpg | File:Lorde Constanza 4.jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Lorde_Constanza_4.jpg/1280px-Lorde_Constanza_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail

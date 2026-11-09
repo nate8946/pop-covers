@@ -1,0 +1,7 @@
+# Artist | Album   (use "Artist | *" for an artist photo)
+Taylor Swift | Midnights
+Olivia Rodrigo | GUTS
+Sabrina Carpenter | Man's Best Friend
+Ariana Grande | eternal sunshine
+Lady Gaga | Mayhem
+Taylor Swift | *

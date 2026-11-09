@@ -1,0 +1,7 @@
+# Artist | Album
+BAEKHYUN | Hello, World
+BAEKHYUN | Baekhyun
+BAEKHYUN | Bambi - The 3rd Mini Album
+BAEKHYUN | Delight - The 2nd Mini Album
+BAEKHYUN | City Lights - The 1st Mini Album
+BAEKHYUN | Poet Artist

@@ -1,0 +1,20 @@
+01-deezer.jpg |  | https://cdn-images.dzcdn.net/images/artist/9a958ac5c45361acf68918c0db5834e8/1000x1000-000000-80-0-0.jpg
+02-audiodb.jpg |  | https://r2.theaudiodb.com/images/media/artist/thumb/cher-4fd12b798ef84.jpg
+03-audiodb.jpg |  | https://r2.theaudiodb.com/images/media/artist/fanart/deckck1642064301.jpg
+04-audiodb.jpg |  | https://r2.theaudiodb.com/images/media/artist/fanart/qsqyqu1359097793.jpg
+05-audiodb.jpg |  | https://r2.theaudiodb.com/images/media/artist/fanart/tqutqw1359097831.jpg
+06-audiodb.jpg |  | https://r2.theaudiodb.com/images/media/artist/fanart/cher-514614655f23f.jpg
+07-audiodb.jpg |  | https://r2.theaudiodb.com/images/media/artist/widethumb/rxqrqy1518641748.jpg
+08-commons.jpg | File:Azay-sur-Cher - le Cher.jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Azay-sur-Cher_-_le_Cher.jpg/1280px-Azay-sur-Cher_-_le_Cher.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+09-commons.jpg | File:Castle of Selles-sur-Cher 25.jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Castle_of_Selles-sur-Cher_25.jpg/1280px-Castle_of_Selles-sur-Cher_25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+10-commons.jpg | File:Château du Préau (Nohant-en-Goût, Cher).jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Ch%C3%A2teau_du_Pr%C3%A9au_%28Nohant-en-Go%C3%BBt%2C_Cher%29.jpg/1280px-Ch%C3%A2teau_du_Pr%C3%A9au_%28Nohant-en-Go%C3%BBt%2C_Cher%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+11-commons.jpg | File:Mirage III (Saint-Amand-Montrond, Cher).jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Mirage_III_%28Saint-Amand-Montrond%2C_Cher%29.jpg/1280px-Mirage_III_%28Saint-Amand-Montrond%2C_Cher%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+12-commons.jpg | File:Bourges - Préfecture du Cher -013.jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Bourges_-_Pr%C3%A9fecture_du_Cher_-013.jpg/1280px-Bourges_-_Pr%C3%A9fecture_du_Cher_-013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+13-commons.jpg | File:Cher in 2019 cropped.jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Cher_in_2019_cropped.jpg/1280px-Cher_in_2019_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+14-commons.jpg | File:Cher in 2019 cropped 1.jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Cher_in_2019_cropped_1.jpg/1280px-Cher_in_2019_cropped_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+15-commons.jpg | File:Cher by Gage Skidmore.jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Cher_by_Gage_Skidmore.jpg/1280px-Cher_by_Gage_Skidmore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+16-commons.jpg | File:Cher (2021).jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Cher_%282021%29.jpg/1280px-Cher_%282021%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+17-commons.jpg | File:Cher - Casablanca.jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Cher_-_Casablanca.jpg/1280px-Cher_-_Casablanca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+18-commons.jpg | File:Cher - Casablanca (cropped).jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Cher_-_Casablanca_%28cropped%29.jpg/1280px-Cher_-_Casablanca_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+19-commons.jpg | File:Cher and Gregg Allman.jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Cher_and_Gregg_Allman.jpg/1280px-Cher_and_Gregg_Allman.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+20-commons.jpg | File:Cher TILAM3 D2K.jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Cher_TILAM3_D2K.jpg/1280px-Cher_TILAM3_D2K.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail

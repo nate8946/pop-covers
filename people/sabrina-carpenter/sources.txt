@@ -1,0 +1,3 @@
+1.jpg | deezer | https://cdn-images.dzcdn.net/images/artist/4a9cdc7737e2a0e59b4917b47884b859/1000x1000-000000-80-0-0.jpg
+2.jpg | audiodb:strArtistThumb | https://r2.theaudiodb.com/images/media/artist/thumb/97izsb1748116183.jpg
+3.jpg | audiodb:strArtistFanart | https://r2.theaudiodb.com/images/media/artist/fanart/kp6b5l1756807853.jpg

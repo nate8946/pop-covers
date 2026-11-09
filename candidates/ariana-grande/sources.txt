@@ -1,0 +1,16 @@
+01-deezer.jpg |  | https://cdn-images.dzcdn.net/images/artist/721d8fab84b315502de422b8d0901509/1000x1000-000000-80-0-0.jpg
+02-audiodb.jpg |  | https://www.theaudiodb.com/images/media/artist/thumb/lkgo9i1788017546.jpg
+03-audiodb.jpg |  | https://r2.theaudiodb.com/images/media/artist/fanart/a0in7g1770818240.jpg
+04-audiodb.jpg |  | https://r2.theaudiodb.com/images/media/artist/fanart/tjo9ue1770818262.jpg
+05-audiodb.jpg |  | https://r2.theaudiodb.com/images/media/artist/fanart/wpxrsp1532191011.jpg
+06-audiodb.jpg |  | https://r2.theaudiodb.com/images/media/artist/fanart/5mwzio1613565464.jpg
+07-audiodb.jpg |  | https://r2.theaudiodb.com/images/media/artist/widethumb/wrrstx1516969279.jpg
+08-commons.jpg | File:Ariana Grande - 33269922185.jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Ariana_Grande_-_33269922185.jpg/1280px-Ariana_Grande_-_33269922185.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+09-commons.jpg | File:Ariana Grande on the 2019 Sweetener World Tour.jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Ariana_Grande_on_the_2019_Sweetener_World_Tour.jpg/1280px-Ariana_Grande_on_the_2019_Sweetener_World_Tour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+10-commons.jpg | File:Ariana Grande (32426962484) (cropped).jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Ariana_Grande_%2832426962484%29_%28cropped%29.jpg/1280px-Ariana_Grande_%2832426962484%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+11-commons.jpg | File:Ariana Grande 11.jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Ariana_Grande_11.jpg/1280px-Ariana_Grande_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+12-commons.jpg | File:Ariana Grande 41.jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Ariana_Grande_41.jpg/1280px-Ariana_Grande_41.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+13-commons.jpg | File:Ariana Grande.jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Ariana_Grande.jpg/1280px-Ariana_Grande.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+14-commons.jpg | File:Ariana Grande by David Shankbone (cropped).jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Ariana_Grande_by_David_Shankbone_%28cropped%29.jpg/1280px-Ariana_Grande_by_David_Shankbone_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+15-commons.jpg | File:Ariana Grande & Nicki Minaj concert 2016 2.jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Ariana_Grande_%26_Nicki_Minaj_concert_2016_2.jpg/1280px-Ariana_Grande_%26_Nicki_Minaj_concert_2016_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+16-commons.jpg | File:Ariana Grande - God Is A Woman VMA 2018.jpg | https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Ariana_Grande_-_God_Is_A_Woman_VMA_2018.jpg/1280px-Ariana_Grande_-_God_Is_A_Woman_VMA_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
