@@ -1,0 +1,307 @@
+{
+ "01-spotify.jpg": {
+  "url": "https://image-cdn-ak.spotifycdn.com/image/ab67616100005174ad160b333f9a240f84aff7d7",
+  "note": "oembed",
+  "source": "spotify"
+ },
+ "02-deezer.jpg": {
+  "url": "https://cdn-images.dzcdn.net/images/artist/5eebb137c5f4d0eb8fb5f9227e1b6288/1000x1000-000000-80-0-0.jpg",
+  "note": "A$AP Rocky",
+  "source": "deezer"
+ },
+ "03-wikidata.jpg": {
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/A%24AP_Rocky_at_the_2025_Cannes_Film_Festival_%28cropped%29.jpg?width=1200",
+  "note": "A$AP Rocky at the 2025 Cannes Film Festival (cropped).jpg",
+  "source": "wikidata"
+ },
+ "04-commons.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Castillo_de_Sagunto%2C_Valencia%2C_Espa%C3%B1a%2C_2015-01-03%2C_DD_09-11_HDR.JPG/1280px-Castillo_de_Sagunto%2C_Valencia%2C_Espa%C3%B1a%2C_2015-01-03%2C_DD_09-11_HDR.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "note": "File:Castillo de Sagunto, Valencia, Espa\u00f1a, 2015-01-03, DD 09-11 HDR.JPG",
+  "source": "commons"
+ },
+ "05-commons.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/BP25_A%24AP.jpg/1280px-BP25_A%24AP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "note": "File:BP25 A$AP.jpg",
+  "source": "commons"
+ },
+ "06-commons.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/ASAP_Rocky_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "note": "File:ASAP Rocky 2013.jpg",
+  "source": "commons"
+ },
+ "07-commons.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/A%24AP_Rocky_UIT_2013_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "note": "File:A$AP Rocky UIT 2013 (cropped).jpg",
+  "source": "commons"
+ },
+ "08-commons.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/South_by_Southwest_2019_3_-_32409464027.jpg/1280px-South_by_Southwest_2019_3_-_32409464027.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "note": "File:South by Southwest 2019 3 - 32409464027.jpg",
+  "source": "commons"
+ },
+ "09-commons.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Pro_Era_Members_Nyck_Caution%2C_Kirk_Knight%2C_and_Joey_Bada%24%24_alongside_rapper_A%24AP_Rocky_at_the_Under_the_Influence_Tour_show_in_Toronto_Canada_%28August_10%2C_2013%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "note": "File:Pro Era Members Nyck Caution, Kirk Knight, and Joey Bada$$ alongside rapper A$AP Rocky at the Under the Influence Tour show in Toronto Canada (August 10, 2013).jpg",
+  "source": "commons"
+ },
+ "10-commons.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/A%24AP_Rocky_at_the_2025_Cannes_Film_Festival_%28cropped_3x4%29.jpg/1280px-A%24AP_Rocky_at_the_2025_Cannes_Film_Festival_%28cropped_3x4%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "note": "File:A$AP Rocky at the 2025 Cannes Film Festival (cropped 3x4).jpg",
+  "source": "commons"
+ },
+ "11-commons.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/ASAP_Rocky_Coachella_2012_2.jpg/1280px-ASAP_Rocky_Coachella_2012_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "note": "File:ASAP Rocky Coachella 2012 2.jpg",
+  "source": "commons"
+ },
+ "12-commons.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/A%24AP_Rocky_2013_August_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "note": "File:A$AP Rocky 2013 August 2.jpg",
+  "source": "commons"
+ },
+ "13-commons.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/A%24AP_Rocky_at_the_2025_Cannes_Film_Festival.jpg/1280px-A%24AP_Rocky_at_the_2025_Cannes_Film_Festival.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "note": "File:A$AP Rocky at the 2025 Cannes Film Festival.jpg",
+  "source": "commons"
+ },
+ "14-commons.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/ASAP_Rocky_2014_picture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "note": "File:ASAP Rocky 2014 picture.jpg",
+  "source": "commons"
+ },
+ "15-commons.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/ASAP_Rocky_%288575578050%29.jpg/1280px-ASAP_Rocky_%288575578050%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "note": "File:ASAP Rocky (8575578050).jpg",
+  "source": "commons"
+ },
+ "16-commons.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/A%24AP_Rocky_Released_from_Swedish_Jail.jpg/1280px-A%24AP_Rocky_Released_from_Swedish_Jail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "note": "File:A$AP Rocky Released from Swedish Jail.jpg",
+  "source": "commons"
+ },
+ "17-commons.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/A%24AP_Rocky_2013_August.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "note": "File:A$AP Rocky 2013 August.jpg",
+  "source": "commons"
+ },
+ "18-commons.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/ASAP_Rocky_Coachella_2012_3.jpg/1280px-ASAP_Rocky_Coachella_2012_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "note": "File:ASAP Rocky Coachella 2012 3.jpg",
+  "source": "commons"
+ },
+ "19-commons.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/A%24AP_Rocky_at_the_2025_Cannes_Film_Festival_%28cropped%29.jpg/1280px-A%24AP_Rocky_at_the_2025_Cannes_Film_Festival_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "note": "File:A$AP Rocky at the 2025 Cannes Film Festival (cropped).jpg",
+  "source": "commons"
+ },
+ "20-commons.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/South_by_Southwest_2019_1_-_46628270534.jpg/1280px-South_by_Southwest_2019_1_-_46628270534.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "note": "File:South by Southwest 2019 1 - 46628270534.jpg",
+  "source": "commons"
+ },
+ "21-commons.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/South_by_Southwest_2019_2_-_46628270334.jpg/1280px-South_by_Southwest_2019_2_-_46628270334.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "note": "File:South by Southwest 2019 2 - 46628270334.jpg",
+  "source": "commons"
+ },
+ "22-commons.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/ASAP_Rocky_Coachella_2012_2_%28cropped%29.jpg/1280px-ASAP_Rocky_Coachella_2012_2_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "note": "File:ASAP Rocky Coachella 2012 2 (cropped).jpg",
+  "source": "commons"
+ },
+ "23-commons.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/ASAP_Rocky_in_court_in_Sweden.jpg/1280px-ASAP_Rocky_in_court_in_Sweden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "note": "File:ASAP Rocky in court in Sweden.jpg",
+  "source": "commons"
+ },
+ "24-commons.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/A%24AP_Rocky_-_Under_the_Influence_Tour_2013_Toronto.jpg/1280px-A%24AP_Rocky_-_Under_the_Influence_Tour_2013_Toronto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "note": "File:A$AP Rocky - Under the Influence Tour 2013 Toronto.jpg",
+  "source": "commons"
+ },
+ "25-commons.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/A%24AP_Rocky_Coachella_2012_from_behind.jpg/1280px-A%24AP_Rocky_Coachella_2012_from_behind.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "note": "File:A$AP Rocky Coachella 2012 from behind.jpg",
+  "source": "commons"
+ },
+ "26-commons.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/South_by_Southwest_2019_3_-_32409464027_%28cropped%29.jpg/1280px-South_by_Southwest_2019_3_-_32409464027_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "note": "File:South by Southwest 2019 3 - 32409464027 (cropped).jpg",
+  "source": "commons"
+ },
+ "27-commons.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/ASAP_Rocky_in_court_in_Sweden-2.jpg/1280px-ASAP_Rocky_in_court_in_Sweden-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "note": "File:ASAP Rocky in court in Sweden-2.jpg",
+  "source": "commons"
+ },
+ "28-commons.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/ASAP_Rocky_Coachella_2012_1.jpg/1280px-ASAP_Rocky_Coachella_2012_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "note": "File:ASAP Rocky Coachella 2012 1.jpg",
+  "source": "commons"
+ },
+ "29-commons.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/A%24AP_Rocky_performing_at_Hovefestivalen_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "note": "File:A$AP Rocky performing at Hovefestivalen 2013.jpg",
+  "source": "commons"
+ },
+ "30-commons.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/A%24AP_Rocky_Released_from_Swedish_Jail-2.jpg/1280px-A%24AP_Rocky_Released_from_Swedish_Jail-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "note": "File:A$AP Rocky Released from Swedish Jail-2.jpg",
+  "source": "commons"
+ },
+ "31-commons.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/ASAP_Rocky_Coachella_2012_4.jpg/1280px-ASAP_Rocky_Coachella_2012_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "note": "File:ASAP Rocky Coachella 2012 4.jpg",
+  "source": "commons"
+ },
+ "32-commons.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/ASAP_Rocky_2013_December.jpg/1280px-ASAP_Rocky_2013_December.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "note": "File:ASAP Rocky 2013 December.jpg",
+  "source": "commons"
+ },
+ "33-commons.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/A%24AP_Rocky_-_where_it_all_began.jpg/1280px-A%24AP_Rocky_-_where_it_all_began.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "note": "File:A$AP Rocky - where it all began.jpg",
+  "source": "commons"
+ },
+ "34-commons.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/ASAP_Rocky_-_Can_you_see_him%3F_%288574478837%29.jpg/1280px-ASAP_Rocky_-_Can_you_see_him%3F_%288574478837%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "note": "File:ASAP Rocky - Can you see him? (8574478837).jpg",
+  "source": "commons"
+ },
+ "35-commons.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/ASAP_Rocky_Corona_Theatre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "note": "File:ASAP Rocky Corona Theatre.jpg",
+  "source": "commons"
+ },
+ "36-commons.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/ASAP_Rocky_in_court_in_Sweden-3.jpg/1280px-ASAP_Rocky_in_court_in_Sweden-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "note": "File:ASAP Rocky in court in Sweden-3.jpg",
+  "source": "commons"
+ },
+ "37-commons.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Don%27t_Be_Dumb_by_ASAP_Rocky.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "note": "File:Don't Be Dumb by ASAP Rocky.jpg",
+  "source": "commons"
+ },
+ "38-commons.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/South_by_Southwest_2019_2_-_46628270334_%28cropped%29_%28a%29.jpg/1280px-South_by_Southwest_2019_2_-_46628270334_%28cropped%29_%28a%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "note": "File:South by Southwest 2019 2 - 46628270334 (cropped) (a).jpg",
+  "source": "commons"
+ },
+ "39-commons.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/South_by_Southwest_2019_2_-_46628270334_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "note": "File:South by Southwest 2019 2 - 46628270334 (cropped).jpg",
+  "source": "commons"
+ },
+ "40-commons.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/South_by_Southwest_2019_4_-_46628270064.jpg/1280px-South_by_Southwest_2019_4_-_46628270064.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "note": "File:South by Southwest 2019 4 - 46628270064.jpg",
+  "source": "commons"
+ },
+ "41-wiki.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/A%24AP_Rocky_at_the_2025_Cannes_Film_Festival_%28cropped_3x4%29.jpg/1280px-A%24AP_Rocky_at_the_2025_Cannes_Film_Festival_%28cropped_3x4%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+  "note": "File:A$AP_Rocky_at_the_2025_Cannes_Film_Festival_(cropped_3x4).jpg",
+  "source": "wiki"
+ },
+ "42-wiki.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/ASAP_Rocky_Coachella_2012_1.jpg/1280px-ASAP_Rocky_Coachella_2012_1.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+  "note": "File:ASAP_Rocky_Coachella_2012_1.jpg",
+  "source": "wiki"
+ },
+ "43-wiki.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/ASAP_Rocky_2013.jpg/500px-ASAP_Rocky_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+  "note": "File:ASAP_Rocky_2013.jpg",
+  "source": "wiki"
+ },
+ "44-wiki.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/South_by_Southwest_2019_3_-_32409464027_%28cropped%29.jpg/1280px-South_by_Southwest_2019_3_-_32409464027_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+  "note": "File:South_by_Southwest_2019_3_-_32409464027_(cropped).jpg",
+  "source": "wiki"
+ },
+ "45-wiki.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/MaxH%C3%B6torget.jpg/1280px-MaxH%C3%B6torget.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+  "note": "File:MaxH\u00f6torget.jpg",
+  "source": "wiki"
+ },
+ "46-wiki.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/ApelbergsgatanStockholm.jpg/1280px-ApelbergsgatanStockholm.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+  "note": "File:ApelbergsgatanStockholm.jpg",
+  "source": "wiki"
+ },
+ "47-wiki.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/ASAP_Rocky_in_court_in_Sweden.jpg/1280px-ASAP_Rocky_in_court_in_Sweden.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+  "note": "File:ASAP_Rocky_in_court_in_Sweden.jpg",
+  "source": "wiki"
+ },
+ "48-wiki.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Don%27t_free_A%24AP_Rocky.jpg/1280px-Don%27t_free_A%24AP_Rocky.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+  "note": "File:Don't_free_A$AP_Rocky.jpg",
+  "source": "wiki"
+ },
+ "49-wiki.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/A%24AP_Rocky_at_the_2025_Cannes_Film_Festival_%28cropped%29.jpg/1280px-A%24AP_Rocky_at_the_2025_Cannes_Film_Festival_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+  "note": "Archivo:A$AP_Rocky_at_the_2025_Cannes_Film_Festival_(cropped).jpg",
+  "source": "wiki"
+ },
+ "50-wiki.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/ASAP_Rocky_Coachella_2012_3.jpg/1280px-ASAP_Rocky_Coachella_2012_3.jpg?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+  "note": "Archivo:ASAP_Rocky_Coachella_2012_3.jpg",
+  "source": "wiki"
+ },
+ "51-wiki.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/South_by_Southwest_2019_4_-_46628270064_%28cropped%29.jpg/500px-South_by_Southwest_2019_4_-_46628270064_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+  "note": "Ficheiro:South_by_Southwest_2019_4_-_46628270064_(cropped).jpg",
+  "source": "wiki"
+ },
+ "52-wiki.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/A%24AP_Rocky_2013_August.jpg/500px-A%24AP_Rocky_2013_August.jpg?utm_source=pt.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+  "note": "Ficheiro:A$AP_Rocky_2013_August.jpg",
+  "source": "wiki"
+ },
+ "53-wiki.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/A%24AP_Rocky_at_the_2025_Cannes_Film_Festival_%28cropped%29.jpg/1280px-A%24AP_Rocky_at_the_2025_Cannes_Film_Festival_%28cropped%29.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+  "note": "\ud30c\uc77c:A$AP_Rocky_at_the_2025_Cannes_Film_Festival_(cropped).jpg",
+  "source": "wiki"
+ },
+ "54-wiki.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/ASAP_Rocky_Coachella_2012_3.jpg/1280px-ASAP_Rocky_Coachella_2012_3.jpg?utm_source=ko.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+  "note": "\ud30c\uc77c:ASAP_Rocky_Coachella_2012_3.jpg",
+  "source": "wiki"
+ },
+ "55-wiki.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/A%24AP_Rocky_at_the_2025_Cannes_Film_Festival_%28cropped%29.jpg/1280px-A%24AP_Rocky_at_the_2025_Cannes_Film_Festival_%28cropped%29.jpg?utm_source=de.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+  "note": "Datei:A$AP_Rocky_at_the_2025_Cannes_Film_Festival_(cropped).jpg",
+  "source": "wiki"
+ },
+ "56-wiki.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/ASAP_Rocky_Coachella_2012_1.jpg/1280px-ASAP_Rocky_Coachella_2012_1.jpg?utm_source=de.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+  "note": "Datei:ASAP_Rocky_Coachella_2012_1.jpg",
+  "source": "wiki"
+ },
+ "57-wiki.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/ASAP_Rocky_in_court_in_Sweden.jpg/1280px-ASAP_Rocky_in_court_in_Sweden.jpg?utm_source=de.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+  "note": "Datei:ASAP_Rocky_in_court_in_Sweden.jpg",
+  "source": "wiki"
+ },
+ "58-wiki.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/A%24AP_Rocky_at_the_2025_Cannes_Film_Festival_%28cropped%29.jpg/1280px-A%24AP_Rocky_at_the_2025_Cannes_Film_Festival_%28cropped%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+  "note": "Fichier:A$AP_Rocky_at_the_2025_Cannes_Film_Festival_(cropped).jpg",
+  "source": "wiki"
+ },
+ "59-wiki.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/ASAP_Rocky_Corona_Theatre_%28cropped%29.jpg/500px-ASAP_Rocky_Corona_Theatre_%28cropped%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+  "note": "Fichier:ASAP_Rocky_Corona_Theatre_(cropped).jpg",
+  "source": "wiki"
+ },
+ "60-wiki.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/A%24AP_Rocky_performing_at_Hovefestivalen_2013.jpg/500px-A%24AP_Rocky_performing_at_Hovefestivalen_2013.jpg?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+  "note": "Fichier:A$AP_Rocky_performing_at_Hovefestivalen_2013.jpg",
+  "source": "wiki"
+ },
+ "61-wiki.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Don%27t_free_A%24AP_Rocky.jpg/1280px-Don%27t_free_A%24AP_Rocky.jpg?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+  "note": "Fichier:Don't_free_A$AP_Rocky.jpg",
+  "source": "wiki"
+ }
+}
